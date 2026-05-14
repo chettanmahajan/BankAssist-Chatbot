@@ -1,0 +1,35 @@
+[Unit]
+Description=Banking Chatbot Backend (FastAPI)
+After=network.target redis-server.service
+Wants=redis-server.service
+
+[Service]
+Type=simple
+User=ubuntu
+Group=ubuntu
+WorkingDirectory=/home/ubuntu/banking-chatbot
+EnvironmentFile=/home/ubuntu/banking-chatbot/backend/.env
+Environment=PYTHONUNBUFFERED=1
+Environment=OMP_NUM_THREADS=1
+Environment=TOKENIZERS_PARALLELISM=false
+
+ExecStart=/home/ubuntu/banking-chatbot/venv/bin/uvicorn backend.app:app \
+    --host 127.0.0.1 \
+    --port 8000 \
+    --workers 1 \
+    --timeout-keep-alive 75
+
+# Warm up the model after start so first request isn't a cold-start
+ExecStartPost=/bin/sh -c 'sleep 30 && /usr/bin/curl -fsS http://127.0.0.1:8000/health || true'
+
+Restart=always
+RestartSec=5
+StandardOutput=append:/home/ubuntu/banking-chatbot/logs/backend.log
+StandardError=append:/home/ubuntu/banking-chatbot/logs/backend.log
+
+# Memory hygiene on t2.micro
+MemoryMax=850M
+MemoryHigh=750M
+
+[Install]
+WantedBy=multi-user.target

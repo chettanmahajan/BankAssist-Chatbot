@@ -1,0 +1,207 @@
+CURRENT ACCOUNT — FEATURES, CHARGES, AND USAGE
+
+OVERVIEW
+A current account is a non-interest bearing demand deposit account designed for businesses, traders, professionals, firms, and high-volume individual transactors. Unlike a savings account, a current account has no restriction on the number or amount of withdrawals, supports unlimited cheque issuance, and is built for frequent business transactions. Banks offer current accounts with varying features and charges suited to business size and turnover. Rates and figures are indicative; rates may change, verify with bank.
+
+KEY DIFFERENCES — CURRENT vs. SAVINGS ACCOUNT
+| Feature | Current Account | Savings Account |
+|---|---|---|
+| Interest | None (zero) | 2.7%-7%+ p.a. |
+| For | Businesses, professionals | Individuals, HUF |
+| Minimum balance | ₹5,000-₹5 lakh | ₹0-₹10,000 |
+| Transactions | Unlimited | Some restrictions on app/digital limits, free counts |
+| Overdraft | Yes (subject to approval) | Limited via OD-on-savings products |
+| Cheque book | Liberal supply (often hundreds free) | Limited (25-50 free) |
+| Cash deposit free limits | Higher | Lower |
+| Statement | Monthly mandatory | On request |
+
+WHO SHOULD OPEN A CURRENT ACCOUNT
+- Proprietors with business in their personal name
+- Partnership firms (registered/unregistered)
+- Limited Liability Partnerships (LLP)
+- Private Limited and Public Limited Companies
+- Hindu Undivided Family (HUF) with business
+- Trusts, societies, clubs, NGOs
+- Professionals (doctors, CAs, lawyers, architects, consultants) with significant transaction volume
+- Traders with daily inventory and receivables turnover
+- Government departments, statutory bodies
+
+For salaried individuals or small-scale personal banking, a savings account is more suitable (since current accounts pay no interest).
+
+DOCUMENTS REQUIRED FOR OPENING
+
+For Proprietorship:
+- Aadhaar + PAN of proprietor
+- 2 documents proving business existence:
+  - GST registration
+  - Shop & Establishment Act licence
+  - Udyam Registration
+  - Income tax return (showing business income)
+  - CST/Sales Tax/VAT registration
+  - Importer Exporter Code (IEC)
+  - Professional tax certificate
+  - SSI/MSME certificate
+  - Utility bill in business name (electricity/telephone)
+- Business address proof
+- Photograph and signature
+
+For Partnership Firm:
+- Partnership deed
+- PAN of firm and all partners
+- KYC documents of all partners
+- Registration certificate (if registered)
+- Authority letter to operate the account
+
+For Private Limited / Public Limited Company:
+- Certificate of Incorporation
+- Memorandum and Articles of Association (MOA & AOA)
+- PAN of the company
+- Board resolution for opening account and authorising operators
+- KYC of authorised signatories and Directors
+- Address proof of registered office
+
+For LLP:
+- Certificate of incorporation
+- LLP agreement
+- PAN of LLP
+- KYC of partners
+- Designated partner identification number (DPIN)
+
+For Trusts and Societies:
+- Trust deed / society registration certificate
+- PAN
+- Resolution for account opening
+- KYC of trustees/office bearers
+
+For HUF:
+- HUF PAN
+- Karta's KYC
+- Declaration of HUF by Karta on stamp paper
+
+MINIMUM BALANCE / AMB REQUIREMENT
+Current accounts typically require higher AMB than savings:
+- Regular current account (PSU): ₹5,000-₹10,000
+- Regular current account (private): ₹10,000-₹25,000
+- Premium current account: ₹25,000-₹1 lakh
+- Gold/Diamond/Platinum variants: ₹1 lakh-₹10 lakh AMB
+- Trader/Merchant variants with high-volume cash deposits: Tiered
+
+Higher AMB unlocks more free cash deposit/withdrawal limits and waivers. Failure to maintain AMB attracts penalty (₹500-₹6,000 per month based on shortfall).
+
+NO INTEREST — RBI MANDATE
+Per RBI directive, current account balances earn zero interest. This is because current accounts are used for high-velocity transactions and the bank cannot deploy these funds in stable loans like savings deposits. To partially compensate, large depositors should use sweep facilities (auto-FD on excess balance).
+
+SWEEP / FLEXI ACCOUNT
+Many banks offer sweep current accounts where:
+- Threshold above which excess is auto-moved to a linked FD or TD
+- Earns interest at FD rate (6.5%-7.5%)
+- When the current account balance falls below another threshold, FD is auto-broken in units to fund transactions (reverse sweep)
+- Useful for businesses with large idle balances
+
+CASH DEPOSIT AND WITHDRAWAL LIMITS
+Current accounts have generous but tiered free limits:
+- Free cash deposit: 12 lakh-50 lakh per month (varies by AMB tier and bank)
+- Beyond free limit: ₹1-₹3 per ₹1,000 deposited + GST
+- Free cash withdrawal: Per cheque, often ₹50,000-₹2 lakh per day at home branch; ₹25,000 at non-home branch
+- Bulk cash handling charges may apply on amounts above ₹1 lakh
+
+NEFT, RTGS, IMPS, AND DIGITAL TRANSFERS
+- NEFT and RTGS via net banking / mobile banking: FREE since RBI mandate Jan 2020
+- IMPS: ₹2.50-₹15 based on amount slab
+- UPI for current accounts: Generally free; supported by all current accounts (sole proprietors can use UPI just like savings)
+
+CHEQUE BOOK
+- Free cheque leaves: 100-500 per year, depending on AMB tier
+- Beyond free: ₹2-₹5 per leaf + GST
+- Multi-city cheques (MCC) clear at par in any branch
+- Local cheque clearing through cheque truncation system (CTS) on T+1 basis
+- Outstation cheque clearing: T+2 to T+4 days
+- Cheque return (technical/financial): ₹150-₹500 per return + GST
+
+OVERDRAFT FACILITY (OD)
+Banks offer overdraft against current accounts to manage working capital gaps:
+- Secured OD: Against FD, property, securities — lower rates (8%-12%)
+- Unsecured OD: For premium customers based on banking behaviour and credit score — rates 12%-18%
+- Drop-line OD: Sanctioned limit reduces monthly as you repay
+- Cash Credit (CC) facility on hypothecation of inventory and debtors — most common for traders/MSMEs
+- Interest charged daily on amount drawn; renewed annually after review
+
+TRANSACTIONS UNIQUE TO CURRENT ACCOUNTS
+- Letters of Credit (LC): For import/export
+- Bank Guarantees (BG): For tender bids, performance assurance
+- Trade Finance: Bill discounting, export credit, packing credit
+- Forex: Inward and outward remittance, foreign currency conversion
+- Demand drafts (DD) and Pay Orders (PO): For payment to non-account holders
+- Statutory payments: TDS, GST, advance tax via the account
+
+CHARGES — COMMON
+- Account opening: Generally free
+- AMB non-maintenance: ₹500-₹6,000/month
+- Account closure within 14 days: Free
+- Account closure 14 days to 12 months: ₹500-₹1,000
+- Account closure after 12 months: Free in many banks
+- Duplicate statement (more than 3 months old): ₹100-₹300
+- Stop payment instruction: ₹100-₹300 per cheque
+- Signature verification: ₹100-₹200
+- Standing instruction setup: Free
+- Standing instruction failure: ₹100-₹250
+- Cheque book reorder (beyond free): ₹2-₹5 per leaf + GST
+- DD issuance (counter): ₹50-₹500 by amount; online cheaper
+- DD cancellation: ₹50-₹100
+
+ZERO BALANCE / DIGITAL CURRENT ACCOUNTS
+Some banks now offer zero-balance digital current accounts for small businesses and proprietors:
+- ICICI iStartup
+- HDFC SmartUp
+- Kotak Neo Business
+- Axis OneClick
+- Yes Bank ZBC
+Designed for startups and small proprietors with limited initial transaction volume.
+
+TYPES OF CURRENT ACCOUNTS BY BANK STRATEGY
+
+1. Regular Current Account: For small businesses, low AMB
+
+2. Premium Current Account: Higher AMB (₹50,000-₹2 lakh), better limits, complementary debit card
+
+3. Gold / Diamond / Platinum Current Account: AMB ₹2-10 lakh, premium features, dedicated RM
+
+4. Trade/Forex Current Account: For export/import businesses, with forex management
+
+5. Merchant Current Account: For retailers with PoS/UPI Acceptance; bundled with merchant payment gateway
+
+6. Escrow Account: Special accounts for transactions held in trust between two parties (real estate, M&A)
+
+CURRENT ACCOUNT — NEW RBI GUIDELINES (2020)
+RBI mandated stricter discipline:
+- A borrower with credit facilities of ₹5 crore+ cannot have current accounts with banks other than its lender
+- For exposures below ₹5 crore, current accounts are permitted at any bank
+- Aim: prevent diversion of funds across accounts at multiple banks
+Banks may also seek "No Objection" from primary lender bank for current accounts of large borrowers.
+
+TAX IMPLICATIONS
+- No TDS on current account (no interest earned)
+- Cash deposits/withdrawals above ₹50 lakh in a financial year may trigger Section 285BA reporting (Statement of Financial Transactions)
+- Cash deposits of ₹2 lakh+ in a single day → require PAN quote per Section 269ST
+- Cash payments above ₹10,000 (₹35,000 for transport) are disallowed as business expense under Section 40A(3)
+- Section 269SS / 269T: Loans and deposits above ₹20,000 to/from third parties must be by cheque/electronic mode
+
+MERCHANT ACCEPTANCE INFRASTRUCTURE
+Current accounts can be linked with:
+- POS machines (card swipe terminals): ₹400-₹1,500 setup + monthly rental ₹300-₹500
+- QR codes (UPI / BharatQR): Free, instant credit to account
+- Payment gateways: For online commerce, MDR 0.4%-2.5% based on transaction type
+- BBPS (Bharat Bill Payment System) for receiving customer bill payments
+
+TIPS FOR BUSINESSES
+1. Choose bank based on branch proximity, digital app, and trade finance capability
+2. Keep AMB above the slab — avoid penalties
+3. Use sweep facility to earn on idle balance
+4. Maintain proper books for GST and ITR compliance
+5. Reconcile bank statements monthly
+6. Set up dual approval for high-value transactions
+7. Issue cheques carefully — track usage; report lost cheques immediately
+8. Use UPI for small B2B payments — instant credit and free
+9. Don't mix personal and business transactions; keep separate accounts
+
+Rates may change, verify with bank — refer to your bank's Schedule of Charges for the latest fee structure.

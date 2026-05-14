@@ -1,0 +1,332 @@
+NRI ACCOUNTS — NRE, NRO, FCNR(B), DIFFERENCES, TAXATION
+
+OVERVIEW
+Non-Resident Indians (NRIs), Persons of Indian Origin (PIOs), and Overseas Citizens of India (OCIs) cannot maintain regular savings/current accounts in India under FEMA (Foreign Exchange Management Act, 1999). They must use specialised NRI accounts. These accounts are designed to:
+- Receive foreign income / remittance from abroad
+- Manage Indian income (rent, dividends, pension)
+- Invest in India
+- Send money home and back abroad
+
+The Reserve Bank of India (RBI) regulates NRI accounts under FEMA and various Master Directions. The three primary NRI account types are NRE, NRO, and FCNR(B). All figures are indicative; rates may change, verify with bank.
+
+WHO IS AN NRI?
+Defined under FEMA based on residency status (not citizenship):
+- Indian citizens residing abroad for employment, business, or any other purpose indicating an indefinite period of stay
+- Indian citizens on Indian government / UN deputation outside India
+- Students pursuing higher studies abroad (subject to specific provisions)
+
+Definition under Income Tax Act is slightly different (based on days of stay in India during a financial year — typically less than 182 days qualifies as non-resident).
+
+DOCUMENTS TO ESTABLISH NRI STATUS:
+- Valid passport (with all relevant pages)
+- Valid work permit, employment visa, residence permit, business visa
+- For PIO/OCI: PIO card or OCI card + foreign passport
+- Overseas address proof (utility bill, residence permit, lease agreement)
+- Indian address proof (optional but recommended)
+- PAN or Form 60
+- Photographs
+
+NRE ACCOUNT — NON-RESIDENT EXTERNAL (RUPEE) ACCOUNT
+
+Currency: Indian Rupees (INR)
+
+Purpose: To park foreign earnings / income earned outside India, converted to INR
+
+Operation:
+- Can be Savings, Current, or Term Deposit (FD)
+- Joint operation: Allowed with another NRI (Either or Survivor / Anyone or Survivor)
+- Joint with Resident Indian: Allowed since RBI relaxation 2011 (former-or-survivor basis)
+
+Source of Funds:
+- Inward remittance from abroad (foreign currency converted to INR at the bank)
+- Transfer from another NRE / FCNR account
+- Income earned abroad (salary, business, dividends from foreign sources)
+- Cannot deposit:
+  - Indian income (must go to NRO)
+  - Cash deposits in India (unless personal cheques from own NRO drawn out)
+  - Local Indian transactions credited
+
+Repatriation:
+- Principal and interest FULLY repatriable (can be transferred back abroad in foreign currency)
+- No upper limit
+- Useful for those expecting to need funds outside India
+
+Tax Treatment:
+- Interest earned: FULLY TAX-FREE in India
+- TDS: Not deducted
+- Income from NRE deposits is exempt under Section 10(4)(ii) of Income Tax Act for NRIs
+
+Interest Rates (FY 2024-25 indicative):
+- NRE Savings: 2.7%-4% p.a. (varies by bank)
+- NRE FD (1-3 year): 6.6%-7.25%
+- NRE FD (3-5 year): 6.5%-7.0%
+- Rates similar to resident savings/FD; sometimes slightly lower due to repatriability premium
+
+Card / Banking Features:
+- ATM/Debit card available, can be used internationally
+- Net banking and mobile banking
+- Cheque book
+- Standing instructions
+
+Conversion on Return:
+- When account holder returns to India for permanent settlement, NRE account is re-designated as Resident savings account
+- Interest from re-designation onwards becomes taxable
+
+NRO ACCOUNT — NON-RESIDENT ORDINARY (RUPEE) ACCOUNT
+
+Currency: Indian Rupees (INR)
+
+Purpose: To manage Indian-source income while abroad
+
+Operation:
+- Savings, Current, or Fixed Deposit
+- Joint with another NRI or Resident Indian: Allowed
+- When NRI status begins, the existing resident savings account is mandatorily re-designated as NRO
+
+Source of Funds:
+- Indian-source income: Rent, dividends, interest, pension, capital gains, share of profit from Indian businesses
+- Cash deposits from Indian sources
+- Inward remittance from abroad (also permitted, though usually goes to NRE for tax-free interest)
+- Transfer from NRO of self or close relative (with specifications)
+
+Repatriation:
+- Limited to USD 1 million per financial year (April-March) — after applicable taxes
+- Both current income and capital gains can be remitted within this limit
+- Requires Form 15CA and 15CB (CA certification for tax compliance) for remittances
+
+Tax Treatment:
+- Interest earned: Fully taxable as per Indian slab rates
+- TDS: Deducted at 30% (plus surcharge and cess) — even on small amounts
+- Tax-free threshold and slabs apply at filing; refund possible if TDS exceeds tax liability
+- DTAA (Double Taxation Avoidance Agreement): If beneficial, lower rate (typically 10%-15% for interest) applies on submission of TRC (Tax Residency Certificate) and Form 10F
+
+Interest Rates (FY 2024-25 indicative):
+- NRO Savings: 2.7%-4% p.a.
+- NRO FD: Similar to NRE FD
+
+Card / Banking Features:
+- Debit card, net banking, cheque book
+- Card can be used in India and abroad
+
+When to Use NRO:
+- Receiving rent from Indian property
+- Dividends from Indian shares
+- Pension from Indian employer
+- Sale proceeds of Indian property
+- Income from any Indian business
+
+When NRI returns:
+- NRO is re-designated as resident savings account
+- Tax treatment becomes resident-applicable
+
+FCNR(B) — FOREIGN CURRENCY NON-RESIDENT (BANK) ACCOUNT
+
+Currency: Major foreign currencies — USD, GBP, EUR, JPY, CAD, AUD, SGD, HKD, CHF (depends on bank)
+
+Purpose: Term deposit in foreign currency to protect against rupee depreciation
+
+Operation:
+- Only Term Deposit (no savings or current)
+- Minimum tenure: 1 year
+- Maximum tenure: 5 years (some banks allow longer)
+- Single or joint with another NRI
+
+Source of Funds:
+- Inward remittance from abroad in foreign currency
+- Transfer from existing FCNR / NRE
+- Cannot fund from NRO
+
+Repatriation:
+- Principal and interest FULLY repatriable
+- Useful for those wanting to retain foreign currency assets
+
+Tax Treatment:
+- Interest: FULLY TAX-FREE in India (Section 10(15)(iv)(fa))
+- TDS: Not deducted
+- Excellent for tax-conscious NRIs
+
+Interest Rates (FY 2024-25 indicative, varies by currency and tenure):
+- USD: 5.0%-5.7% for 1-3 year FCNR (FY24-25 indicative — varies with LIBOR/SOFR replacements and bank policy)
+- GBP: 4.5%-5.5%
+- EUR: 3.5%-4.5%
+- JPY: 0%-1%
+- AUD: 4.5%-5.5%
+- CAD: 4.0%-5.0%
+
+Rates change with international interest rate environment.
+
+Premature Withdrawal:
+- Allowed but no interest paid if withdrawn within 12 months (FCNR rule)
+- After 12 months: Interest at applicable rate minus penalty
+
+Risk Factors:
+- Currency conversion at maturity (if repatriating to country with different currency)
+- LIBOR replacement (now SOFR for USD) volatility
+
+WHEN TO USE WHICH ACCOUNT — DECISION FRAMEWORK
+
+Use NRE when:
+- You earn abroad and want to invest in India
+- Need full repatriability
+- Want tax-free interest
+- Will primarily use funds in India (INR-denominated)
+
+Use NRO when:
+- You have ongoing Indian-source income (rent, dividends, pension)
+- Need to receive payments in India
+- Want to manage existing Indian financial commitments
+
+Use FCNR when:
+- You earn abroad and want to retain foreign currency exposure
+- Need protection against INR depreciation
+- Want tax-free interest
+- Have a 1-5 year horizon for funds before repatriation
+
+Many NRIs maintain all three:
+- NRE for foreign earnings → INR investment in India
+- NRO for Indian income management
+- FCNR for foreign currency time deposits
+
+COMPARISON TABLE — NRE vs NRO vs FCNR(B)
+
+| Feature | NRE | NRO | FCNR(B) |
+|---|---|---|---|
+| Currency | INR | INR | Foreign (USD, GBP, EUR, etc.) |
+| Source of funds | Abroad income | Indian income | Abroad income |
+| Repatriation | Full | Up to USD 1M/year | Full |
+| Tax on interest | Tax-free | Taxable, 30% TDS | Tax-free |
+| Account types | Savings, Current, FD | Savings, Current, FD | FD only |
+| Joint with Resident | Yes (former or survivor) | Yes | No |
+| Minimum tenure (FD) | 1 year typically | 7 days | 1 year |
+
+ACCOUNT OPENING — STEP BY STEP
+
+For NRIs already abroad:
+1. Choose bank with strong NRI offering (SBI, HDFC, ICICI, Axis, BoB, Kotak, Yes, Federal Bank, IDBI, IDFC FIRST)
+2. Download account opening form from bank's website
+3. Fill and self-attest
+4. Get documents attested by:
+   - Indian Embassy / Consulate, OR
+   - Notary Public abroad, OR
+   - Banker abroad (with banker's stamp), OR
+   - Indian Banker (if you visit branch during India trip)
+5. Submit by courier or in person at branch on next India visit
+6. Open via Video KYC — some banks (HDFC, ICICI, Axis, SBI) now support
+7. Initial funding via inward remittance
+
+Time: 7-15 working days at branch; faster with V-KYC.
+
+For NRIs visiting India:
+1. Walk in to any branch with original passport, visa, address proof
+2. Fill AOF
+3. Open account same day; usually active within 24 hours
+4. Inward remittance to fund account
+
+DEBIT CARDS AND BANKING FEATURES
+- Free international debit card (typically Visa Platinum / RuPay Global)
+- Tap-to-pay, contactless
+- Withdrawal at international ATMs (with forex markup)
+- POS purchases internationally
+- Net banking and mobile banking full-featured
+- Cheque book on request
+- Locker facility
+
+INVESTMENTS PERMITTED FOR NRIs
+
+Permitted:
+- Equity shares (PIS — Portfolio Investment Scheme, regulated by RBI)
+- Mutual funds (subject to AMC's NRI acceptance)
+- Bonds, NCDs (Non-Convertible Debentures)
+- Bank FDs (NRE/NRO/FCNR)
+- Government securities (G-Sec)
+- Real estate (residential / commercial — not agricultural/farmhouse land/plantation)
+- Sovereign Gold Bonds (SGB)
+- NPS (National Pension System)
+
+Not Permitted:
+- Agricultural land, farmhouse, plantation property
+- PPF (existing PPF before NRI status can continue; no fresh PPF)
+- Post Office Schemes (except some — check current rules)
+- Senior Citizen Savings Scheme (SCSS)
+
+CAPITAL GAINS TAX FOR NRIs
+
+Equity Mutual Funds / Stocks:
+- STCG (held < 12 months): 20% (raised in Budget 2024)
+- LTCG (held > 12 months): 12.5% on gains exceeding ₹1.25 lakh
+
+Debt Mutual Funds (purchased after April 2023): Slab rate
+
+Property:
+- STCG (held < 24 months): Slab rate (often 30%+ for high-income NRIs)
+- LTCG (held > 24 months): 20% with indexation (or 12.5% without indexation, per Budget 2024 amendment — NRIs can choose either method)
+- TDS on property sale: 20% LTCG, 30% STCG (plus surcharge/cess) deducted by buyer; refund possible if tax liability is lower
+- LTCG exemption under Section 54 (reinvest in property) or 54F (other capital asset) or 54EC (bonds) available to NRIs
+
+DTAA (DOUBLE TAXATION AVOIDANCE AGREEMENT)
+India has DTAA with 80+ countries (USA, UK, UAE, Singapore, Australia, Canada, Saudi Arabia, etc.). Benefits:
+- Tax credit in country of residence for tax paid in India
+- Reduced TDS rates on certain incomes (interest, royalty, fees for technical services)
+- Avoidance of double taxation
+- Submit TRC (Tax Residency Certificate from foreign country) + Form 10F + self-declaration to claim DTAA benefits with Indian bank/payer
+
+INWARD REMITTANCE TO INDIA — METHODS
+1. Wire transfer (SWIFT): Most common, 1-3 days, fee USD 10-50 from foreign bank + recipient bank
+2. Online remittance services: Wise, Remitly, Western Union, MoneyGram, Xoom — competitive rates and lower fees
+3. RBI-approved Money Transfer Operators (MTOs)
+4. Foreign currency demand draft sent to Indian bank
+5. Bank-specific remittance platforms: SBI ExpressRemit, HDFC RemitNow, ICICI Money2India, Axis RemitMoney, Kotak Click2Remit
+6. Net banking from foreign bank account to NRE/NRO of Indian bank
+
+OUTWARD REMITTANCE FROM INDIA (FOR NRI)
+- From NRE: No limit, freely repatriable
+- From NRO: USD 1 million per FY (April-March), after tax clearance
+- Form 15CA + 15CB (CA certificate) required for outward remittance from NRO (some exceptions for amount thresholds)
+
+KYC RE-VERIFICATION ON RESIDENCY CHANGE
+- When NRI returns to India permanently:
+  - NRE / NRO → Resident savings account (re-designation)
+  - FCNR can continue till maturity, then either repatriate or convert to RFC (Resident Foreign Currency)
+- Inform bank within reasonable time
+- Tax treatment changes accordingly
+
+RFC ACCOUNT — RESIDENT FOREIGN CURRENCY
+- For returning Indians (who were NRIs for at least 1 year)
+- Maintain foreign currency in India
+- Useful during transition period
+- Interest tax-treatment depends on residency status
+
+PIO / OCI BANKING
+PIO (Persons of Indian Origin) and OCI (Overseas Citizens of India) cards holders are treated as NRIs for banking purposes (FEMA definition). Same account types apply.
+
+NRI MUTUAL FUND INVESTMENT
+- USD-based NRIs (US, Canada): Restricted access to MF due to FATCA reporting; only select AMCs (e.g., L&T, ICICI, Mirae, Sundaram, Aditya Birla) accept
+- Other NRIs: Most AMCs accept
+- KYC required (NRI status)
+- Repatriable / Non-repatriable basis (depends on source — NRE for repatriable, NRO for non-repatriable)
+
+KEY ADVANTAGES OF NRI ACCOUNTS
+1. Access to India's banking infrastructure
+2. Tax-free interest on NRE / FCNR
+3. Foreign currency hedge via FCNR
+4. Smooth Indian income management via NRO
+5. Investment in India (equity, MF, FD, property)
+6. Repatriation flexibility
+
+COMMON MISTAKES BY NRIs
+1. Not converting savings account to NRO on becoming NRI (technical FEMA violation)
+2. Depositing Indian income to NRE (not allowed)
+3. Not submitting Form 15CA/CB for outward remittance
+4. Not claiming DTAA benefits (paying more tax than required)
+5. Ignoring tax filing in India for NRO interest
+6. Not nominating a relative for NRI accounts
+7. Letting NRE FDs auto-renew at lower rates without comparison
+8. Not informing bank when returning to India
+
+DOORSTEP BANKING FOR NRIs
+- Document collection during India visits
+- Video KYC for new accounts
+- Digital signing of documents
+- Email / chat-based support
+
+For specific bank's NRI offerings and detailed terms, refer to the bank's NRI banking page. Rates and rules may change, verify with bank / RBI.

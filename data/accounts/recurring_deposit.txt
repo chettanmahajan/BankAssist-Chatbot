@@ -1,0 +1,192 @@
+RECURRING DEPOSIT (RD) — GUIDE FOR SYSTEMATIC SAVERS
+
+OVERVIEW
+A Recurring Deposit (RD) is a savings instrument where the depositor invests a fixed monthly amount for a fixed tenure with a bank or post office, earning interest similar to a Fixed Deposit (FD) on the cumulative balance. RDs are ideal for salaried individuals, students, homemakers, and anyone looking to inculcate a savings habit and build a corpus over time without large lump-sum capital. They are safe (DICGC-insured up to ₹5 lakh for banks), provide assured returns, and require minimal documentation. Major RD providers include all scheduled commercial banks, small finance banks, and India Post. Rates and figures are indicative; rates may change, verify with bank.
+
+HOW AN RD WORKS
+- Open an RD by choosing monthly installment (e.g., ₹1,000) and tenure (e.g., 36 months)
+- Bank auto-debits this amount from your linked savings account every month
+- Each installment earns interest compounded quarterly at a rate fixed at RD opening
+- On maturity, you receive principal × number of installments + accumulated interest
+- The rate is locked for the entire RD tenure even if market rates change
+
+INTEREST RATES (FY 2024-25 INDICATIVE)
+RD interest rates mirror FD rates for the corresponding tenure:
+
+Public Sector Banks (SBI, BoB, PNB):
+- 6 months-1 year: 5.5%-6.5%
+- 1-2 years: 6.5%-7.10%
+- 2-3 years: 7.0%-7.25%
+- 3-5 years: 6.75%-7.0%
+- 5-10 years: 6.5%-6.75%
+
+Private Banks (HDFC, ICICI, Axis):
+- 1-3 years: 6.6%-7.25%
+- 3-5 years: 7.0%-7.10%
+
+Small Finance Banks: 7.5%-8.50% (Higher because they pay more on FDs)
+
+Senior Citizens: +0.25%-0.75% over regular rates.
+
+India Post Office RD:
+- Currently 6.7% p.a. (subject to quarterly revision)
+- Tenure: 5 years (extendable in blocks of 5 years up to 15 years)
+- Compounded quarterly
+- Available across post offices nationwide
+
+Rates may change, verify with bank.
+
+TENURE
+- Minimum: 6 months
+- Maximum: 10 years (bank RD); 5+5+5 = 15 years (post office RD)
+- Standard tenures: 6, 9, 12, 24, 36, 60, 84, 120 months
+- Some banks allow tenure in months from 6 to 120
+
+MINIMUM AND MAXIMUM INSTALLMENT
+- Minimum: ₹100 per month (post office); ₹500 per month (most banks); ₹50 (some banks with rural focus)
+- Maximum: No upper limit; common range ₹1,000-₹50,000 per month
+- Installments are in multiples of ₹10/₹100
+
+WHO SHOULD OPEN AN RD
+- Salaried persons looking to save consistently
+- Students and youth learning to save
+- Parents saving for a child's specific future expense (admission fee, marriage, equipment)
+- Goal-based savers (vacation, car down payment, electronics)
+- Senior citizens who want monthly contribution rather than lump-sum FD
+- People hesitant to commit large amounts upfront
+- Anyone disciplined about monthly cash flow
+
+OPENING AN RD
+1. Existing customer: Open via mobile app or net banking in 2 minutes (e-KYC, no paperwork)
+2. New customer: Open savings account first (online or branch), then RD
+3. Provide:
+   - Tenure
+   - Monthly installment amount
+   - Auto-debit date (1st, 5th, 10th of month commonly)
+   - Linked savings account
+4. Receive RD account number and receipt
+5. First installment debited immediately or on next due date
+
+MATURITY CALCULATION
+RD maturity formula:
+M = R × [(1+i)^n − 1] / (1 − (1+i)^(−1/3))
+Where R = monthly installment, i = quarterly interest rate (annual rate ÷ 4 ÷ 100), n = number of quarters
+
+Simplified example: ₹5,000 per month for 5 years (60 months) at 7% p.a.:
+Total deposits = ₹3,00,000
+Maturity value ≈ ₹3,59,000
+Interest earned ≈ ₹59,000
+
+Most banks offer online RD calculators for accurate projections.
+
+INTEREST PAYMENT
+- Compounded quarterly (most banks)
+- Paid out only at maturity, with principal (cumulative model)
+- Some banks now offer "RD with monthly interest payout" but this is uncommon
+
+TAXATION
+- Interest is fully taxable as "Income from Other Sources" at depositor's slab rate
+- TDS:
+  - Banks: ₹40,000 threshold per FY (₹50,000 for senior citizens); rate 10% with PAN, 20% without
+  - Post Office RD: Earlier TDS-exempt; per Budget 2023 amendments, TDS applies similar to bank deposits in some cases — check current rules
+- Submit Form 15G/15H if eligible to avoid TDS
+- Section 80C deduction: NOT applicable for regular RDs (only 5-year tax-saver FDs and PPF/SCSS qualify)
+- Section 80TTB: Senior citizens can claim up to ₹50,000 on combined FD/RD/savings interest
+
+PREMATURE CLOSURE
+- Allowed for most RDs; not advised
+- Interest paid at the rate applicable for the period actually completed, with penalty of 0.5%-1%
+- Some banks require a minimum 3-month deposit before allowing premature closure
+- Premature closure of post office RD: After 3 years, paid at post office savings rate (4%)
+
+PARTIAL WITHDRAWAL
+- Generally not allowed for RDs
+- Consider loan against RD instead
+
+MISSED INSTALLMENT — PENALTY
+If you fail to deposit an installment by the due date:
+- Banks: ₹1-₹10 per ₹100 per month of delay, depending on bank
+  - SBI: ₹1.50 per ₹100 per month for RDs above 5 years; ₹0.40-₹0.50 for shorter tenures
+  - Post office: ₹0.10 per ₹5 per month for the delayed installment (₹2 per ₹100)
+- If 4 or more consecutive defaults: Bank may treat the RD as discontinued
+  - Closed-discontinued RD earns lower interest (savings rate); no further deposits allowed
+- Bank may give a grace period of 1 month before levying penalty
+
+To avoid: Maintain sufficient balance in linked savings account before due date; activate auto-debit; set SMS reminders.
+
+LOAN AGAINST RD
+- Available after 6 months of regular deposit
+- Loan up to 80%-90% of RD balance
+- Interest 1%-2% above RD rate
+- No processing fee
+- Useful for short-term liquidity without breaking the RD
+
+NOMINATION
+- Single nominee allowed per RD
+- Submit Form DA-1 at RD opening or anytime later
+- Nominee can claim RD on death of depositor — simpler than succession process
+
+RD VS. SIP — KEY DIFFERENCES
+| Feature | Recurring Deposit | Systematic Investment Plan (SIP) in Mutual Funds |
+|---|---|---|
+| Return | Fixed (6.5%-8%) | Market-linked (5%-15% historically) |
+| Risk | Very low | Moderate to high |
+| Liquidity | Low (penalty on premature) | High (T+1 to T+3 redemption) |
+| Taxation | Slab rate | Equity SIP: LTCG 10% beyond ₹1 lakh; Debt SIP: Slab |
+| Insurance | DICGC ₹5 lakh | None |
+| Goal Horizon | Short to medium (1-5 yr) | Long (5+ yr) |
+
+For short-term goals (1-3 years), RD is safer. For long-term wealth (5+ years), SIP in equity mutual funds historically delivers higher returns despite volatility.
+
+RD VS. FD — KEY DIFFERENCES
+| Feature | RD | FD |
+|---|---|---|
+| Contribution | Monthly | Lump sum |
+| Suitable for | Recurring income earners | Lump-sum holders |
+| Interest rate | Same as FD for similar tenure | Same as RD for similar tenure |
+| Effective yield | Slightly lower than FD (since installments accumulate over time) | Higher (full principal earns from day 1) |
+| Premature withdrawal | Allowed with penalty | Allowed with penalty |
+
+If you have a lump sum, FD is more efficient. If you save monthly from salary, RD is the natural choice.
+
+SPECIAL RD VARIANTS
+
+1. Flexi RD: Allows variable installment amounts (within a min-max range) and skip installments without penalty in some banks. Example: ICICI iWish, Axis Encash24.
+
+2. Senior Citizen RD: Higher rates, simpler procedure.
+
+3. Smart Deposit RD: Linked to savings sweep — excess sweeps to RD.
+
+4. Tax Saving Note: As noted, no 80C benefit for RD; use 5-year tax-saver FD or PPF for tax saving.
+
+POST OFFICE RD — UNIQUE FEATURES
+- Guaranteed by Government of India
+- Backed by India Post
+- Mostly accessed by rural and semi-urban customers
+- 5-year tenure, extendable
+- Quarterly compounding
+- Current rate: 6.7% p.a. (subject to revision quarterly)
+- Withdrawable as loan up to 50% after 1 year
+- Highly accessible due to post office network
+
+GOAL-BASED PLANNING WITH RD
+1. Identify the goal (e.g., ₹3 lakh for car down payment in 3 years)
+2. Use RD calculator: At 7% for 36 months, monthly RD of ₹7,500 → maturity ~₹3,01,000
+3. Open RD with the chosen monthly amount
+4. Set auto-debit on salary day
+5. At maturity, fund withdrawn and used for goal
+6. Optionally, ladder multiple RDs for multiple goals
+
+TIPS FOR RD INVESTORS
+1. Start small but consistent — ₹500-₹1,000 per month builds discipline
+2. Pick a tenure aligned with your goal — don't lock too long if goal is short
+3. Compare rates across banks; small finance banks offer higher
+4. Set auto-debit and ensure sufficient balance to avoid penalties
+5. Reinvest at maturity — make it a habit
+6. Use RD for short-term safe savings; mix in SIP for long-term wealth
+7. Avoid premature closure unless emergency; consider loan against RD instead
+8. Update nominee details
+9. Track interest accrual in net banking
+10. Submit Form 15G/15H if eligible to avoid TDS
+
+Rates may change, verify with bank — RD rates follow FD rate revisions, so check the bank's deposit rate card before opening.

@@ -1,0 +1,229 @@
+ACCOUNT OPENING AND KYC — COMPLETE PROCESS GUIDE
+
+OVERVIEW
+Opening a bank account in India follows the RBI's Master Direction on Know Your Customer (KYC), 2016 (with amendments). All banks must verify customer identity and address before opening any deposit or loan account. KYC is a one-time process for first-time relationships, with periodic re-KYC thereafter. Multiple methods of KYC are accepted — physical, Aadhaar-based, Video KYC, digital KYC — making the process accessible across customer segments. Rates and processes are indicative; verify with bank for latest.
+
+DOCUMENTS REQUIRED — OFFICIALLY VALID DOCUMENTS (OVDs)
+RBI has notified six Officially Valid Documents for KYC:
+1. Aadhaar Card / e-Aadhaar (with photo, masked or unmasked)
+2. PAN Card (Permanent Account Number — issued by Income Tax Department)
+3. Voter ID Card (issued by Election Commission of India)
+4. Driving Licence
+5. Passport
+6. NREGA Job Card (with photograph)
+
+Additional documents accepted as Address Proof (if OVD doesn't have current address):
+- Utility bill (electricity, telephone landline, postpaid mobile, water) not older than 2 months
+- Property/municipal tax receipt
+- Bank account statement (other bank)
+- Pension Payment Order / family pension certificate (for retired employees)
+- Letter from a recognised public authority verifying address
+- Rent agreement (registered, with stamp duty)
+- Allotment letter from a public sector employer or accommodation provided to government employee
+
+If photograph is not on OVD, a recent passport-size photograph is required.
+
+PAN CARD — MANDATORY OR FORM 60
+- PAN is mandatory for almost all account opening (except small-balance BSBDA-Jan Dhan)
+- If PAN not available: Submit Form 60 declaring no taxable income / PAN applied for; valid until PAN issued
+- For NRI accounts: PAN preferred but Form 60 acceptable
+- PAN is mandatory for FDs of ₹50,000+ and most loan products
+
+TYPES OF KYC METHODS
+
+1. PHYSICAL / IN-PERSON KYC
+- Customer visits branch with original + photocopy of OVD
+- Bank staff verifies and stamps "Verified with Original"
+- Photograph clicked at branch or attached from customer
+- Signature on Account Opening Form (AOF)
+- Most thorough; suitable for high-value or complex relationships
+
+2. AADHAAR-BASED e-KYC (OTP MODE)
+- Customer enters 12-digit Aadhaar number
+- OTP sent to Aadhaar-linked mobile (UIDAI)
+- Customer enters OTP
+- Bank pulls demographic and photo data from UIDAI
+- Account opened with limited features: Balance up to ₹1 lakh, no debit card, partial KYC status
+- Within 12 months: Full KYC must be done (V-KYC or branch); else account becomes frozen
+
+3. AADHAAR-BASED BIOMETRIC e-KYC
+- Customer's fingerprint or iris scan at a biometric device
+- Real-time authentication with UIDAI
+- Full KYC achieved instantly
+- Account fully active with all features
+- Available at branch and some BC (Business Correspondent) outlets
+
+4. VIDEO KYC (V-CIP — VIDEO BASED CUSTOMER IDENTIFICATION PROCESS)
+RBI-approved process from January 2020:
+- Customer initiates online from bank's app/portal
+- Scheduled video call with trained bank executive
+- Live capture of customer face matched with OVD photo
+- OVD shown on camera; details captured
+- Geo-location, IP captured
+- Random questions and visual verification
+- Signature captured on screen
+- Recording stored as compliance evidence
+- Account opened fully — same as in-person KYC
+- Time: 15-30 minutes
+- Available 6 AM to 10 PM (some banks 24×7)
+
+5. DIGITAL KYC (NON-AADHAAR)
+- Customer uploads OVD images via app
+- AI/OCR extracts details
+- Selfie matched with OVD photo via face recognition
+- May still need video step or branch visit for confirmation in some cases
+
+CCO (CENTRAL KYC RECORDS REGISTRY)
+- CKYCR is a central repository operated by CERSAI
+- Once KYC is done at any bank/NBFC/MF, customer gets a 14-digit CKYC number
+- Subsequent KYC at any other bank can be fetched from CKYCR — no re-submission needed
+- Validity: 10 years for "Low Risk", 8 years for "Medium Risk", 2 years for "High Risk"
+
+PERIODIC RE-KYC
+Banks must re-verify customer details periodically:
+- Low risk customers: Every 10 years
+- Medium risk: Every 8 years
+- High risk: Every 2 years
+- For minor accounts: When attaining 18 years, fresh KYC mandatory
+- For NRI accounts: When residence status changes (NRI to Resident or vice versa)
+- Re-KYC can be done via self-declaration (no change) or fresh document submission (if changed)
+
+WHEN RE-KYC FAILS / PENDING
+- Bank sends multiple reminders via SMS, email, letter
+- After due date and reminders, account may be frozen for debit
+- Customer can credit money but not withdraw till re-KYC done
+- Reactivation: Submit fresh documents at branch / V-KYC / digital KYC
+
+MINOR ACCOUNT OPENING
+- For child below 18 years
+- Operated by natural guardian (typically father, or mother if father deceased/legally separated)
+- Some banks allow self-operated account for 10-17 years (limited transactions)
+- On attaining 18: Fresh KYC, signature card update, account converts to regular savings
+- Documents: Child's birth certificate, guardian's KYC, photograph, school certificate (for address)
+
+JOINT ACCOUNT OPENING
+- Two or more individuals (typically family — spouse, parents, children)
+- KYC of all joint holders required
+- Operation mode:
+  - Either or Survivor: Any one can operate
+  - Anyone or Survivor: Multiple, any operates
+  - Former or Survivor: Only first holder operates while alive
+  - Latter or Survivor: Reverse of above
+  - Jointly: All must sign for every transaction
+- Nomination still allowed (operates on death of all holders)
+
+NRI ACCOUNT OPENING
+- Customer must be NRI as per FEMA definition
+- Documents required:
+  - Passport copy (all relevant pages)
+  - Valid visa / work permit / OCI / PIO card
+  - Overseas address proof (utility bill, residence permit)
+  - Indian address proof
+  - PAN or Form 60
+  - Photograph
+  - In-person at Indian branch, or notarised/embassy-attested copies if from abroad
+  - Video KYC available with select banks
+- See separate NRI banking document for account types
+
+CORPORATE / BUSINESS ACCOUNT OPENING
+- Significantly more documentation
+- Entity KYC + KYC of all signatories, directors, beneficial owners (≥10% / 25% stake)
+- Documents:
+  - Certificate of Incorporation
+  - MOA, AOA
+  - Latest financial statements
+  - PAN of company and signatories
+  - Board resolution
+  - Address proof of registered office
+  - GST registration, Udyam, trade licence as applicable
+- Beneficial Ownership identification per Prevention of Money Laundering Act (PMLA)
+
+CUSTOMER DUE DILIGENCE (CDD) LEVELS
+- Simplified CDD: For low-value, low-risk accounts (e.g., BSBDA-Jan Dhan) — minimal documents
+- Standard CDD: All regular accounts — full OVD + photo
+- Enhanced CDD: High-risk customers (PEPs — politically exposed persons, large traders, NRIs from sanctioned countries) — additional information on source of funds, business activity, expected transactions
+
+PEPS — POLITICALLY EXPOSED PERSONS
+Defined as individuals entrusted with prominent public functions:
+- Heads of state, ministers, MPs, MLAs
+- Senior judicial officers
+- Senior military / police officers
+- Senior officials of state-owned enterprises
+- Includes immediate family and known close associates
+Enhanced due diligence required; transactions monitored closely.
+
+ACCOUNT OPENING — STEP BY STEP
+
+Online via App:
+1. Choose bank's mobile app or website
+2. Click "Open Savings Account"
+3. Enter mobile number, Aadhaar, PAN
+4. e-KYC via Aadhaar OTP or schedule V-KYC
+5. Provide additional info (nominee, occupation, income)
+6. Photograph (live)
+7. Digital signature
+8. Account number generated; welcome kit posted (debit card, cheque book)
+9. Initial deposit via UPI or NEFT (if required)
+10. Login credentials emailed/SMS
+
+At Branch:
+1. Walk in with original OVD and photographs
+2. Fill Account Opening Form
+3. KYC verification by branch executive
+4. Deposit initial amount (₹1,000-₹10,000 typically; zero for BSBDA)
+5. Account activated within 1-2 hours
+6. Cheque book and debit card couriered in 7-10 days
+
+ACCOUNT OPENING — TIMING
+- Aadhaar OTP-based: Instant (limited account)
+- V-KYC full: Same day to 1 business day
+- Branch in-person: Same day for active accounts; deliverables in 7-10 days
+
+ACCOUNT DECLINATION / KYC REJECTION
+Banks may decline account opening if:
+- KYC documents not satisfactory or photocopies not clear
+- Address not verifiable
+- PEP without source of funds clarity
+- Negative CIBIL or fraud history
+- Sanctions list match (UN, OFAC, India MEA)
+- Customer refusing to provide additional information
+- Risk profile not matching bank's policy
+
+If declined:
+- Bank must state reason in writing
+- Customer can appeal or approach another bank
+- Reject is not blacklist; another bank may accept based on its own due diligence
+
+TIPS FOR SMOOTH ACCOUNT OPENING
+1. Keep PAN + Aadhaar + recent photograph ready
+2. Ensure Aadhaar is linked to your mobile (for OTP)
+3. Check if your address is current on Aadhaar; update at uidai.gov.in if not
+4. Choose bank based on services (digital banking, branch proximity, deposit rate)
+5. Use V-KYC during 6 AM-10 PM with stable internet
+6. Verify the account opening confirmation SMS
+7. Activate net banking and mobile banking immediately
+8. Set up nominee on day one (Form DA-1)
+9. Update KYC promptly when documents expire (passport, DL)
+10. Maintain digital copies of all submitted documents
+
+COMMON KYC ISSUES AND RESOLUTIONS
+- Aadhaar not linked to mobile: Update at any Aadhaar Seva Kendra
+- Address differs between PAN and Aadhaar: Update via NSDL/UTI or UIDAI
+- Photograph mismatch: Update Aadhaar or submit fresh photo at bank
+- Bank says address proof insufficient: Submit utility bill or rent agreement
+- Name spelling mismatch: Get affidavit or update via Gazette
+- Multiple aliases (maiden name, post-marriage): Update Aadhaar with all variants and Application Form
+
+PREVENTION OF MONEY LAUNDERING ACT (PMLA) COMPLIANCE
+Banks are required to:
+- Maintain KYC records for 5 years post-account closure (10 years for some transactions)
+- Report Suspicious Transaction Reports (STRs), Cash Transaction Reports (CTRs ≥ ₹10 lakh single day), Counterfeit Currency Reports, NPO-related transactions
+- Conduct enhanced due diligence on high-risk customers and PEPs
+- Train employees on AML/KYC
+
+ACCOUNT OPENING IS A REGULATED RIGHT
+RBI mandates banks cannot deny account opening on flimsy grounds:
+- Basic Savings Bank Deposit Account (BSBDA) must be offered to anyone with basic KYC, zero balance, free debit card, 4 free withdrawals per month
+- If denied, escalate to bank's Nodal Officer, then Banking Ombudsman
+
+For specific bank's account opening, check their product page and KYC checklist. Rates and processes may change, verify with bank.

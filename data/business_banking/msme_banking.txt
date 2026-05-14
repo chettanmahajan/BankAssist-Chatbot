@@ -1,0 +1,313 @@
+MSME BANKING — UDYAM, PRIORITY SECTOR, GOVERNMENT SCHEMES
+
+OVERVIEW
+Micro, Small, and Medium Enterprises (MSMEs) form the backbone of India's economy — contributing about 30% of GDP, 45% of exports, and employing over 11 crore people across 6+ crore enterprises. MSME banking is a strategically important segment for both banks and the Government of India, governed by the MSMED Act, 2006, RBI's Priority Sector Lending norms, and several flagship government schemes. All figures are indicative; rates may change, verify with bank/govt.
+
+MSME CLASSIFICATION (REVISED 2020)
+The Government of India revised MSME classification in mid-2020 (effective July 1, 2020), eliminating the distinction between manufacturing and service enterprises. Both are classified by composite criteria of investment AND turnover:
+
+- Micro: Investment up to ₹1 crore AND annual turnover up to ₹5 crore
+- Small: Investment up to ₹10 crore AND annual turnover up to ₹50 crore
+- Medium: Investment up to ₹50 crore AND annual turnover up to ₹250 crore
+
+Investment definition: Plant and machinery / equipment, excluding land and building.
+Turnover definition: Excluding export turnover (which is not counted towards limits — pro-export incentive).
+
+UDYAM REGISTRATION
+All MSMEs must register on the Udyam portal — udyamregistration.gov.in (replaces older Udyog Aadhaar Memorandum from July 2020).
+
+Features:
+- Free of cost
+- Aadhaar-based (proprietor's, partner's or designated person's Aadhaar)
+- PAN required (for company / firm)
+- Self-declaration of investment and turnover (banks may verify via ITR / GST data)
+- 19-digit Udyam Registration Number (URN) issued
+- Permanent registration; updated periodically if changes in classification
+
+Benefits of Udyam Registration:
+- Eligibility for all MSME-specific government schemes
+- Priority sector lending status
+- 45-day mandatory payment from large buyers (MSMED Act)
+- Subsidies on patent registration, ISO certification, technology upgrade
+- Public procurement preference (25% reservation in CPSEs/government purchases)
+- TReDS (Trade Receivables Discounting System) access
+- Reservation in defence, railways procurement
+- ECLGS and other emergency credit schemes
+
+PRIORITY SECTOR LENDING (PSL)
+RBI mandates that all scheduled commercial banks must lend at least 40% of their Adjusted Net Bank Credit (ANBC) to priority sectors:
+- Agriculture: 18% sub-target
+- Micro Enterprises: 7.5% sub-target
+- Small and Marginal Farmers: 9.5% sub-target
+- Weaker Sections: 11.5% sub-target
+- Total Priority Sector: 40%
+
+Foreign banks with 20+ branches: 40% PSL with sub-targets.
+Foreign banks with < 20 branches: 40% with adjusted sub-targets.
+
+MSMEs (all sub-categories) qualify as priority sector. This ensures structured credit flow to small enterprises and concessional rates.
+
+GOVERNMENT FLAGSHIP MSME SCHEMES
+
+1. PRADHAN MANTRI MUDRA YOJANA (PMMY)
+Launched 2015. Loans to non-corporate, non-farm small/micro enterprises.
+
+Categories:
+- Shishu: Up to ₹50,000 (for very small / nascent businesses)
+- Kishore: ₹50,001 to ₹5 lakh (established small businesses)
+- Tarun: ₹5 lakh to ₹10 lakh (growing businesses)
+- Tarun Plus: ₹10 lakh to ₹20 lakh (introduced FY24-25 budget for higher-need MSMEs)
+
+Features:
+- No collateral required (CGTMSE-backed for higher amounts)
+- Interest: 9.5%-12% (varies by lender)
+- Tenure: 3-7 years
+- Available for trading, services, manufacturing, agriculture-allied (not pure agriculture)
+- Delivered through: Scheduled banks, RRBs, Small Finance Banks, NBFCs, MFIs
+- Disbursed under MUDRA Cards (for working capital, like an overdraft)
+
+How to apply:
+- Visit bank branch with Udyam, KYC, business proof
+- PSB Loans in 59 Minutes portal (for loans up to ₹5 crore including beyond MUDRA)
+- Online application via lender's website
+- Jan Samarth portal aggregates all MUDRA / loan options
+
+2. CGTMSE — CREDIT GUARANTEE FUND TRUST FOR MICRO AND SMALL ENTERPRISES
+A trust set up by GoI and SIDBI (Small Industries Development Bank of India) to provide credit guarantee to lenders for collateral-free loans to micro and small enterprises.
+
+Key features:
+- Coverage up to ₹5 crore per borrower (raised from ₹2 crore in Budget 2024-25)
+- Guarantee covers 75%-85% of loan default (varying tiers)
+- Borrower pays guarantee fee:
+  - One-time: 0.37%-2% of loan amount
+  - Annual: 0.55%-1.4% on outstanding
+- Eligible: Micro and Small enterprises (Udyam-registered)
+- Eligible lenders: Banks, NBFCs, Small Finance Banks
+
+Benefits:
+- Removes collateral barrier
+- Lender's risk mitigated (incentive to lend without security)
+- Borrower retains ownership of assets
+
+3. STAND-UP INDIA SCHEME
+Promotes entrepreneurship among SC/ST and women entrepreneurs.
+
+Features:
+- Loan ₹10 lakh-₹1 crore
+- For greenfield enterprise (new venture) in manufacturing, services, trading, agriculture-allied
+- At least one borrower per bank branch from SC/ST or women category
+- Composite loan (term loan + working capital combined)
+- Tenure: 7 years
+- Moratorium: Up to 18 months
+- Interest: At lowest applicable rate of bank for similar amount
+- CGTMSE guarantee bundled
+
+Apply via: standupmitra.in or directly with bank branch.
+
+4. PSB LOANS IN 59 MINUTES
+Portal: psbloansin59minutes.com
+
+Features:
+- In-principle approval within 59 minutes for MSME loans up to ₹5 crore
+- API integration with GST, ITR, bank statement for instant assessment
+- Final disbursement after due diligence by lender within 7-10 days
+- 21 public sector and select private banks integrated
+- For both new and existing customers
+
+How it works:
+1. Register on portal with PAN, GST, business details
+2. Authorise data fetch from GST and IT departments
+3. Choose bank from offers received
+4. Bank-specific approval flow follows
+
+5. CREDIT LINKED CAPITAL SUBSIDY SCHEME (CLCSS)
+For technology upgradation in MSME manufacturing sector.
+
+Features:
+- 15% upfront capital subsidy on institutional credit
+- Maximum subsidy: ₹15 lakh
+- For investment in plant and machinery for approved technology
+- Eligible sectors: 51 sub-sectors (food processing, textiles, leather, paper, plastics, etc.)
+- Through banks / financial institutions
+
+6. INTEREST SUBVENTION SCHEME FOR MSMEs
+2% interest subvention on incremental term loan / working capital loans up to ₹1 crore for MSMEs (Udyam-registered, GST-compliant) — scheme implementation phases vary.
+
+7. EMERGENCY CREDIT LINE GUARANTEE SCHEME (ECLGS)
+Originally launched May 2020 during COVID-19 pandemic. Provides additional working capital with 100% guarantee from NCGTC. Has been extended and modified multiple times. Check current eligibility and disbursement window.
+
+8. CHAMPIONS PORTAL
+Government's MSME helpline: champions.gov.in
+- Grievance redressal
+- Information dissemination
+- E-Office system
+- Online complaint tracking
+- 24×7 helpline 1800-180-6763
+
+9. ZED CERTIFICATION (Zero Defect Zero Effect)
+Quality certification for MSMEs in manufacturing — subsidised by government:
+- Bronze, Silver, Gold tiers
+- Aims to make MSMEs globally competitive
+- 80%-100% subsidy on certification cost
+
+10. PUBLIC PROCUREMENT POLICY FOR MSEs (2012)
+- 25% of total CPSE procurement reserved for MSEs
+- 4% from SC/ST MSEs, 3% from women-owned MSEs
+- GeM (Government e-Marketplace) — registration mandatory
+- gem.gov.in — digital marketplace for government procurement
+
+11. MSME SAMADHAAN PORTAL
+samadhaan.msme.gov.in — for resolving delayed payment grievances:
+- MSMEs can file complaints against buyers who haven't paid within 45 days
+- Under MSMED Act Section 15-19
+- Buyer liable for compound interest at 3× bank rate
+- Resolution through Micro and Small Enterprises Facilitation Council (MSEFC)
+
+12. SFURTI (Scheme of Fund for Regeneration of Traditional Industries)
+For traditional clusters — handicraft, khadi, coir, bamboo.
+
+13. ASPIRE (A Scheme for Promotion of Innovation, Rural Industry and Entrepreneurship)
+For rural enterprises and incubation centres.
+
+WORKING CAPITAL FOR MSMEs
+Cash Credit (CC) and Overdraft (OD) facilities — most common for MSMEs:
+- Sanctioned limit against:
+  - Stocks (hypothecation)
+  - Book debts (assignment of receivables)
+  - Bank deposits (collateral)
+- Interest charged daily on amount drawn (not full limit)
+- Annual renewal after review of operations
+- Drawing Power (DP) calculated monthly based on stock + receivables statement
+
+Cash Credit Assessment Methods (RBI guideline):
+1. Operating Cycle Method: For traders — limit = avg holding stock days + debtor days - creditor days, expressed as % of annual sales
+2. Turnover Method: 25% of projected annual turnover for limits up to ₹5 crore (revised in stages)
+3. Tandon Method: Larger limits with detailed analysis
+
+TERM LOANS FOR MSMEs
+- Asset acquisition (machinery, land, building)
+- Tenure 5-10 years
+- Moratorium 3-12 months during project setup
+- Repayment via EMI from operating cash flow
+
+BILL DISCOUNTING / FACTORING
+- MSME sells invoices/receivables to bank/factor
+- Receives upfront 80%-90% of invoice value
+- Balance after customer pays
+- Useful for managing receivables cycle, especially with delayed buyers
+
+TReDS (TRADE RECEIVABLES DISCOUNTING SYSTEM)
+RBI-regulated electronic platform for MSME invoice discounting:
+- 3 platforms approved: RXIL (Receivables Exchange of India Ltd), Mynd Solutions (M1xchange), A.TReDS Ltd (Invoicemart)
+- MSME uploads invoice, large buyer accepts
+- Multiple financiers bid; lowest rate wins
+- Funds credited to MSME within 24-48 hours
+- Cheaper than traditional factoring (often 7%-9% rate vs 10%-13%)
+- Government has mandated all PSUs, large CPSEs (turnover ₹500 crore+) to onboard
+
+EQUITY FUNDING FOR MSMEs (NON-DEBT)
+- SIDBI Fund of Funds
+- Startup India Seed Fund Scheme (SISFS): ₹50 lakh-₹2 crore through approved incubators
+- Stand-Up India (debt, but supports first-time entrepreneurs)
+- Angel investors / VC funds (Section 80-IAC tax holiday for eligible startups)
+- Private equity
+
+DOCUMENTS REQUIRED FOR MSME LOAN
+
+Constitution Documents:
+- Udyam Registration Certificate
+- PAN of business and promoter
+- Business registration (Shop Act / partnership deed / MOA-AOA / LLP agreement)
+- GST Registration
+
+Financial Documents:
+- ITR for last 2-3 years
+- Audited financials (P&L, balance sheet) for last 2-3 years
+- GST returns (GSTR-1, GSTR-3B) for last 12 months
+- Bank statements (12 months) of business account
+- Existing loan statements
+
+Other:
+- KYC of promoter (Aadhaar, photo)
+- Business address proof
+- Project report / cash flow projection (for term loan / large limit)
+- Quotations / proforma invoices (for asset purchase)
+
+KEY METRICS BANKS EVALUATE
+- Current Ratio (Current Assets / Current Liabilities): ≥ 1.33 desirable
+- Quick Ratio: ≥ 1.0
+- Debt-Equity Ratio: ≤ 3:1 for MSMEs
+- TOL/TNW (Total Outside Liability / Tangible Net Worth): ≤ 4:1
+- Debt Service Coverage Ratio (DSCR): ≥ 1.5
+- Interest Coverage Ratio: ≥ 2
+- Promoter's stake and contribution
+- Past banking conduct (cheque returns, account turnover)
+
+INTEREST RATES FOR MSME LOANS
+- PSU banks: 9.5%-13.5% (CC, OD, term loans)
+- Private banks: 10%-15%
+- NBFCs: 13%-18%+
+- MUDRA loans (collateral-free up to ₹10 lakh / ₹20 lakh Tarun Plus): 9.5%-12%
+- CGTMSE-backed loans: Similar to standard rates + guarantee fee
+- Interest subvention scheme: 2% rebate possible on incremental loans
+
+DIGITAL LENDING FOR MSMEs
+Several fintech and bank platforms offer fast digital MSME loans:
+- Lendingkart, Aye Finance, NeoGrowth, Indifi: Digital application, GST/bank statement-based assessment, disbursal in days
+- HDFC Bank InstaLoan, ICICI Bank InstaBIZ, SBI YONO Business
+- Government's Jan Samarth portal aggregates options
+
+MSMEs FACING DISTRESS / NPA — RESTRUCTURING
+RBI has special restructuring frameworks for MSME accounts:
+- Resolution Framework 1.0 (June 2019)
+- Resolution Framework 2.0 (May 2021)
+- Allow restructuring without asset classification downgrade if eligibility met
+- Customised repayment, moratorium, partial conversion to equity
+- ₹50 crore exposure cap per borrower (vary by scheme)
+
+DELAYED PAYMENT FROM BUYERS
+MSMEs commonly face delayed payments from larger buyers. MSMED Act mandates:
+- Payment within 45 days of acceptance or deemed acceptance
+- 15-day inspection deadline
+- If delayed beyond 45 days, compound interest at 3× bank rate
+- Buyer's interest expense not tax-deductible for income tax (Section 43B amendment, effective FY24)
+- Complaint via MSME Samadhaan portal — resolution via MSEFC
+
+LEGAL PROTECTIONS FOR MSMEs
+- 45-day payment rule (MSMED Act)
+- TReDS access for invoice discounting
+- Public procurement preference
+- Stay on coercive recovery during pendency of restructuring application
+- Insolvency proceedings only after due process
+
+CHALLENGES MSMEs FACE
+1. Credit gap: Only 15%-20% of MSMEs have formal credit access
+2. High collateral expectation
+3. Cumbersome documentation
+4. Delayed payment from buyers
+5. Compliance burden (GST, ITR, labour, etc.)
+6. Technology adoption gap
+7. Skills shortage
+8. Market access
+
+CONTACT POINTS
+- Champions Portal: 1800-180-6763
+- MSME Samadhaan: samadhaan.msme.gov.in
+- Udyam Registration: udyamregistration.gov.in
+- SIDBI: sidbi.in
+- KVIC (Khadi Village Industries Commission)
+- DGFT (Directorate General of Foreign Trade) for export-related queries
+
+TIPS FOR MSMEs ON ENGAGING WITH BANKS
+1. Get Udyam Registration immediately
+2. Maintain proper books and file GST/ITR on time
+3. Keep business and personal finances separate
+4. Build banking relationship — route transactions through one account
+5. Approach existing relationship bank first for new loans
+6. Use government scheme benefits — MUDRA, CGTMSE, Stand-Up India
+7. Compare offers via PSB Loans in 59 Minutes
+8. Maintain healthy ratios (DSCR, current ratio)
+9. Submit timely stock and book debt statements for CC limit
+10. Don't borrow beyond servicing capacity
+
+Rates and rules may change, verify with bank / MSME ministry for current scheme details and eligibility.

@@ -1,0 +1,207 @@
+SAVINGS ACCOUNT — TYPES, FEATURES, CHARGES, INTEREST RATES
+
+OVERVIEW
+A savings account is a deposit account at a bank that allows individuals to deposit money, earn modest interest, and access funds via cheque, debit card, online transfers, ATMs, and branches. It's the foundational banking product for personal finance in India. RBI regulates savings account practices via the Master Directions on KYC, Customer Service, and Deposit Interest Rates. Almost every Indian bank offers savings accounts with varied features. All figures below are indicative as of FY 2024-25; rates may change, verify with bank.
+
+INTEREST RATES ON SAVINGS ACCOUNTS
+Since 2011, RBI deregulated savings account interest rates. Banks set their own rates, computed daily on closing balance and credited quarterly. Indicative rates as of FY 2024-25:
+- Large public sector banks (SBI, BoB, PNB, Canara): 2.70% to 3.00% p.a.
+- Private banks (HDFC, ICICI, Axis, Kotak): 3.00% to 3.50% p.a. (variable by balance slabs)
+- Small finance banks (AU SFB, Equitas, Ujjivan, Suryoday): 4.00% to 7.50% p.a.
+- Payments banks (Paytm, Airtel, Fino, Jio): 2.50% to 6.00% (Paytm typically lower; Jio higher)
+- IDFC FIRST Bank: 3.00%-7.00% based on slab
+- RBL, IndusInd: 3.00%-7.00% based on slab
+
+Slab-based interest is common — e.g., 3% on balance up to ₹1 lakh, 4% on balance ₹1-50 lakh, 5% above.
+
+TYPES OF SAVINGS ACCOUNTS
+
+1. Regular Savings Account
+The standard savings account for individuals. Minimum balance requirement (called Average Monthly Balance, AMB, or Average Quarterly Balance, AQB) typically:
+- Public sector banks (metro/urban): ₹1,000-₹3,000
+- Public sector banks (semi-urban/rural): ₹500-₹1,000
+- Private banks (HDFC, ICICI, Axis): ₹10,000 (metro), ₹5,000 (semi-urban), ₹2,500 (rural)
+- Kotak 811: Zero-balance digital savings (limited initially)
+
+2. Salary Account
+Opened by an employer for salary credit. Key features:
+- Zero balance — no minimum balance penalty
+- Often free debit card with higher transaction limits
+- Free cheque book and DD facility
+- Higher complimentary insurance coverage in some cases
+- Pre-approved loan and credit card offers
+- Becomes a regular savings account with applicable charges if salary doesn't credit for 3 consecutive months
+
+3. Women's Savings Account
+Customised for women with benefits like:
+- Lower minimum balance
+- Free debit card
+- Higher daily ATM and POS limits on premium variants
+- Special offers on locker, demat
+- Examples: ICICI Advantage Woman, HDFC Easy Shop Women, SBI Mahila
+
+4. Senior Citizen Savings Account
+For customers aged 60+ years:
+- Often zero minimum balance or reduced AMB
+- Free home banking pickup/drop in some banks
+- Higher interest rate on linked FDs (0.50% extra)
+- Special debit card
+- Health insurance discount tie-ups
+
+5. Minor Savings Account
+For children below 18:
+- Opened by parent/guardian as natural guardian
+- Limited cheque book (some banks allow restricted operations for children 10+ to teach money management)
+- ATM card with low daily limit
+- Becomes regular account on attaining 18
+- Examples: HDFC Kids Advantage, ICICI Young Stars Account, SBI Pehla Kadam (for parent-operated), SBI Pehli Udaan (self-operated, 10-18 years)
+
+6. Basic Savings Bank Deposit Account (BSBDA) / Jan Dhan Account
+RBI's no-frills account for financial inclusion under Pradhan Mantri Jan Dhan Yojana (PMJDY):
+- Zero minimum balance (truly zero)
+- Free RuPay debit card
+- Free 4 cash withdrawals per month
+- Free cheque book in some banks
+- Direct benefit transfer (DBT) enabled
+- ₹2 lakh accident insurance + ₹30,000 life insurance (subject to conditions)
+- Overdraft up to ₹10,000 for eligible account holders
+Aimed at unbanked population — over 50 crore accounts opened nationwide.
+
+7. NRI Savings Accounts: NRE, NRO, FCNR (see NRI banking document).
+
+8. Premium / Wealth Savings
+High-end savings accounts for HNIs:
+- Higher AMB (₹1 lakh to ₹10 lakh)
+- Premium debit cards with extensive benefits
+- Free locker, demat, premium credit card offer
+- Dedicated relationship manager
+- Examples: HDFC Imperia, ICICI Wealth, Axis Burgundy, Kotak Private Banking
+
+9. Digital / Zero-Balance Savings
+Fully digital accounts opened via Video KYC:
+- Kotak 811
+- HDFC InstaAccount
+- ICICI InstaSave
+- Axis ASAP
+- IDFC FIRST Bank's digital savings
+- Yes Bank Digital Savings
+- Smaller transaction limits initially; full activation after physical KYC
+
+10. Sukanya Samriddhi-linked or Schemes Bundles
+Bundled accounts for small savings.
+
+AVERAGE MONTHLY BALANCE (AMB) AND CHARGES
+- Public sector banks calculate Monthly Average Balance (MAB) — sum of end-of-day balances ÷ days in month
+- Private banks typically use AMB or AQB (quarterly)
+- Failure to maintain AMB attracts non-maintenance charges:
+  - Public sector: ₹50-₹500 per month
+  - Private banks: ₹150-₹600 per month (urban higher than rural)
+  - Tiered based on shortfall percentage (some banks)
+- Charges are auto-debited
+- BSBDA and salary accounts: NO penalty for non-maintenance
+
+DEBIT CARD ON SAVINGS ACCOUNT
+Standard features:
+- Daily ATM withdrawal limit: ₹25,000 to ₹2 lakh based on card variant
+- Daily POS/online limit: ₹50,000 to ₹6 lakh
+- 5 free ATM transactions per month at own bank ATMs; charges ₹10-₹25 thereafter
+- 3 free other-bank ATM transactions in metros (5 in non-metros); thereafter ₹21 per transaction + GST
+- Annual debit card fee: ₹100-₹1,000 depending on variant
+- International usage usually disabled by default; enable when needed
+- Insurance bundled on certain cards (accident, lost card)
+
+ATM AND CASH WITHDRAWAL LIMITS
+RBI cap on free ATM transactions (financial + non-financial):
+- Own bank: 5 free per month (any city)
+- Other bank ATMs: 3 free in metros (Mumbai, Delhi, Chennai, Kolkata, Bengaluru, Hyderabad); 5 free in non-metros
+- Beyond free: ₹21 per financial transaction + ₹10 for non-financial + GST 18%
+
+DEPOSIT INSURANCE — DICGC
+The Deposit Insurance and Credit Guarantee Corporation (DICGC) insures deposits in savings accounts (and all bank deposits):
+- Coverage: ₹5 lakh per depositor per bank (raised from ₹1 lakh in February 2020)
+- Includes principal + interest accrued
+- Covers all scheduled commercial banks, cooperative banks, RRBs
+- Per-bank cap — if you have ₹10 lakh split between two banks, both are fully covered separately
+- Premium paid by the bank, not the customer
+
+INTEREST CREDITING AND TAXATION
+- Interest is computed daily on closing balance using formula: Daily Balance × Rate × 1/365
+- Credited quarterly (June, September, December, March generally)
+- Interest is taxable as "Income from Other Sources"
+- Section 80TTA: Up to ₹10,000 deduction on savings account interest (general taxpayers)
+- Section 80TTB: Up to ₹50,000 deduction on savings + FD interest (senior citizens 60+)
+- TDS is NOT deducted on savings account interest (unlike FD, where TDS applies above ₹40,000 / ₹50,000 for seniors)
+
+OTHER COMMON SAVINGS ACCOUNT CHARGES
+- Cheque book: First 25 cheques per year usually free; thereafter ₹2-₹5 per cheque (max ₹50-₹250 per booklet)
+- DD issuance: ₹50-₹200 for up to ₹10,000; higher for larger amounts; some online DDs cheaper
+- NEFT, RTGS, IMPS through net/mobile banking: FREE since RBI mandate (Jan 2020)
+- NEFT/RTGS at branch: ₹2 to ₹50 depending on amount
+- Cheque return (insufficient funds): ₹150-₹350 per return + GST
+- Cheque deposit returned: ₹100-₹200
+- SMS alerts: ₹15-₹25 per quarter
+- Standing instruction failure: ₹100-₹250
+- Demand draft cancellation: ₹50-₹100
+- Account closure within 14 days: Free; thereafter ₹500-₹1,000 (depends on bank)
+- Account dormancy reactivation: Free in most banks
+- Duplicate passbook: ₹100-₹300
+
+DORMANT ACCOUNT
+If no customer-initiated transaction for 12 months, account is marked "inoperative"; after 24 months, "dormant". Implications:
+- Auto-debit / standing instructions continue
+- No transaction allowed until reactivation
+- Reactivation: Visit branch with KYC and a small deposit/withdrawal (or fresh KYC if 10+ years)
+- Funds in dormant accounts for 10+ years are transferred to RBI's Depositor Education and Awareness Fund (DEAF); reclaimable any time
+
+NOMINATION
+- Strongly recommended; can be added at account opening or later
+- Form DA-1 for adding/changing nominee
+- Single nominee per account (RBI norm)
+- For joint accounts, nominee applies on death of all account holders
+- Nominee acts as trustee; legal heirs have ultimate ownership
+- Adds significant convenience for survivors; no charge
+
+JOINT ACCOUNTS
+- Joint with "Either or Survivor": Either holder can operate independently; on death of one, survivor gets the balance
+- "Anyone or Survivor": Multiple holders, any can operate; survivor(s) inherit
+- "Former or Survivor": Only former can operate while alive; survivor gets on death
+- "Latter or Survivor": Reverse of above
+- "Jointly": All must sign for every transaction
+KYC of all joint holders required.
+
+PASSBOOK AND STATEMENT
+- Passbook: Free, updated at branch on request
+- e-Statement: Free via email monthly
+- Physical statement: ₹100-₹200 per copy beyond limits
+
+LINKED INVESTMENTS
+Savings account can be linked to:
+- Recurring Deposit (RD)
+- Fixed Deposit — auto-sweep facility moves excess balance to FD and back as needed
+- Mutual fund SIPs via NACH mandate
+- Insurance premium auto-debit
+- Demat account
+- PPF account (in same bank or another)
+
+DIGITAL FEATURES
+Modern savings accounts come with:
+- Mobile banking app
+- Internet banking
+- UPI integration
+- QR code for payments
+- Bill payment platform
+- Investment platform
+- Cardless cash withdrawal
+- Tap-to-pay debit card
+
+CHOOSING THE RIGHT SAVINGS ACCOUNT — TIPS
+1. Compare interest rates and slab structures
+2. Check minimum balance against your typical cash flow
+3. Check ATM, cheque, and digital transaction charges
+4. Look for additional benefits: insurance, lounge, partner offers
+5. Choose a bank with strong app/digital experience
+6. Salary account: insist on free-zero-balance status
+7. Senior citizens: opt for the senior citizen variant for benefits
+8. Children: SBI Pehla Kadam, Pehli Udaan, or HDFC Kids Advantage for financial literacy
+
+Rates may change, verify with bank — visit your bank's product page and current schedule of charges for the latest.

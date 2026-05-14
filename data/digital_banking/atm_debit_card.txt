@@ -1,0 +1,253 @@
+ATM AND DEBIT CARD — LIMITS, CHARGES, SECURITY
+
+OVERVIEW
+An ATM (Automated Teller Machine) is an electronic banking outlet that allows customers to perform basic transactions — cash withdrawal, balance inquiry, mini-statement, fund transfer, PIN change, cardless cash withdrawal — without visiting a teller. The Debit Card is the primary instrument for ATM access and is also used for point-of-sale (POS) purchases, online transactions, and contactless tap-and-pay. RBI regulates ATM operations and debit card issuance through dedicated guidelines including Master Direction on Issuance and Conduct of Debit and Credit Cards, 2022. Rates and figures are indicative; rates may change, verify with bank.
+
+DEBIT CARD VARIANTS
+Indian banks issue debit cards under three primary card networks: Visa, Mastercard, and RuPay (NPCI's domestic network).
+
+Standard variants by tier:
+1. Classic / Silver: Entry-level — ATM withdrawal ₹25,000-₹40,000/day, POS ₹1 lakh/day
+2. Gold / Titanium: Mid-tier — ATM ₹50,000/day, POS ₹1-2 lakh/day, basic insurance, online accident cover
+3. Platinum: Premium — ATM ₹50,000-₹1 lakh/day, POS ₹2-5 lakh/day, lounge access, concierge
+4. Signature / World / Business: Super-premium — ATM ₹1-2 lakh/day, POS ₹5-10 lakh/day, lounge access, golf
+
+Special variants:
+- Women's debit card (Pearl, Nari, Mahila, etc.)
+- Senior citizen debit card
+- Business debit card (for current account)
+- BSBDA RuPay (free debit card for Jan Dhan account)
+- Co-branded debit cards (e.g., Air India SBI Debit Card, Tata Croma debit cards)
+- Virtual debit card (digital-only)
+
+RUPAY — DOMESTIC NETWORK
+- NPCI's payment network, launched 2012
+- Mandatory for Jan Dhan and various government schemes
+- Lower transaction fees → preferred by banks
+- Pioneer in domestic UPI on credit cards
+- International acceptance via tie-ups (UnionPay, Discover, Diners)
+- Often comes with bundled accident insurance: ₹1-2 lakh (basic), up to ₹10 lakh (premium variants)
+
+ATM WITHDRAWAL LIMITS (TYPICAL)
+- Per transaction: ₹10,000-₹20,000 (some ATMs up to ₹40,000)
+- Per day: Per debit card variant
+  - Classic: ₹25,000-₹40,000
+  - Gold: ₹50,000
+  - Platinum: ₹50,000-₹1,00,000
+  - Premium: ₹1,00,000-₹2,00,000
+
+You can configure daily ATM limit (within bank-set max) via net banking or app.
+
+ATM WITHDRAWAL CHARGES — RBI RULES (Updated 2022)
+
+Free transactions per month per RBI:
+- At own bank's ATM (any city): 5 free per month (financial + non-financial)
+- At other bank's ATM:
+  - Metro (Mumbai, Delhi, Chennai, Kolkata, Bengaluru, Hyderabad): 3 free per month
+  - Non-metro: 5 free per month
+
+After free limit, banks charge customer:
+- Up to June 2024: ₹21 per financial transaction + ₹10 per non-financial (balance inquiry, mini-statement, PIN change)
+- From May 1, 2025 (revised by RBI): ₹23 per financial transaction (raised from ₹21)
+- Plus GST 18%
+
+Non-financial transactions at ATM:
+- Balance inquiry: ₹6-₹10 after free limit
+- Mini-statement: ₹6-₹10
+- PIN change: Usually free at own bank; ₹6-₹10 at other bank
+
+Note: BSBDA / Jan Dhan accounts have separate (often slightly different) ATM charge structure.
+
+POS / ONLINE TRANSACTION LIMITS
+- Daily POS purchase: ₹1-₹6 lakh based on card variant
+- Daily online transaction: Same range or set separately
+- International usage: By default disabled (RBI mandate); enable via app/net banking with custom limit
+- Contactless tap-to-pay limit without PIN: ₹5,000 per transaction (RBI raised from ₹2,000 in March 2020); above ₹5,000 requires PIN
+
+DEBIT CARD CHARGES — ANNUAL AND ISSUANCE
+
+Issuance fee:
+- Classic: ₹100-₹200 (often free for new accounts)
+- Gold/Platinum: ₹300-₹500
+- Signature/Business: ₹500-₹1,500
+
+Annual maintenance fee:
+- Classic: ₹100-₹250
+- Gold: ₹250-₹500
+- Platinum: ₹500-₹1,000
+- Premium: ₹750-₹1,500
+
+Replacement card: ₹100-₹500 (free in case of damage on first request, sometimes)
+Duplicate PIN: ₹50-₹100 via branch; usually free via app/net banking OTP-based generation
+GST 18% on all card-related fees.
+
+Note: BSBDA / Jan Dhan RuPay debit card is free for life.
+
+ATM USAGE — STEP BY STEP
+
+Cash withdrawal:
+1. Insert debit card (chip side up, name side first in modern ATMs)
+2. Select language
+3. Enter 4-digit PIN (cover the keypad)
+4. Choose "Cash Withdrawal" → Account type (Savings/Current)
+5. Enter amount (multiples of ₹100 typically)
+6. Collect cash, card, and receipt
+7. Press cancel/end to clear the session
+
+If cash not dispensed but account debited:
+- Usually auto-reversed within 5 working days (RBI norm)
+- If not, contact bank with ATM ID (printed on receipt), date, time, amount
+- Bank investigates with the ATM operator (e.g., NCR, FSS, Hitachi)
+- Compensation of ₹100 per day after 5 working days if delay continues (RBI mandate)
+
+Balance inquiry:
+- Insert card → PIN → Balance Inquiry → Choose account → View on-screen / print mini-statement
+- Counts as non-financial transaction
+
+PIN change:
+- Insert card → PIN → PIN Change → Enter new PIN twice → Confirm
+- Free at own bank ATM; small charge at other bank
+
+Cash deposit at CDM (Cash Deposit Machine):
+- Insert card → PIN → Cash Deposit → Account type → Insert notes
+- Machine counts and credits to account instantly
+- Limit: ₹49,900 per transaction (PAN required for ₹50,000+); ₹2 lakh per day
+- No charge usually
+
+Cardless cash withdrawal:
+- Generate OTP/QR via bank's mobile app
+- At enabled ATM: Select Cardless option → Enter mobile + OTP → Withdraw
+- Useful when card is lost/forgotten
+
+UPI ATM (NEW FEATURE — 2023)
+NPCI's interoperable cardless cash withdrawal via UPI:
+- At participating ATM, select UPI ATM → Scan QR with UPI app
+- Authorise with UPI PIN → Cash dispensed
+- Cumulative daily limit: Same as UPI daily cap
+- No card needed; works with any UPI app
+
+CARD SECURITY FEATURES
+
+1. EMV Chip: Encrypted chip generates unique cryptogram per transaction; cloning very difficult
+2. PIN: 4-digit secret; entered at ATM, POS, sensitive online transactions
+3. CVV / CVV2: 3-digit code on back of card for online transactions
+4. Holographic stripe: Anti-counterfeiting feature
+5. Tokenisation: Card details replaced with merchant-specific token (RBI mandate effective Oct 2022)
+6. Contactless: Cryptographic NFC chip; ₹5,000 limit without PIN
+7. International usage: Disabled by default; enable selectively
+
+DEBIT CARD CONTROLS (VIA APP)
+Real-time card management:
+- Block / unblock card
+- Generate / regenerate PIN
+- Enable/disable: ATM, POS, online, international, contactless
+- Set transaction limits per channel
+- Set daily and monthly cap
+- View pending and posted transactions
+- Lost card report and replacement request
+- Dispute transactions directly
+
+LOST CARD — IMMEDIATE STEPS
+1. Block the card via mobile app / 24×7 helpline / SMS short code / net banking
+2. Get confirmation reference number
+3. File FIR if physically stolen
+4. Request replacement (delivery in 7-10 days; instant virtual card via app if supported)
+5. Monitor account for any unauthorised transactions
+6. Report any unauthorised transactions within 3 working days for zero liability
+
+FRAUD AND ZERO-LIABILITY (RBI CIRCULAR ON LIMITED LIABILITY OF CUSTOMERS)
+Same framework as credit card (see credit_card_security.txt):
+- Bank fault: Zero liability irrespective of timing
+- Third-party fraud, no fault of customer/bank: 0 liability if reported within 3 working days; ₹10,000-₹25,000 if 4-7 days; bank's discretion thereafter
+- Customer's negligence (shared PIN): Customer liable until reported; zero after reporting
+
+DAY-TO-DAY ATM SECURITY TIPS
+1. Cover the keypad when entering PIN
+2. Use familiar ATMs (bank lobby is safer than standalone)
+3. Inspect the card slot before inserting (skimmer detection)
+4. Be alert for "shoulder surfers"
+5. Never accept "help" from strangers at the ATM
+6. Don't write PIN on the card or store with the card
+7. If card is captured by ATM, call the bank's helpline immediately
+8. Check SMS alerts for every transaction
+9. Reconcile bank statement monthly for any anomalies
+10. Avoid using ATM in poorly lit or isolated locations late at night
+
+ATM TYPES
+1. Bank ATM: Operated by the bank itself (most common)
+2. White Label ATM (WLA): Operated by non-bank entities like Tata Indicash, BTI Payments — accept all bank cards
+3. Brown Label ATM: Hardware owned by bank, operations outsourced
+4. CDM: Cash Deposit Machine (deposit cash)
+5. ATM cum Cash Recycler: Both deposit and withdrawal
+6. Smart ATM: Additional services — passbook update, cheque deposit, NEFT, FD opening
+
+NON-FINANCIAL TRANSACTIONS AT ATM
+- Balance inquiry
+- Mini-statement (last 10 transactions)
+- PIN change
+- Cheque book request
+- Statement request
+- Standing instruction setup (in advanced ATMs)
+- Mobile recharge (in advanced ATMs)
+- Beneficiary transfer (some ATMs)
+- Aadhaar linking confirmation
+
+DEBIT CARD BENEFITS (BUNDLED INSURANCE)
+Many debit cards bundle complimentary insurance:
+- Personal accident cover: ₹1 lakh-₹10 lakh
+- Air accident cover: ₹2 lakh-₹50 lakh (on Premium variants)
+- Purchase protection / lost card liability cover: ₹50,000-₹3 lakh
+- Hospital cash, ER coverage in some premium variants
+RuPay debit cards under PMJDY: ₹2 lakh accident insurance
+
+REWARDS AND CASHBACK ON DEBIT CARDS
+Some debit cards offer rewards on transactions:
+- 1%-5% cashback on select categories (online, dining, fuel)
+- Reward points redeemable for vouchers / products
+- Domestic lounge access on Premium variants (1-4 visits per quarter)
+- Some cards offer milestone-based bonus rewards
+Examples: HDFC Millennia debit card, Axis Atlas debit card, ICICI Coral debit card
+
+VIRTUAL DEBIT CARD
+Some banks now offer instant virtual debit cards:
+- Generated in app within seconds
+- Used for online transactions
+- Can be cancelled and regenerated
+- Higher security as separate number from physical card
+- Useful for one-time online use
+
+INTERNATIONAL USAGE
+- Default: Disabled
+- Enable via app: Set per-day usage cap, validity period
+- Forex markup: Typically 3.5% on debit card international transactions (higher than credit card)
+- Some banks: 1.5%-2% forex markup on premium variants
+- Use Forex Card (loaded with foreign currency) for cheaper international spending
+- Niyo Global debit card: 0% forex markup with locked-in rate
+
+WITHDRAWAL LIMITS — RBI MAXIMUM
+- RBI permits up to ₹2 lakh per day for ATM withdrawal per card (banks set lower limits)
+- Per transaction: Bank ATM hardware limit, typically ₹10,000-₹40,000
+
+KYC AND CARD ISSUANCE
+- Card linked to KYC-compliant account
+- New card issuance: Within 7 days of account opening
+- Re-issuance on expiry: Auto-renewed 30 days before expiry
+- Lost / damage replacement: 7-10 days; instant via app if virtual supported
+
+DORMANT CARD
+If debit card not used for 12-18 months:
+- Some banks deactivate; reactivation needs branch visit or app
+- Some banks reissue at expiry only if usage detected
+
+DEBIT CARD VS. CREDIT CARD — QUICK COMPARISON
+| Feature | Debit | Credit |
+|---|---|---|
+| Funds | Own | Bank's credit |
+| Interest | None | 36%-48% if unpaid post due |
+| Rewards | Limited | Higher |
+| Building Credit Score | No | Yes |
+| Bills | None (immediate debit) | Monthly statement |
+| Online security | OTP + PIN | OTP + 3D Secure |
+| Forex markup | 3.5%+ typical | 1.5%-3.5% |
+
+Rates may change, verify with bank — debit card features, charges, and limits are reviewed periodically.

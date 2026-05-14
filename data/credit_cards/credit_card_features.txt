@@ -1,0 +1,169 @@
+CREDIT CARD FEATURES — EMI, BALANCE TRANSFER, LOUNGE ACCESS, ADD-ONS, SURCHARGE WAIVERS
+
+EMI CONVERSION
+Credit card EMI is a facility that converts a large transaction into manageable monthly installments. Available on most major banks for transactions above a threshold (typically ₹3,000 to ₹10,000). Features:
+- Tenure options: 3, 6, 9, 12, 18, 24 months (some banks offer up to 36 months for big-ticket items)
+- Interest rate: 11%-18% per annum (lower than the 36%-48% revolving credit rate)
+- Processing fee: 1%-3% of transaction amount, or ₹99-₹500 flat
+- GST 18% on interest and processing fee
+- Foreclosure: 3% of outstanding principal (banks vary; some offer free foreclosure)
+
+How EMI Conversion Works:
+1. After a purchase, log into your bank's app/portal or call customer care
+2. Choose the transaction and select EMI tenure
+3. The transaction is converted within 7-10 business days
+4. The original purchase amount + processing fee block the same credit limit until repaid
+5. Each EMI shows up in your monthly statement; you must continue paying that amount along with new spends
+
+NO-COST EMI / NO-INTEREST EMI
+Offered on partner e-commerce platforms (Amazon, Flipkart, Croma, Reliance Digital) and select merchants. The interest amount is offset by a discount given by the merchant, so net out-of-pocket equals MRP. RBI has mandated transparent disclosure — the "discount" is shown in your statement so you can see the breakup. Conditions:
+- Available only on partner platforms during eligible promotions
+- Excluded from reward points/cashback on most cards
+- Processing fee may still apply (₹99-₹199)
+
+BALANCE TRANSFER (BT) ON CREDIT CARDS
+Move outstanding balance from one credit card (typically high interest) to another card at a promotional rate to save interest. Features:
+- Promotional rate: 0% to 1% per month for 3-6 months (vs. 3%-4% revolving)
+- BT processing fee: 1.5%-3% of transferred amount
+- Tenure: 3 to 12 months typically
+- Eligibility: Existing credit card customers with regular payment history
+Useful only if you have a concrete plan to repay during the low-interest period. Failure to repay reverts to the standard high rate.
+
+LOUNGE ACCESS
+Premium and super-premium credit cards offer complimentary access to domestic and international airport lounges:
+
+Domestic Lounges:
+- Entry-level cards: 1-2 visits per quarter
+- Premium cards (HDFC Regalia, ICICI Sapphiro, SBI Prime): 4 visits per quarter, total 16/year
+- Super-premium (HDFC Infinia, Diners Black, Axis Magnus): 8-12+ visits per quarter or unlimited
+
+International Lounges (via Priority Pass or DreamFolks):
+- Premium cards: 4-8 visits per year
+- Super-premium: Unlimited visits with primary + guest access
+
+Eligibility nuances:
+- Some cards require minimum spend per quarter to unlock lounge access
+- Lounge entry requires physical or digital lounge access voucher / card swipe at lounge desk
+- Indian banks often link with Priority Pass (Visa/Mastercard) or DreamFolks (a domestic lounge aggregator) for access
+
+GOLF PRIVILEGES
+Premium cards (HDFC Infinia, Diners Black, Axis Reserve) offer:
+- Free golf games at participating courses
+- Free golf lessons (typically 1-4 per year)
+- Discounted green fees at premium courses
+Used mainly by leisure golfers; may not benefit non-golf customers.
+
+CONCIERGE SERVICES
+Premium cards offer 24×7 concierge service via toll-free number or app:
+- Travel bookings: Flights, hotels, car rentals
+- Restaurant reservations at premium establishments
+- Event ticketing
+- Gift sourcing
+- Document courier and emergency assistance
+Concierge service is typically free, but the actual cost of any service booked is borne by the customer.
+
+DINING PROGRAMS
+Most premium cards integrate with dining programs:
+- ICICI Culinary Treats: 15%-25% off at partner restaurants
+- HDFC Good Food Trail: 15%-20% off
+- SBI Vishesh: similar discounts
+- Visa Dining Program / Mastercard Priceless Cities: city-specific dining offers
+- Diners Club Restaurant Network: Special menus at premium restaurants
+
+INSURANCE COVERS BUNDLED WITH CARDS
+Many premium cards offer complimentary insurance:
+- Air accident insurance: ₹50 lakh to ₹2.5 crore
+- Lost baggage cover: ₹50,000 to ₹2 lakh
+- Travel delay cover: ₹10,000-₹50,000
+- Lost card liability cover: Up to ₹3 lakh
+- Purchase protection: 30-180 days cover on items bought
+- Fraud protection / cyber risk cover
+Note: Coverage triggers usually require booking the eligible travel on the same credit card. Read the policy wording.
+
+ADD-ON CARDS (SUPPLEMENTARY CARDS)
+Issued to family members (spouse, parents, siblings, children 18+):
+- Up to 5 add-on cards per primary cardholder
+- All spending on add-on shows on primary's statement
+- Add-on cards share the primary's credit limit
+- Often free or nominal fee
+- Useful for managing family finances, gifting partner buying power, or earning more rewards
+
+FUEL SURCHARGE WAIVER
+Indian credit cards charge a 1% fuel surcharge on petrol/diesel transactions. Most cards waive this surcharge if certain conditions are met:
+- Transaction value typically ₹400 to ₹5,000
+- Waiver capped at ₹100-₹250 per statement cycle
+- Examples:
+  - HDFC Millennia: 1% fuel surcharge waiver up to ₹250 per cycle
+  - Axis Vistara: Waiver on transactions ₹400-₹4,000, capped ₹400 per cycle
+  - SBI Octane: Waiver + accelerated rewards on fuel
+  - BPCL SBI Octane card: Up to 25 reward points per ₹100 at BPCL outlets, plus 1% surcharge waiver
+
+CONTACTLESS PAYMENTS (NFC TAP-TO-PAY)
+All new Indian credit cards are NFC-enabled. Features:
+- Tap and pay at compatible POS terminals
+- Without PIN: Transactions up to ₹5,000 (RBI increased from ₹2,000 in 2020)
+- Above ₹5,000: Card insert + PIN required
+- Faster than insert/swipe + sign
+- Same fraud protection as chip cards
+- Disable contactless via app if not needed
+
+TOKENISATION
+RBI mandated card tokenisation effective October 2022:
+- Card details (16-digit number, CVV, expiry) are replaced with a token at merchant sites
+- The actual card number is not stored by merchants
+- Tokenisation is per-card-per-merchant
+- You consent to tokenisation during checkout; merchant stores token, not card
+- Reduces fraud risk substantially in case of merchant data breach
+- Tokenisation is FREE for customers
+
+VIRTUAL CREDIT CARDS
+Some banks offer virtual cards — instant digital credit cards usable for online transactions:
+- HDFC NetSafe: One-time virtual card with set amount and expiry — for risky online merchants
+- Axis NEO: Digital-first card with full virtual + physical
+- SBI YONO Pay: Virtual card via app
+Useful for security: even if merchant is breached, virtual card limits damage to that single transaction or short timeframe.
+
+REWARD POINTS REDEMPTION OPTIONS
+1. Statement credit: Points converted to cash credit on your statement (most flexible)
+2. Catalogue: Mobile phones, appliances, vouchers (Amazon, Flipkart), travel
+3. AirMiles: Convert to airline frequent flyer programs (e.g., 4 HDFC points = 1 Vistara point)
+4. Travel: Flights, hotels via bank's travel portal — usually 1 point = ₹0.20-₹0.30
+5. Gift cards: Multi-brand vouchers
+6. Charity: Donate points to NGOs (some cards offer 1:1 ratio for charity)
+
+MILESTONE BENEFITS
+Many cards reward spending milestones:
+- Quarterly: ₹50,000-₹1.5 lakh spends → bonus points, voucher, or fee waiver
+- Annual: ₹3-5 lakh spends → premium voucher, lounge upgrade, fee waiver
+- Lifetime: Some cards offer milestone rewards for being a customer for 5/10+ years
+
+CO-BRANDED CARDS — DEEPER DIVE
+Co-branded cards offer accelerated rewards or loyalty benefits within the partner's ecosystem:
+- Amazon Pay ICICI: 5% cashback on Amazon (for Prime members), 2% on Amazon Pay partner merchants
+- Flipkart Axis: 5% cashback on Flipkart, 4% on partner merchants
+- Swiggy HDFC: 10% cashback on Swiggy
+- Tata Neu HDFC: NeuCoins on Tata brands (BigBasket, Croma, IHCL, Air India, etc.)
+- Vistara SBI Signature: 4 CV Points per ₹200 + class upgrade voucher
+- IndiGo HDFC: 6X 6E rewards on IndiGo bookings
+
+These cards make sense if your spending naturally aligns with the partner; otherwise a generic high-rewards card may be better.
+
+REWARD CAPS AND EXCLUSIONS
+Most cards have caps on accelerated rewards:
+- "5X rewards on dining" might be capped at 2,500 points per month
+- Categories often excluded: rent, fuel (depends), wallet loads, government, utilities, insurance, EMI, cash advance
+- Many premium cards reduced caps in 2023-24 — Axis Magnus reduced earning structure significantly; HDFC Infinia, ICICI changed rewards on insurance/government
+
+TIPS TO MAXIMISE CREDIT CARD VALUE
+1. Match card to your spending: high travel → travel rewards; high online shopping → cashback or Amazon/Flipkart card
+2. Use multiple cards strategically — e.g., one for online (Amazon Pay), one for offline (Axis Ace), one for travel (Vistara SBI)
+3. Hit annual fee waiver thresholds
+4. Redeem reward points before they expire (typically 2-3 years)
+5. Use lounge access actively if you travel even occasionally
+6. Always pay in full to keep rewards net-positive
+7. Set up auto-pay for total amount due
+8. Track spends via bank's app and SMS alerts
+9. Watch for category caps and reward exclusions
+10. Maintain CIBIL 750+ for the best premium card eligibility
+
+Rates may change, verify with bank — check your card's MITC, rewards catalogue, and benefits page on the bank's website.

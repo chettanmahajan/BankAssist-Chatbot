@@ -1,0 +1,233 @@
+RBI CHARTER OF CUSTOMER RIGHTS AND BANKING CONSUMER PROTECTION
+
+OVERVIEW
+The Reserve Bank of India (RBI) has issued a Charter of Customer Rights based on the recommendations of the Damodaran Committee on Customer Service in Banks (2011). The Charter codifies five fundamental rights that every bank customer in India can demand. RBI also continuously issues Master Directions, Master Circulars, and specific notifications to protect customers from unfair, opaque, or fraudulent banking practices. Together, these form the consumer protection framework that customers should be aware of.
+
+THE FIVE BASIC CUSTOMER RIGHTS
+
+1. RIGHT TO FAIR TREATMENT
+Every customer must be treated fairly and not be discriminated against on grounds of gender, age, religion, caste, physical ability, or marital status. Specifically:
+- Banks cannot deny or delay services on these grounds
+- Differentiated pricing based on customer category (income, balance) is permitted but must be transparent
+- Special considerations for senior citizens, persons with disabilities, women, and rural customers
+- Differently-abled customers have right to dedicated counters and assistance
+- Banks must communicate in a clear, simple language; vernacular language support where required
+
+Implications:
+- A bank cannot refuse to open a basic savings account (BSBDA) if KYC is in order
+- Aged customers can request branch visit / pickup-drop services for documents
+- Women customers cannot be made to wait separately or denied counter access
+
+2. RIGHT TO TRANSPARENCY, FAIR AND HONEST DEALING
+Customers have the right to receive accurate, complete, and unambiguous information about banking products and services. Banks must:
+- Disclose all fees, charges, interest rates, terms, and conditions clearly
+- Provide the Most Important Terms and Conditions (MITC) document at the time of product purchase
+- Avoid misleading advertisements
+- Display "Schedule of Charges" prominently at branches and on websites
+- Provide written confirmation of all transactions (statements, passbooks, transaction SMS)
+- Clarify all aspects of the product / service before customer decides
+- Disclose all commissions / incentives if selling third-party products (insurance, MF)
+
+Implications:
+- Customer can ask for written disclosure before signing any agreement
+- Hidden charges or undisclosed fees are not enforceable
+- Customer can demand a copy of every contract / agreement signed
+
+3. RIGHT TO SUITABILITY
+Banks must offer products and services suitable to customer's needs, profile, and risk-appetite. Specifically:
+- Bank staff should not push unsuitable products (e.g., aggressive ULIPs to a risk-averse senior)
+- No bundling of insurance with loan / locker / FD unless customer specifically wants it
+- Tied selling / cross-selling must be customer-initiated, not coerced
+- Risk profiling should precede sale of investment products
+- Suitability assessment for credit cards, loans (cannot exceed customer's repayment capacity)
+
+Implications:
+- Customer can refuse bundled insurance / mutual fund pitched along with loan / FD
+- Mis-sale can be reported to bank / Banking Ombudsman / consumer court
+- Aggressive selling complaint can lead to recall of the product
+
+4. RIGHT TO PRIVACY
+Customer information must be kept confidential and shared only with prior consent of the customer or as required by law. Banks must:
+- Not share customer data with third parties (insurance, MF, telemarketers) without consent
+- Maintain data security per RBI guidelines (data localisation, encryption, access controls)
+- Obtain explicit consent for KYC sharing via CKYCR
+- Allow customer to opt-out of promotional calls / SMS (Do Not Disturb)
+- Comply with Information Technology Act and Digital Personal Data Protection Act, 2023 (DPDPA)
+
+Implications:
+- Unwanted marketing calls from "bank's partners" are a violation
+- Customer can demand a list of data shared with third parties
+- Data breach must be informed to customer
+
+5. RIGHT TO GRIEVANCE REDRESS AND COMPENSATION
+Customers have right to:
+- Easy access to grievance redressal channels
+- Time-bound resolution of complaints (banks have internal TATs)
+- Compensation for deficient service or losses caused by bank's negligence
+- Escalation to higher authorities (Internal Ombudsman, Banking Ombudsman)
+- Final recourse to consumer courts
+
+Specific TATs (Turn Around Times):
+- ATM cash dispense failure: Auto-reversal within 5 working days; ₹100 per day compensation after that
+- Unauthorised electronic transaction: Investigation within 90 days
+- Failed UPI/IMPS: Auto-reversal within T+1; charge-back per UDIR within T+5
+- General complaint: Resolution within 30 days; otherwise escalate to Banking Ombudsman
+
+RBI'S CONSUMER PROTECTION FRAMEWORK
+
+Internal Ombudsman (IO):
+- Mandatory for banks with assets ≥ ₹50,000 crore (effective 2018)
+- Resolves customer complaints rejected/partially redressed by the bank's first-line system
+- Reports to bank's board
+- Free for customer
+
+Banking Ombudsman:
+- RBI-appointed adjudicator for unresolved customer complaints
+- Single Integrated Ombudsman Scheme effective November 2021 — one scheme covering banks, NBFCs, payment system participants
+- Free for customer; no representative cost
+- Final award up to ₹20 lakh for direct loss + up to ₹1 lakh for mental agony / time lost
+- Decision binding on bank if customer accepts; bank can appeal to RBI
+
+How to file Banking Ombudsman complaint:
+1. First, submit grievance to the bank in writing
+2. If not resolved in 30 days, or if reply is unsatisfactory: File complaint within 1 year
+3. File via:
+   - Online: cms.rbi.org.in (Complaint Management System)
+   - Toll-free: 14448
+   - Email: CRPC@rbi.org.in
+   - Post / fax to nearest Banking Ombudsman office
+4. Provide: Complaint nature, relevant documents, communication trail
+5. Ombudsman examines, conducts conciliation; if not settled, issues award
+6. Process typically 30-90 days
+
+KEY RBI MASTER DIRECTIONS AND CIRCULARS PROTECTING CUSTOMERS
+
+1. Master Direction on Issuance and Conduct of Debit and Credit Cards (2022)
+- No card issuance without explicit consent
+- Closure on customer request within 7 working days; ₹500/day penalty for delay
+- Clear MITC disclosure
+- Limited liability for unauthorised transactions
+
+2. Limited Liability Framework for Unauthorised Electronic Banking Transactions (2017)
+- Zero liability for bank-fault
+- Zero liability if customer reports unauthorised transaction within 3 working days
+- Limited liability (₹10k-₹25k) if reported in 4-7 days
+- Customer's responsibility to report promptly
+
+3. Fair Practices Code for Lenders
+- Loan terms must be clear and in writing
+- No coercive recovery practices
+- Right to be heard before classifying account as NPA
+- Right to fair compensation if bank wrongly reports defaulter
+
+4. Code of Bank's Commitment to Customers (BCSBI)
+- Voluntary code adopted by banks
+- Specifies service standards (TAT for cheque clearing, account opening, statement delivery)
+- Branch should display the code
+
+5. RBI Master Direction on KYC (2016)
+- Periodic re-KYC requirement
+- Multiple acceptable OVDs
+- Video KYC allowed
+- CKYCR for one-time KYC
+
+6. Master Direction on Customer Service in Banks
+- Branch ambience, response time, complaint resolution
+- Senior citizen / disabled customer support
+
+CUSTOMER PROTECTION FROM HARASSMENT (LOAN RECOVERY)
+
+Banks and their agents cannot:
+- Visit borrower's home before 7 AM or after 7 PM
+- Resort to verbal abuse, intimidation, or threat
+- Make excessive calls (some banks have internal limits — max 3 per day)
+- Approach unrelated family members or employer for recovery
+- Repossess vehicles / property without due process
+- Publicly humiliate (post photos, send WhatsApp pictures)
+
+If harassment occurs:
+- Record evidence (call recordings, photos, messages)
+- Complain to bank
+- File police complaint
+- Approach RBI / Banking Ombudsman
+- Civil case for defamation / mental harassment
+
+UNFAIR PRACTICES — REGULATORY ACTION
+RBI has penalised banks for:
+- Unfair levy of charges
+- Mis-selling of insurance / ULIPs to senior citizens
+- Forced cross-selling
+- Aggressive recovery
+- Data privacy breaches
+- KYC lapses
+Penalties range ₹1 crore to ₹100+ crore.
+
+SPECIFIC CUSTOMER-FRIENDLY RBI INITIATIVES
+
+1. Penal interest on delays:
+- Failure to credit refund/reversal in time → bank pays ₹100/day (e.g., ATM failure)
+- Delayed disbursal of approved loan → bank pays at agreed rate
+
+2. Annual percentage rate (APR) disclosure:
+- For credit cards: Effective interest in % terms must be disclosed in MITC
+- For loans: Annualised rate including all charges must be communicated
+
+3. Compensation for cheque collection delays:
+- If outstation cheque takes more than specified time, bank compensates with interest at savings rate
+
+4. Account portability (no penalty for closing):
+- Closing account within 14 days of opening is free
+- Reasonable charges for later closures
+
+5. Cash withdrawal from any branch:
+- Customer can withdraw ₹50,000 cash at any branch of own bank (not just home branch); higher amount at home branch (some banks)
+
+CONSUMER COURTS
+For grievances above Banking Ombudsman threshold or claims for damages:
+- District Consumer Disputes Redressal Commission: Up to ₹1 crore
+- State Consumer Disputes Redressal Commission: ₹1 crore-₹10 crore
+- National Consumer Disputes Redressal Commission: Above ₹10 crore
+- File complaint with proof of deficiency in service / unfair trade practice
+
+SPECIAL PROTECTIONS FOR SENIOR CITIZENS
+RBI mandates:
+- Doorstep banking for senior citizens above 70 years and persons with disabilities (pickup-drop, life certificate collection, cash delivery on request, FD opening)
+- Priority service at branches
+- Separate queues / counters
+- Higher FD interest rates
+- Easier KYC re-verification
+
+SPECIAL PROTECTIONS FOR WOMEN
+- Some banks offer differentiated savings accounts with lower AMB, free insurance
+- Stand-Up India scheme for women entrepreneurs
+- Government's PM Jan Dhan for financial inclusion
+- Mahila Samman Savings Certificate (post office, 7.5% rate, ₹2 lakh max)
+
+SAFEGUARDS AGAINST FRAUD
+- RBI's Zero Liability framework (timely reporting)
+- BHIM-related guidelines
+- Aadhaar-based authentication standards
+- Tokenisation of card details
+- Two-factor authentication for online transactions
+- Sahamati account aggregator framework for consented data sharing
+
+DIGITAL PERSONAL DATA PROTECTION ACT (DPDPA), 2023
+- Banks must obtain consent before processing personal data
+- Data localisation requirements (data of Indian users to be stored in India for payment systems)
+- Customer's right to access, correct, erase data
+- Data principal can withdraw consent
+- Data Protection Board for grievance redressal
+
+EXERCISING YOUR RIGHTS — PRACTICAL TIPS
+1. Read MITC of every product
+2. Demand written explanation for any charge
+3. Submit grievance in writing (email + complaint number)
+4. Keep copies of all bank communications
+5. Use bank's app / portal grievance section first
+6. Escalate to Nodal Officer / Internal Ombudsman after 30 days
+7. File Banking Ombudsman complaint within 1 year of bank's response
+8. Take legal recourse via consumer court for damages
+9. Maintain digital records of all transactions, statements, communications
+10. Stay informed via RBI's website, press releases, customer awareness initiatives
+
+Rates and rules may change, verify with bank / RBI — but the fundamental rights are constant and binding on every regulated entity.

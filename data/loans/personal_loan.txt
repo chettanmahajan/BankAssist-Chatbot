@@ -1,0 +1,110 @@
+PERSONAL LOAN — COMPLETE GUIDE
+
+OVERVIEW
+A personal loan is an unsecured loan extended by banks and NBFCs to individuals for any legitimate personal expense — medical emergencies, wedding, travel, home renovation, debt consolidation, education-related expenses not covered by an education loan, or large consumer purchases. Unlike a home loan or vehicle loan, no collateral or asset is pledged; approval is based purely on the borrower's credit profile, income, and repayment capacity. Because the lender bears higher risk, interest rates are higher than secured loans. Major personal loan providers in India include HDFC Bank, ICICI Bank, SBI, Axis Bank, Kotak, IndusInd Bank, Bajaj Finserv, Tata Capital, and digital lenders like Money View and KreditBee. Rates and fees mentioned below are indicative as of FY 2024-25; rates may change, verify with your bank.
+
+INTEREST RATES
+Personal loan interest rates in India typically range from 10.5% per annum to 24% per annum. The rate offered depends on:
+- Credit score: 750+ scores generally get 10.5%-12% rates; 700-749 get 13%-15%; below 700 may be 18%-24% or rejected.
+- Employer category: Premium category employers (top corporates, government, defence) get preferred rates.
+- Existing relationship: Salary account holders and existing borrowers receive 0.25% to 1% concessions.
+- Loan amount: Higher amounts (₹15 lakh+) may attract slightly lower rates.
+- Tenure: Longer tenure often carries marginally higher rates.
+The rate is fixed for the entire tenure of the loan in most cases. Some lenders offer floating-rate personal loans, but these are uncommon. Pre-approved personal loans for existing customers come with the best rates and minimal documentation.
+
+LOAN AMOUNT
+Personal loan amounts range from ₹50,000 to ₹40 lakh, depending on the lender and the applicant's profile. Most banks cap the loan at 12 to 24 times the monthly net income for salaried borrowers. Self-employed borrowers can borrow based on average monthly income from ITR. The bank also evaluates the Fixed Obligation to Income Ratio (FOIR) — total existing EMIs plus new personal loan EMI should not exceed 50% to 65% of net monthly income. For example, with a net salary of ₹80,000 and existing EMIs of ₹15,000, the new personal loan EMI cannot exceed approximately ₹25,000-₹37,000.
+
+TENURE
+Personal loan tenure typically ranges from 12 months to 60 months (1-5 years). A few lenders offer 72-month or 84-month tenures for select customers. Shorter tenure means higher EMI but lower total interest. For a ₹5 lakh loan at 12% p.a.: 36-month EMI is approximately ₹16,607, total interest paid ₹97,857; 60-month EMI is approximately ₹11,122, total interest paid ₹1,67,343.
+
+ELIGIBILITY
+Salaried applicants:
+- Age 21 to 60 years
+- Monthly net income ₹15,000 minimum (₹25,000+ for metros and premium banks)
+- Minimum 1 year total work experience and 6 months at current employer
+- Employed with a company on the lender's approved list
+- CIBIL score 700+ (750+ for best rates)
+
+Self-employed professionals and business owners:
+- Age 25 to 65 years
+- Minimum 3 years in business with proven profitability
+- Annual ITR of ₹5 lakh+ recommended
+- Business should be GST-registered (where applicable)
+- Strong CIBIL score and track record
+
+DOCUMENTS REQUIRED
+For salaried:
+- Identity proof: PAN, Aadhaar, Passport, Voter ID, Driving Licence
+- Address proof: Aadhaar, utility bill, passport, rent agreement
+- Income proof: 3 months' salary slips, Form 16 of last 2 years, 6 months' bank statements
+- Employment proof: Offer letter or employment certificate
+- Photographs: 2 passport-size photos
+
+For self-employed:
+- KYC documents as above
+- Last 2-3 years' ITR with computation
+- Audited Profit & Loss and Balance Sheet
+- GST registration certificate
+- 12 months' business bank statements
+- Business registration proof (Shop Act, Udyam, partnership deed)
+
+PROCESSING FEE AND OTHER CHARGES
+Processing fee: 0.5% to 2.5% of the loan amount, with a minimum of ₹999 to ₹5,000. GST at 18% applies on this fee.
+Loan cancellation: If you cancel within 7 days, banks may refund processing fee minus a small administrative charge plus pro-rata interest.
+Documentation / stamp duty: ₹500 to ₹2,000 depending on state.
+EMI bounce charges: ₹500 to ₹750 per bounce, plus penal interest.
+Late payment penalty: 2% to 3% per month on overdue EMI.
+Statement / amortisation schedule: Free online; physical copy may cost ₹250 to ₹500.
+
+FORECLOSURE AND PREPAYMENT
+Most banks levy foreclosure charges on personal loans because they are fixed-rate loans:
+- Foreclosure within 12 months: 4% to 5% of outstanding principal (some banks disallow foreclosure for first 6-12 months).
+- 12-24 months: 3% to 4%.
+- 24-36 months: 2% to 3%.
+- Beyond 36 months: 0% to 2%.
+Partial prepayment may also attract similar charges. As of recent RBI guidance for individual borrowers, some lenders have voluntarily waived foreclosure charges; check your loan agreement and bank's current policy.
+
+INSTANT DISBURSAL AND DIGITAL LOANS
+Many banks now offer instant personal loans (also called pre-approved or digital loans) to existing customers with salary accounts. The application is fully digital — login to net banking or mobile app, accept the pre-approved offer, complete e-KYC, sign loan agreement digitally, and funds are credited in 30 seconds to 2 hours. Pre-approved loans typically range from ₹50,000 to ₹15 lakh. Newer fintech-style processes use account aggregator framework to pull bank statements with consent and disburse to first-time borrowers within hours.
+
+CREDIT SCORE IMPACT
+Every loan application triggers a hard inquiry on your CIBIL/Experian record, which drops your score by 5-10 points temporarily. Multiple applications in a short time signal credit hunger and hurt your score further. Once approved, regular on-time EMI payments improve your score significantly. A defaulted personal loan severely damages your credit profile and remains on record for 7 years.
+
+EMI BOUNCE AND DEFAULT CONSEQUENCES
+If an EMI bounces (insufficient balance, NACH mandate failure):
+- The bank charges a bounce fee (₹500-750)
+- Penal interest of 2%-3% per month on the overdue amount
+- Your CIBIL report is flagged with "Days Past Due" (DPD) markers
+- After 3 consecutive bounces, the bank's collection team contacts the borrower
+- After 90 days of non-payment, the account is classified as a Non-Performing Asset (NPA), and the bank initiates legal recovery under SARFAESI Act (though SARFAESI applies more to secured loans; for unsecured loans, the bank files civil suit or initiates Insolvency proceedings)
+
+DEBT CONSOLIDATION
+Personal loans are commonly used to consolidate multiple high-interest debts (credit cards charging 36-48% p.a., other personal loans). Replacing ₹3 lakh of credit card debt with a personal loan at 13% can save lakhs in interest and simplify finances with a single EMI. Some banks offer balance transfer of personal loans from other lenders at lower rates plus a small top-up.
+
+TAX TREATMENT
+Personal loans are generally not eligible for tax deduction. However, if used specifically for:
+- Home renovation or extension: Interest may be claimed under Section 24(b) up to ₹30,000 for repairs (₹2 lakh for construction/extension)
+- Business: Interest qualifies as business expense under Section 37
+- Higher education: Generally no — only formal education loans qualify under Section 80E
+Maintain documentary proof of end-use for any tax claim.
+
+LOAN AGAINST FIXED DEPOSIT (FD)
+A more economical alternative for short-term needs: Loan against your own Fixed Deposit. Banks offer 80%-95% of the FD value at a rate just 1%-2% above the FD interest rate (e.g., FD at 7% → loan at 8.5%). The FD remains intact and continues to earn interest. There is no separate processing fee, no income proof needed, and instant approval. Maximum tenure is the residual tenure of the FD. Useful when you don't want to break the FD prematurely.
+
+LOAN AGAINST SECURITIES / MUTUAL FUNDS
+Banks also lend against equity shares, mutual funds, bonds, and insurance policies. Loan-to-value is 50% for equity, 75%-80% for debt/hybrid mutual funds, 90% for insurance policies. Interest rates are typically 10%-12%. The securities remain pledged but you retain ownership and dividends.
+
+EMERGENCY CREDIT LINE
+Some banks offer overdraft facilities on salary accounts or pre-approved overdraft of 2-3 times monthly salary. Interest is charged only on the amount used, not the full sanctioned limit, and only for the days used. Useful for very short-term emergencies — cheaper than a personal loan if repaid within 30-60 days.
+
+TIPS FOR GETTING THE BEST RATE
+1. Maintain CIBIL score 750+ by paying all EMIs and credit card bills on time.
+2. Avoid applying to multiple banks simultaneously; check eligibility tools first.
+3. Negotiate processing fees with existing relationship banks.
+4. Ask for pre-approved offers before researching market rates.
+5. Consider shorter tenures to save total interest.
+6. Read the most important terms and conditions (MITC) carefully for hidden charges.
+7. Use a personal loan EMI calculator before committing.
+
+Rates may change, verify with your bank for current offers and detailed terms.

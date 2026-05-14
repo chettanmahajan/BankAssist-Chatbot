@@ -1,0 +1,193 @@
+FIXED DEPOSIT (FD) — TENURE, RATES, TAXATION, FEATURES
+
+OVERVIEW
+A Fixed Deposit (FD) — also called Term Deposit — is a banking product where a depositor places a sum of money with a bank for a fixed tenure at a pre-determined interest rate. The principal is locked for the chosen tenure, after which it is paid back with accrued interest. FDs are among India's most popular savings instruments because of their safety (insured up to ₹5 lakh by DICGC), assured returns, and simplicity. Major FD issuers include public sector banks, private banks, small finance banks, post offices, and select NBFCs (HDFC Ltd, Bajaj Finance, etc.). Rates and figures below are indicative as of FY 2024-25; rates may change, verify with bank.
+
+INTEREST RATES (FY 2024-25 INDICATIVE)
+Interest rates vary by tenure, depositor type (general vs. senior citizen), and bank category:
+
+Public Sector Banks (SBI, BoB, PNB, Canara):
+- 7-45 days: 3.0%-4.5% p.a.
+- 46-179 days: 4.5%-5.5%
+- 180 days-1 year: 5.5%-6.5%
+- 1-2 years: 6.5%-7.10%
+- 2-3 years: 7.0%-7.25%
+- 3-5 years: 6.75%-7.0%
+- 5-10 years: 6.50%-6.75%
+
+Private Banks (HDFC, ICICI, Axis, Kotak):
+- 1-year: 6.6%-7.0%
+- 2-3 years: 7.0%-7.25%
+- 3-5 years: 7.0%-7.10%
+
+Small Finance Banks (AU SFB, Equitas, Ujjivan, Suryoday, ESAF):
+- 1-3 years: 7.5%-9.0%
+- Some special tenures: 9.0%-9.21% (Suryoday FY24-25 best rates)
+- These are riskier than scheduled commercial banks but still DICGC-insured up to ₹5 lakh
+
+Special Tenure FDs: Banks often introduce promotional FDs with 444 days, 555 days, 666 days, 999 days at slightly higher rates (15-30 bps over standard 1-year rate). Examples: SBI Amrit Kalash, HDFC special FD 35-66 months.
+
+Senior Citizen FDs: Additional 0.25%-0.75% over regular rates. SBI WeCare and similar schemes add another 0.10%-0.30% for super-senior segments (75+ years). Indicative senior rates touch 7.75%-8.0% in PSU banks and 8.5%-9.0% in small finance banks. Rates may change, verify with bank.
+
+FD TENURE
+- Minimum: 7 days (rates very low for ultra-short FDs)
+- Maximum: 10 years (some banks 20 years)
+- Standard tenures: 7, 14, 21, 30, 45, 60, 90, 180 days; 1, 2, 3, 5, 10 years
+- Many banks now allow customised tenure in days
+
+MINIMUM AND MAXIMUM DEPOSIT
+- Minimum: ₹1,000-₹10,000 (bank dependent)
+- Senior citizen schemes (post office SCSS): ₹1,000-₹30 lakh
+- No upper limit at most banks; for amounts above ₹2 crore, "Bulk FD" rates apply (often slightly different from retail FD rates)
+
+INTEREST PAYOUT OPTIONS
+
+1. Cumulative FD: Interest is compounded quarterly (most common) or monthly/annually, paid out with principal at maturity. Best for long-term wealth accumulation. Yield is higher than payout FDs due to compounding.
+
+2. Non-cumulative FD: Interest is paid out at regular intervals — monthly, quarterly, semi-annually, or annually. Useful for retirees and those needing regular income.
+
+3. Reinvestment Plan: Interest is automatically reinvested into the same FD as principal — for cumulative effect.
+
+For monthly payout, banks calculate the discount rate; the effective annual yield is slightly lower than cumulative.
+
+COMPOUNDING
+Interest is typically compounded quarterly in cumulative FDs. Example:
+₹1,00,000 FD at 7% p.a. for 5 years compounded quarterly:
+Maturity = P × (1 + r/4)^(4n) = 1,00,000 × (1 + 0.0175)^20 ≈ ₹1,41,478
+Total interest = ₹41,478
+Whereas simple interest at 7% for 5 years = ₹35,000
+The difference (₹6,478) is the power of compounding.
+
+TAXATION OF FIXED DEPOSITS
+
+1. Interest Income: Fully taxable as "Income from Other Sources" at the depositor's slab rate.
+
+2. TDS (Tax Deducted at Source):
+- Threshold (per bank, per financial year): ₹40,000 for general depositors; ₹50,000 for senior citizens
+- TDS rate: 10% if PAN provided; 20% if PAN not provided
+- TDS is deducted at the time of interest credit, not maturity
+- TDS is reflected in Form 26AS and AIS — visible to taxpayer
+
+3. Avoiding TDS via Form 15G / 15H:
+- Form 15G: For non-senior depositors whose total income is below the basic exemption limit
+- Form 15H: For senior citizens (60+) whose tax liability is nil
+- Submitted at the start of each financial year to the bank
+- TDS is then not deducted on interest
+- Caveat: If total interest exceeds basic exemption, the declaration is invalid; verify income tax position
+
+4. Section 80C — Tax-Saver FD:
+- 5-year FDs at scheduled banks qualify for deduction up to ₹1.5 lakh under Section 80C
+- Locked for 5 years — no premature withdrawal allowed
+- Interest is still taxable
+
+5. Senior Citizen Tax Benefit:
+- Section 80TTB: Up to ₹50,000 deduction on combined FD + savings + RD interest for senior citizens
+
+PREMATURE WITHDRAWAL
+- Allowed for most FDs (except 5-year tax-saver and certain promotional schemes)
+- Interest is paid at the rate applicable for the period the deposit was actually held (not the contracted rate)
+- Penalty: 0.50%-1.00% off the applicable rate
+- Example: 3-year FD at 7%, withdrawn at 1 year. Rate for 1-year tenure was 6%. After 1% penalty = 5% paid. Significant loss compared to original 7%.
+- Some senior citizen FDs and small-amount FDs (under ₹5 lakh) may have no premature withdrawal penalty per RBI relaxations
+
+PARTIAL WITHDRAWAL / FLEXI FD
+- Some banks allow FD to be broken in parts (units of ₹1,000 or ₹5,000)
+- Remaining FD continues at original rate
+- Useful for liquidity flexibility
+- Premature withdrawal penalty applies on the broken portion
+
+LOAN AGAINST FD
+A more economical alternative to premature withdrawal:
+- Loan up to 85%-95% of FD value
+- Interest rate: 1%-2% above the FD rate (e.g., FD at 7% → loan at 8.5%-9%)
+- No processing fee, no documentation
+- Available instantly via net banking
+- FD continues to earn interest
+- Loan must close before FD matures
+- Tenure: Residual tenure of FD
+
+5-YEAR TAX SAVER FD
+- Eligible for Section 80C deduction up to ₹1.5 lakh
+- Lock-in: 5 years, NO premature withdrawal
+- No loan against this FD
+- Single or joint holder (deduction available only to primary holder)
+- Interest is fully taxable; TDS applies
+- Rates similar to regular 5-year FD (6.5%-7.5%)
+
+FCNR(B) — FOREIGN CURRENCY NON-RESIDENT (BANK) DEPOSITS
+For NRIs:
+- Maintained in foreign currency (USD, GBP, EUR, JPY, CAD, AUD, etc.)
+- Tenure 1-5 years
+- Interest tax-free in India
+- Principal and interest freely repatriable
+- Protects from rupee depreciation
+- Premature withdrawal allowed but interest may be lost for the partial period
+Details in NRI banking document.
+
+NRE / NRO FD
+- NRE FD: Tax-free in India, repatriable, INR-denominated
+- NRO FD: Taxable in India, repatriable up to USD 1 million per year, INR-denominated
+Details in NRI banking document.
+
+SENIOR CITIZEN FD SCHEMES (BEYOND HIGHER RATE)
+
+1. SBI WeCare: For super-senior citizens (75+) with additional 0.10% over regular senior citizen rate; tenure 5-10 years.
+
+2. HDFC Senior Citizen Care FD: Extra 0.25%-0.75% over base rate.
+
+3. Bank of India Star Senior Citizen: Higher rates for senior depositors.
+
+4. Post Office Senior Citizen Savings Scheme (SCSS): Government-backed, 8.2% rate (FY24-25), tenure 5 years, max ₹30 lakh, quarterly payout, eligible for 80C.
+
+5. Pradhan Mantri Vaya Vandana Yojana (PMVVY): Through LIC, pension scheme for senior citizens (now closed for fresh enrollment since March 2023).
+
+CORPORATE FDS (NBFC FDS)
+NBFCs and corporates also offer FDs:
+- Higher rates: 7.5%-9% common
+- Examples: HDFC Ltd FD (merged into HDFC Bank now), Bajaj Finance FD, Mahindra Finance FD, ICICI Home Finance FD
+- NOT covered under DICGC insurance — credit risk depends on NBFC rating
+- Choose only AAA-rated NBFCs (Bajaj Finance is AAA; some smaller NBFCs are riskier)
+- Senior citizen and women-specific additional rates available
+- Premature withdrawal terms vary
+
+AUTO-RENEWAL
+- Most FDs can be set to auto-renew on maturity at the prevailing rate
+- Option to renew principal only (interest paid out) or principal + interest
+- Customer can change instruction before maturity
+- If no instruction is given, banks typically renew automatically (varies by bank)
+
+NOMINATION
+- Strongly recommended for FDs
+- Single nominee per FD account
+- Nominee can claim FD on death of depositor — simpler than legal succession
+- Add at FD opening or via Form DA-1
+
+DEPOSIT INSURANCE — DICGC
+- ₹5 lakh coverage per depositor per bank (across all accounts of same right and capacity)
+- Covers principal + interest accrued
+- Includes savings, current, RD, FD balances
+- Examples of payouts: DHFL FD (PMC Bank crisis), Yes Bank reconstruction-era payouts to depositors
+
+BUYING FDS — STEPS
+1. Online via net banking / mobile app: Instant, paperless, e-KYC, no signature needed
+2. At branch: Fill account opening form (if not existing customer), submit KYC, deposit cheque/cash, receive FD receipt
+3. Through aggregators: Companies like Bank Bazaar, Paisabazaar, ETMoney offer rate comparison; you transact via the bank
+
+FD VS. DEBT MUTUAL FUNDS — QUICK COMPARISON
+| Feature | Bank FD | Debt Mutual Fund |
+|---|---|---|
+| Return | Fixed (6.5%-7.75%) | Market-linked (6%-9% historically) |
+| Risk | Very low | Low to moderate |
+| Liquidity | Low (premature penalty) | High (T+1 redemption) |
+| Taxation | Slab rate | Slab rate (after Budget 2023) |
+| Insurance | ₹5 lakh DICGC | None |
+
+Post the Budget 2023 amendment, debt MFs lost indexation benefit, making the tax comparison closer to FDs for both. FDs remain the simpler, safer choice for many.
+
+LADDERING STRATEGY
+Instead of one large FD for 5 years, split into 5 separate FDs of varying tenures (1, 2, 3, 4, 5 years). As each matures, reinvest for 5 years. This ensures:
+- Annual liquidity for one FD
+- Optimised rates across yield curve
+- Reduced reinvestment risk
+
+Rates may change, verify with bank — interest rates are revised by banks periodically based on RBI policy and market conditions. Always check the latest FD rate card before deposit.

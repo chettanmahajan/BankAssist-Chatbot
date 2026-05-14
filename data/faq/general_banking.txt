@@ -1,0 +1,257 @@
+GENERAL BANKING FAQ — HOLIDAYS, HOURS, CUSTOMER ID, NOMINEE, LOCKER
+
+BANK HOLIDAYS IN INDIA
+Bank holidays in India are governed by the Negotiable Instruments Act, 1881 and notified by each state government for its territory. They typically include:
+- All Sundays
+- 2nd and 4th Saturdays of every month (working: 1st, 3rd, 5th Saturdays — half day in some banks)
+- Public holidays under the Negotiable Instruments Act (NI Act)
+- State-specific holidays declared by respective State Governments
+
+Common all-India bank holidays:
+- Republic Day (26 January)
+- Independence Day (15 August)
+- Gandhi Jayanti (2 October)
+- Holi (variable date, March)
+- Eid (variable, twice a year)
+- Christmas (25 December)
+- Diwali / Deepavali (variable, October-November)
+- Good Friday (variable, March-April)
+- April 1: Annual closing of accounts (banks closed for public)
+- Other regional holidays: Pongal (TN), Onam (Kerala), Bihu (Assam), Durga Puja (WB), Eid Milad-un-Nabi, Buddha Purnima, Mahavir Jayanti, Guru Nanak Jayanti
+
+Note: RTGS and NEFT now operate 24×7 including holidays (since 2020). UPI is always available. Branch services are not available on holidays.
+
+BANK WORKING HOURS
+Standard working hours (most banks):
+- Monday to Friday: 10:00 AM to 4:00 PM (some branches extend to 5:00 PM)
+- Saturday (1st, 3rd, 5th): 10:00 AM to 1:00 PM (half day)
+- Saturday (2nd, 4th): Closed
+- Sunday: Closed
+- Lunch break: Some branches close briefly 2:00 PM-2:30 PM
+
+Cash transaction hours:
+- Cash counter typically open 10:00 AM to 2:00 PM or 3:00 PM
+- After cash hours, only basic services (statement, account inquiry, locker)
+
+Extended-hour branches:
+- Some private bank branches operate till 7:00 PM (HDFC, ICICI in select metros)
+- Airport / hospital branches: 24×7 or extended hours
+- ATMs / Self-service kiosks: 24×7
+
+Drop boxes (cheques): Available at branch entrance for 24×7 deposit (less common now due to security concerns).
+
+CUSTOMER ID (CIF — CUSTOMER INFORMATION FILE)
+- A unique number assigned to each customer by the bank
+- Different from account number; one customer may have multiple accounts (savings, current, FD, loan) all linked to same CIF
+- 9 to 12 digits typically
+- Where to find it:
+  - Top of welcome kit
+  - Net banking login page (often shown as User ID or near it)
+  - Bank statement header
+  - Passbook first page
+  - SMS from bank
+  - Branch enquiry with KYC
+- Used for: Linking accounts, opening additional products, internal bank operations
+
+ACCOUNT NUMBER, IFSC, MICR
+- Account number: 9-18 digits, unique to each account
+- IFSC (Indian Financial System Code): 11-character alpha-numeric code identifying bank + branch (e.g., HDFC0001234)
+- MICR (Magnetic Ink Character Recognition): 9-digit code printed at bottom of cheque (city + bank + branch)
+
+NOMINATION — KEY FACTS
+
+Why nominate:
+- Nomination ensures bank funds are paid to the nominee on death of account holder, without going through legal succession (will, succession certificate)
+- Saves family from prolonged paperwork during emotional time
+- Strongly recommended for all account types
+
+When to nominate:
+- At account opening (Form DA-1 attached with AOF)
+- Anytime later (submit Form DA-1 at branch or via app/net banking)
+- For each product separately (savings, FD, RD, locker, demat) — though some banks allow bundled nomination
+
+Nominee details:
+- Only 1 nominee per account / FD / RD per RBI norms
+- Nominee can be any individual: spouse, child, sibling, parent, friend
+- Minor can be nominated (with guardian appointed to receive on minor's behalf)
+- Nominee details: Full name, address, relationship, age, signature
+
+Nomination doesn't override legal heirship:
+- Nominee receives funds as trustee for legal heirs
+- Legal heirs (as per will or Hindu Succession Act / Indian Succession Act) have ultimate ownership
+- For peace of mind: Make a Will alongside nomination
+
+Cancelling / changing nomination:
+- Form DA-2 (Cancellation) or fresh DA-1 (Change)
+- Free of cost
+- Joint nomination not permitted
+
+Joint account nomination:
+- Operative on death of all joint holders
+- Each joint holder can have separate nominations for their share (subject to bank's policy)
+
+NOMINEE CLAIM PROCESS
+On death of account holder:
+1. Inform bank with death certificate (original + copies)
+2. Submit Claim Form (provided by bank)
+3. Nominee's ID and address proof
+4. Photograph of nominee
+5. Indemnity bond (in some cases for amounts above thresholds)
+6. Bank verifies and pays out within 15 days typically (per RBI guidelines)
+
+For accounts without nomination:
+- Legal heirs approach bank with:
+  - Death certificate
+  - Letter of Administration / Succession Certificate / Will probate
+  - Indemnity bond
+  - Affidavit from heirs
+- Process takes 30-90 days
+- For amounts below ₹1 lakh (some banks ₹5 lakh), simpler procedure: indemnity bond + affidavit without succession certificate
+
+LOCKERS (SAFE DEPOSIT VAULTS)
+A safe deposit locker is a physical secure box in the bank's strong room rented to customers for storing valuables — jewellery, documents, gold, silver, important papers.
+
+Eligibility:
+- Any individual with a savings/current account at the bank
+- Joint locker: Up to 2-4 holders typically; operation mode (E/S, J/S) similar to joint account
+
+Sizes and rental:
+- Small (3" × 5" × 22"): ₹1,000-₹2,000 per year
+- Medium (5" × 5" × 22"): ₹2,500-₹4,500
+- Large (10" × 5" × 22"): ₹5,000-₹8,000
+- Extra-large: ₹10,000-₹15,000
+- Metro rents are higher
+
+Security deposit / linked FD:
+- One-time FD requirement: ₹10,000-₹50,000 depending on locker size
+- Earns interest at FD rate
+- Refundable on locker surrender
+
+Locker operations:
+- Visit branch during working hours
+- Sign locker register with date and time
+- Branch officer accompanies to vault, opens master lock
+- Customer opens their lock (key + access card)
+- Both locks must engage for locker to be opened
+- Branch officer steps away while customer accesses contents (privacy)
+- Free visits: 10-12 per year typically; extra ₹50-₹150 per visit
+
+What's NOT allowed in locker:
+- Cash (some banks technically allow; not advisable as not insured separately)
+- Arms, ammunition, explosives
+- Narcotics
+- Anything illegal or perishable
+
+Locker insurance:
+- Banks are not liable for contents loss due to acts of God, war, riots, terrorism (per locker agreement)
+- Bank IS liable for negligence, fraud, fire (with limits — typically 100x annual rent per RBI guidelines)
+- Consider separate locker contents insurance for high-value items
+
+Loss of locker key:
+- Pay for key replacement (₹250-₹2,500)
+- Locker may need to be drilled if key lost — additional ₹2,000-₹5,000
+- Customer must be present during drilling
+
+Locker surrender:
+- Return all keys
+- Empty the locker
+- Surrender access card
+- FD released back to customer
+
+LOCKER WAITING LIST
+Due to limited locker inventory, most metro branches have a waiting list (some 1-3 years). New branches may have immediate availability.
+
+DEBIT FREEZE / ACCOUNT FREEZE
+Reasons for freeze:
+1. Court order (creditor suit, marital dispute, income tax)
+2. Income Tax notice (Section 226(3))
+3. Suspected fraud / suspicious transaction
+4. KYC pending / lapsed
+5. Customer request (lost cheque book, anti-fraud control)
+
+Effects:
+- No debits allowed
+- Credits may continue
+- Transactions returned with "Account Frozen"
+
+Reactivation:
+- Submit relevant documents (court vacation order, KYC update, etc.)
+- Branch processes within 1-7 days
+
+DORMANT / INOPERATIVE ACCOUNT
+- Account marked "Inoperative" after 12 months of no customer-initiated transaction
+- "Dormant" after 24 months
+- Reactivation: Visit branch with KYC + small deposit/withdrawal request
+- Auto-credit (interest, EMI receipt, salary) doesn't reset the clock; only customer-initiated transactions do
+- After 10 years inoperative, funds transferred to RBI's Depositor Education and Awareness Fund (DEAF) — reclaimable anytime via UDGAM portal (udgam.rbi.org.in)
+
+LOST / STOLEN ITEMS — PROCESS
+1. Cheque book lost: Block via app / customer care; submit FIR copy for new book
+2. Debit card lost: Block immediately; replacement in 7-10 days
+3. ATM card captured: Visit branch with ID; bank retrieves and reissues
+4. Passbook lost: Apply for duplicate at branch with ₹100-₹300 fee
+5. Account lost (don't know account number): Visit branch with KYC; staff retrieves from CIF
+
+ADDRESS / CONTACT UPDATE
+Update via:
+- Net banking / mobile app: Upload new address proof, OTP-verified
+- Branch: Submit Letter of Request + new address proof
+- FREE of charge typically
+
+Affects:
+- Account communication
+- Cheque book delivery
+- KYC compliance (re-KYC eligibility)
+- Insurance / investment-linked products
+
+MOBILE NUMBER / EMAIL UPDATE
+Crucial for security (OTPs, alerts):
+- Visit branch with KYC and account details
+- Online: Net banking → Update Contact → OTP to old number for verification
+- Some banks: Update via ATM (PIN + new number)
+
+ADD JOINT HOLDER
+Add a joint holder to existing account:
+- Both holders visit branch
+- KYC of new holder
+- Fresh signature card
+- Bank processes; usually doesn't require new account number
+
+REMOVE JOINT HOLDER
+- Trickier — depends on operation mode and bank policy
+- Generally requires all holders' consent
+- May involve closing and re-opening the account
+- Outstanding instruments must be cleared first
+
+TRANSFER ACCOUNT TO ANOTHER BRANCH
+- Useful when changing city/job
+- Submit Transfer Request Form at home branch or new branch
+- Account number stays the same (same bank); just branch IFSC/MICR changes
+- Process: 7-15 days
+
+CIBIL / CREDIT SCORE
+- 3-digit score (300-900) generated by CIBIL (TransUnion)
+- 750+ is excellent; 700-749 good; 650-699 fair; below 650 poor
+- Maintain by:
+  - Paying credit card bills in full and on time
+  - Paying EMIs on time
+  - Limiting hard credit inquiries
+  - Keeping credit utilisation below 30%
+  - Maintaining old credit cards (history length helps)
+- Free annual report from each bureau (CIBIL, Experian, CRIF, Equifax) via their websites
+
+ESCALATION FRAMEWORK
+If service issues:
+1. Branch / customer care (TAT 7-30 days)
+2. Internal Ombudsman (large banks)
+3. Banking Ombudsman via cms.rbi.org.in (within 1 year of bank's response)
+4. Consumer Court for specific damages
+
+RIGHTS UNDER RBI CHARTER OF CUSTOMER RIGHTS
+- Right to Fair Treatment
+- Right to Transparency, Fair and Honest Dealing
+- Right to Suitability (product matching customer profile)
+- Right to Privacy
+- Right to Grievance Redress and Compensation
+
+For specific bank policies, processes, and current rates/charges, refer to the bank's website or visit the branch. Rates and rules may change, verify with bank.

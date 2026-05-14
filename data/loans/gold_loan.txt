@@ -1,0 +1,133 @@
+GOLD LOAN — COMPLETE GUIDE
+
+OVERVIEW
+A gold loan is a secured loan where the borrower pledges gold jewellery, ornaments, or specified gold coins as collateral with a bank or NBFC in exchange for funds. Gold loans are popular for short-term liquidity needs — medical emergencies, business working capital, marriage expenses, education fees, agriculture inputs, festival expenses — because they require minimal documentation, are disbursed within hours, and require no income proof. Major lenders include Muthoot Finance, Manappuram Finance, IIFL Gold Loan, SBI, ICICI Bank, HDFC Bank, Federal Bank, Bank of Baroda, and Canara Bank. All figures are indicative as of FY 2024-25; rates may change, verify with bank.
+
+LOAN-TO-VALUE (LTV) RATIO
+The RBI has capped the maximum LTV for gold loans at 75% of the gold's value. This means if your gold is valued at ₹1,00,000, the maximum loan amount permissible is ₹75,000. The gold value is calculated based on:
+- Purity of gold: Only 18-carat to 22-carat gold is generally accepted; some lenders accept 14k and 24k coins
+- Weight: Net weight after deducting the weight of stones, gems, and other non-gold components
+- Prevailing gold rate: Banks use the previous 30 days' average rate or current day's rate (whichever is lower) of 22-carat gold as per RBI guidelines
+
+For example: If you pledge 50 grams of 22-carat gold at a prevailing rate of ₹6,500 per gram = ₹3,25,000 gold value × 75% LTV = ₹2,43,750 maximum loan.
+
+INTEREST RATES
+Gold loan interest rates in India typically range from 8.5% per annum to 24% per annum:
+- Public sector banks (SBI, BoB, Canara): 8.50%-11% p.a.
+- Private banks (HDFC, ICICI, Axis): 10%-15% p.a.
+- NBFCs (Muthoot, Manappuram, IIFL): 12%-24% p.a.
+NBFC rates are higher because they offer faster disbursal, smaller branch network in semi-urban areas, and accept lower-purity gold. Public sector banks offer the lowest rates but with more documentation and slower processing. Agriculture gold loans (for farming) have RBI-mandated lower rates often subsidised under priority sector — typically 7%-9% p.a. Rates may change, verify with bank.
+
+TENURE
+Gold loan tenure typically ranges from 3 months to 36 months. Common tenures:
+- Short-term (3-12 months): Bullet repayment or interest-only schemes
+- Medium-term (12-24 months): EMI or partial payments
+- Long-term (24-36 months): Standard EMI repayment
+Many borrowers renew or top-up at end of tenure if they cannot repay in full.
+
+LOAN AMOUNT
+- Minimum loan: ₹1,500 to ₹10,000 (depends on lender)
+- Maximum loan: No upper cap from RBI; lenders set limits — typically ₹1 crore at banks; ₹2 crore or more at NBFCs based on collateral value
+- Pre-approved gold loans for existing customers: Often instantly disbursed up to ₹50 lakh
+
+REPAYMENT OPTIONS
+Gold loans offer flexible repayment options unique to this product:
+1. Regular EMI: Monthly EMI covering principal + interest (standard model)
+2. Bullet Repayment: Pay the entire principal + accumulated interest at the end of the tenure (popular for 6-12 month loans)
+3. Interest-Only EMI: Pay monthly interest, principal at the end (helps borrowers with variable income)
+4. Partial Payments: Pay any amount any time (suits seasonal earners — farmers, traders)
+5. Overdraft (Gold Loan OD): Bank sanctions an overdraft limit; borrower withdraws as needed, interest charged only on amount used
+
+VALUATION PROCESS
+1. Customer brings gold to the branch
+2. Bank's appraiser (an in-house or empanelled valuer) tests gold purity using:
+   - Acid test (nitric acid reaction differs by karat)
+   - Touchstone test (rubbing on stone, comparing colour with standard needles)
+   - Electronic gold tester (XRF machine, used by most modern lenders)
+3. Weight is measured on a calibrated digital scale
+4. Stones, gems, kundans, kadas with non-gold parts are deducted in weight
+5. Value = net gold weight × prevailing 22-carat rate
+6. Loan amount = value × applicable LTV (max 75%)
+
+The entire valuation typically takes 15-30 minutes. The gold is then placed in tamper-proof packaging and stored in the bank's vault.
+
+DOCUMENTS REQUIRED
+- Identity proof: PAN, Aadhaar, Passport, Voter ID, Driving Licence (any one)
+- Address proof: Aadhaar, utility bill, passport
+- Passport-size photographs
+- Gold ownership: Generally not mandated; banks accept on the basis of customer KYC and gold inspection. If gold is jewellery, no formal proof of purchase is required.
+NO income proof, no ITR, no employment letter, no credit score check (in most cases) is needed. This makes gold loans accessible to housewives, daily-wage earners, retirees, and people with low credit history.
+
+PROCESSING FEE
+- Public sector banks: 0.25%-0.5% of loan + GST 18% (often waived for small loans)
+- Private banks: 0.5%-1% + GST
+- NBFCs: 0% to 1% + GST (often free during promotional schemes)
+- Documentation: ₹100-₹500
+
+DISBURSAL TIME
+- NBFCs (Muthoot, Manappuram, IIFL): 15 minutes to 1 hour, walk-in
+- Private banks: 1-2 hours
+- Public sector banks: 2-4 hours (may take half a day if branch is busy)
+Funds are credited to the borrower's bank account or paid by demand draft, NEFT, or even cash up to ₹20,000 (KYC and IT Act limit).
+
+GOLD STORAGE AND SECURITY
+- All pledged gold is stored in the branch's strong room or vault with multi-lock security
+- Insurance: All branches carry comprehensive insurance covering theft, burglary, fire — borrower bears no separate insurance cost
+- Customer receives a receipt with details of items pledged, weight, valuation
+- The gold is returned in the same packaging and condition (jewellery is not melted or modified)
+
+AUCTION POLICY (DEFAULT CONSEQUENCES)
+If the borrower fails to repay the loan + interest, the bank initiates the auction process. RBI guidelines mandate:
+1. Notice 1: After 30 days of default, written notice to borrower
+2. Notice 2: After 60 days of default, final notice with auction warning
+3. Auction: Conducted publicly, usually 2-3 months after default, with prior public notification
+4. The auction proceeds are first used to settle the outstanding (principal + interest + penalties + storage charges)
+5. Surplus, if any, is returned to the borrower
+6. Shortfall is recovered separately as personal liability
+
+To avoid auction, borrowers should:
+- Renew or top-up the loan before tenure ends
+- Pay accrued interest at least
+- Communicate proactively with the bank for restructuring
+
+PREPAYMENT AND FORECLOSURE
+Most banks and NBFCs allow prepayment without charges, especially because gold loans are short-tenure. Some NBFCs charge 1%-2% foreclosure within first 3 months; thereafter no charges. Verify in your loan agreement.
+
+GOLD LOAN VS. PERSONAL LOAN — COMPARISON
+| Parameter | Gold Loan | Personal Loan |
+|---|---|---|
+| Security | Gold pledged | Unsecured |
+| Interest Rate | 8.5%-24% (lower end common) | 10.5%-24% |
+| Approval | Same-day, no income proof | 1-7 days, full documentation |
+| CIBIL Check | Often skipped | Mandatory |
+| Loan Amount | Up to 75% of gold value | Based on income |
+| Tenure | 3-36 months | 12-60 months |
+| Foreclosure | Usually free | 2%-5% charges common |
+
+For short-term needs, gold loan is often cheaper and faster. For longer tenures with steady repayment, personal loan may be preferred since it doesn't tie up the gold.
+
+WHEN GOLD PRICES FALL — MARGIN CALL
+If gold prices fall significantly during the loan tenure, the LTV may exceed 75% (the loan is now overcollateralised against current value). The bank may issue a margin call — asking the borrower to either:
+- Pledge additional gold to restore the LTV ratio
+- Make a partial repayment to reduce the outstanding
+This is rare in short-term loans but possible in 24-36 month loans during a gold price downturn.
+
+GOLD LOAN FOR AGRICULTURE
+Under RBI priority sector lending, gold loans for agriculture (purpose: seeds, fertiliser, equipment, irrigation) are offered at concessional interest rates with subvention by the central government. Effective rate after subvention can be as low as 4%-7% per annum for KCC (Kisan Credit Card) holders. Higher LTV up to 80% may be permitted under specific schemes.
+
+TAX TREATMENT
+- Gold loan interest is not tax-deductible for personal use
+- If loan is used for business or rental property, interest can be claimed as business expense
+- The gold pledged is not considered "sold" — no capital gains tax implication
+
+SAFE GOLD LOAN PRACTICES
+1. Always obtain a detailed receipt listing each item, its weight, purity, and valuation
+2. Verify the appraiser is bank-empanelled or in-house staff
+3. Insist on tamper-proof sealed packaging in your presence
+4. Read the loan agreement carefully — note rate, tenure, repayment mode, foreclosure terms, default consequences
+5. Pay at least interest on time to avoid penal charges
+6. Do not pledge gold with unregistered local jewellers or moneylenders — only RBI-regulated banks or registered NBFCs
+7. Be aware of the auction timeline so you can act before that stage
+8. Keep the original loan receipt safe — it is needed when claiming back the gold
+
+Rates may change, verify with your bank or NBFC for current offers, gold purity acceptance, and detailed terms.

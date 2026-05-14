@@ -1,0 +1,333 @@
+GENERAL INSURANCE — HEALTH, MOTOR, HOME, TRAVEL, CLAIMS
+
+OVERVIEW
+General Insurance (also called Non-Life Insurance) covers losses arising from specific events affecting health, property, or liability — distinct from life insurance which is triggered by death. In India, general insurance is regulated by IRDAI. Banks act as bancassurance distributors and many have insurance group entities (HDFC ERGO, ICICI Lombard, SBI General, Bajaj Allianz GIC, Tata AIG, Bharti AXA, Reliance General, Future Generali). All figures are indicative; rates may change, verify with insurer.
+
+HEALTH INSURANCE — INDIVIDUAL AND FAMILY FLOATER
+
+Why health insurance:
+Medical inflation in India runs at 12%-15% annually. A single hospitalisation for cardiac, orthopaedic, or cancer treatment can cost ₹5-30 lakh. Without insurance, families end up depleting savings, taking loans, or compromising treatment.
+
+Types:
+
+1. Individual Health Plan: Sum insured covers one person; each member has separate policy
+
+2. Family Floater: Single sum insured shared by all family members; if one consumes the whole amount in a year, others have no cover until renewal
+
+3. Senior Citizen Health Plan: For age 60+; higher premium, longer waiting periods, mandatory medical screening, sub-limits
+
+4. Critical Illness Plan: Lump sum on diagnosis of listed conditions (cancer, heart attack, stroke, kidney failure, etc.)
+
+5. Top-up / Super Top-up: Activates after a deductible (e.g., ₹5 lakh) is consumed by base policy
+
+6. OPD Plan: Covers outpatient consultations, medicines, diagnostics
+
+7. Hospital Cash: Daily allowance for hospitalisation regardless of actual expense
+
+8. Group Health Plan (corporate): Offered by employer
+
+Key features and concepts:
+
+Sum Insured:
+- Recommendations:
+  - Single individual in metro: ₹15-20 lakh+
+  - Family of 4 (floater): ₹25-50 lakh
+  - Senior citizens: ₹15 lakh+ with critical illness add-on
+- Higher sum insured benefits especially for major surgeries and ICU stays
+
+Premium factors:
+- Age (older = higher premium)
+- Family members covered
+- City of residence (Mumbai/Delhi typically more expensive)
+- Pre-existing conditions
+- Sum insured chosen
+- Add-ons selected
+
+Premium ranges (indicative):
+- 30-year-old, ₹10 lakh sum insured: ₹6,000-₹12,000 per year
+- Family of 4 (30+30+5+3), ₹10 lakh: ₹15,000-₹30,000 per year
+- Senior citizen ₹15 lakh: ₹25,000-₹60,000 per year
+
+Cashless vs Reimbursement:
+
+Cashless:
+- Insurer pays hospital directly through Third-Party Administrator (TPA)
+- Available at network hospitals (insurer's tied-up list, typically 5,000-15,000)
+- Pre-authorisation required (intimate 24-48 hours before planned admission, immediately for emergency)
+- Quicker; less stress; some out-of-pocket for non-covered items
+
+Reimbursement:
+- Pay out-of-pocket first, claim from insurer later
+- Used at non-network hospitals
+- Submit:
+  - Original bills, prescriptions, discharge summary
+  - Diagnostic reports
+  - Claim form
+- Claim processed in 15-30 days
+
+What's covered:
+- In-patient hospitalisation (minimum 24 hours stay)
+- Day-care procedures (cataract, dialysis, chemotherapy — under 24 hours but covered)
+- Pre-hospitalisation (30 days before)
+- Post-hospitalisation (60 days after)
+- Domiciliary treatment (treatment at home when hospitalisation not feasible)
+- Ambulance charges (₹2,000-₹10,000 typical limit)
+- Organ donor expenses
+- AYUSH treatments (ayurveda, unani, yoga, siddha, homoeopathy — varies by policy)
+- Mental health (mandatory inclusion per IRDAI since 2022)
+
+What's typically NOT covered:
+- Pre-existing diseases for first 2-4 years (waiting period)
+- Specific diseases (hernia, cataract, hysterectomy, etc.) for first 1-2 years
+- Cosmetic and dental treatment (unless accidental)
+- Maternity (separate maternity rider available)
+- Infertility treatment
+- War, riots, terrorism (in some policies)
+- Self-inflicted injury, suicide attempt
+- Alcohol / drug-related illness
+- Adventure sports
+- HIV / AIDS (in older policies; new policies often cover)
+
+Waiting Periods:
+- Initial: 30 days (for all illnesses except accident from day 1)
+- Specific illness: 1-2 years (hernia, varicose veins, cataract, hysterectomy, kidney stones)
+- Pre-existing disease (PED): 2-4 years
+- Maternity rider: 9 months to 2 years
+- IRDAI 2024 guidelines: Maximum PED waiting period capped at 3 years for new health policies
+
+No-Claim Bonus (NCB):
+- Increase in sum insured at renewal if no claim in the year
+- 5%-50% boost per claim-free year
+- Reset to base on claim
+- Cumulative bonus accumulates over years
+
+Co-payment:
+- Customer pays specified % of claim
+- 10%-30% common in senior citizen plans
+- Some policies offer co-pay option for lower premium
+
+Sub-limits:
+- Cap on specific expense items (e.g., room rent 1% of SI, ICU 2%, cataract ₹40,000)
+- Anti-customer feature; avoid plans with sub-limits
+
+Room Rent Cap:
+- Hospitals often charge as per room category (general, semi-private, private, deluxe)
+- If you upgrade room beyond cap, proportionate deduction applies to ALL associated charges (a major bill-shock area)
+- Choose plans with no/high room rent cap (e.g., single private AC room) to avoid
+
+Restoration / Reinstatement:
+- If sum insured exhausted in a year, insurer restores it (usually for unrelated illnesses)
+- Useful in family floater where one member's hospitalisation depletes the cover
+
+Lifetime Renewability:
+- IRDAI mandates lifetime renewability for health policies
+- Insurer cannot refuse renewal once policy issued
+- Premium increases with age; policy terms can change at renewal
+
+Portability:
+- IRDAI allows switching insurers without losing accumulated waiting period credits
+- Apply 45-60 days before renewal date
+- New insurer reviews; may load premium for declared conditions
+
+Health Insurance Tax Benefit:
+- Section 80D:
+  - For self/family (below 60): Premium up to ₹25,000
+  - For parents (below 60): Additional ₹25,000
+  - Senior citizen (60+): ₹50,000 instead of ₹25,000
+  - Maximum combined: ₹1,00,000 (if self + parents both senior)
+  - Preventive health check-up: ₹5,000 within above limits
+
+Popular Health Insurance Products:
+- HDFC ERGO Optima Secure
+- ICICI Lombard Complete Health
+- Star Comprehensive
+- Aditya Birla Activ Health
+- Niva Bupa (formerly Max Bupa) ReAssure
+- Care Health Insurance Care Plan
+- Tata AIG Medicare
+- Bajaj Allianz Health Guard
+
+Government Schemes:
+- Ayushman Bharat PM-JAY: ₹5 lakh family floater for eligible families (low-income), 100% government-funded
+- ECHS (defence personnel)
+- CGHS (central government employees)
+- ESIC (factory/establishment workers)
+- State health insurance schemes (RGJAY/MJPJAY in Maharashtra, Aarogyasri in AP, etc.)
+
+MOTOR INSURANCE — CAR AND TWO-WHEELER
+
+Mandatory by Law:
+- Third-party (TP) insurance is COMPULSORY under Motor Vehicles Act, 1988
+- Driving without insurance: Fine ₹2,000-₹4,000 + jail up to 3 months
+- Renewal must be done before expiry; lapsed policies require fresh inspection/issuance
+
+Types of Motor Insurance:
+
+1. Third-Party Liability Only (TP):
+- Covers damage caused TO others (third party): vehicle, property, persons
+- Statutorily required minimum
+- Cheap (₹1,500-₹3,000 for car; ₹500-₹1,000 for two-wheeler)
+- Does NOT cover damage to your own vehicle
+
+2. Comprehensive (Own Damage + Third Party):
+- Includes TP cover + Own Damage (OD) cover
+- OD covers theft, accident, fire, vandalism, natural disasters
+- Premium higher (₹6,000-₹25,000 for car)
+
+3. Standalone Own Damage:
+- Only OD cover (when TP is bought separately, e.g., long-term TP)
+- For policyholders who want flexibility to switch insurers
+
+New Vehicle:
+- TP for 5 years (two-wheeler 5 years; car 3 years) — mandatory bundle at purchase
+- OD usually 1 year, renewable annually
+
+Premium Factors:
+- Make and model (luxury cars cost more)
+- Age of vehicle (older cars: lower IDV, higher premium percentage)
+- Geographic zone (metro vs non-metro)
+- Cubic capacity (engine size)
+- Fuel type
+- Previous claims (NCB resets on claim)
+- Add-ons selected
+
+Insured Declared Value (IDV):
+- Maximum amount insurer pays in total loss / theft
+- IDV = (Showroom price + accessories) × (1 − depreciation %)
+- Depreciation: 5%-50% based on vehicle age
+- Should be close to current market value
+
+No Claim Bonus (NCB):
+- Discount on OD premium for claim-free years
+- 1 year: 20% discount
+- 2 years: 25%
+- 3 years: 35%
+- 4 years: 45%
+- 5+ years: 50% (maximum)
+- NCB resets to 0 on claim; carries over if you switch insurer
+
+Add-ons (common):
+- Zero Depreciation Cover: Full cost of part replacement (no depreciation deducted) — recommended for cars under 5 years old
+- Engine Protection: Engine damage from water ingress, oil leak
+- Return to Invoice (RTI): If total loss, insurer pays vehicle's original invoice value (not depreciated IDV)
+- Roadside Assistance: 24×7 towing, breakdown help
+- Consumables Cover: Engine oil, coolant, lubricants
+- Key Replacement Cover
+- Personal Accident (PA) Cover for owner-driver: ₹15 lakh mandatory (per MVA)
+- PA cover for passengers
+- NCB Protection: Doesn't reset NCB even if one small claim made
+
+Claim Process:
+1. Inform insurer immediately (within 24-48 hours typically)
+2. File FIR for theft / major accident / third-party injury
+3. Photographs of damage / accident scene
+4. Submit claim form
+5. Vehicle taken to network garage for cashless repair
+6. Or repair at own garage and reimburse via bills
+
+Total Loss:
+- When repair cost exceeds 75% of IDV
+- Insurer pays IDV; vehicle's salvage retained by insurer
+
+Theft:
+- File FIR immediately
+- Inform insurer
+- After 90 days of no recovery, insurer pays IDV
+
+HOME INSURANCE
+
+Covers structure and/or contents of home from fire, theft, natural disasters, etc.
+
+Types:
+1. Standalone Fire Insurance: For structure only
+2. Comprehensive Home Insurance: Structure + contents + valuables
+3. Tenant's Insurance: For rented home contents
+
+What's Covered:
+- Fire, lightning, explosion, implosion
+- Storm, cyclone, flood, earthquake, landslide
+- Burglary, theft, dacoity
+- Burst water tank / pipes
+- Riot, strike, terrorism (depending on policy)
+- Aircraft damage
+
+What's NOT Covered:
+- Wear and tear
+- Willful damage
+- War damage (separate cover)
+- Loss of rent (separate cover)
+- Electrical/mechanical breakdown
+
+Premium: Typically ₹2,000-₹15,000 per year for ₹50 lakh-₹2 crore total cover.
+
+Bharat Griha Raksha:
+- IRDAI's standardised mass-market home insurance product
+- All insurers must offer this with uniform terms
+- Simplified buying; standard structure
+- Cover for 5/10/15/20 years possible
+
+PRADHAN MANTRI FASAL BIMA YOJANA (PMFBY)
+Crop insurance for farmers, subsidised premium.
+
+TRAVEL INSURANCE
+
+Covers travel-related risks during international or domestic travel.
+
+What's Covered:
+- Trip cancellation / interruption
+- Lost or delayed baggage
+- Medical emergencies abroad
+- Flight delays
+- Lost passport / personal documents
+- Personal accident
+- Hijack
+- Adventure activities (in select policies)
+- Pre-existing medical conditions (with declaration)
+
+Premium: ₹500-₹5,000 for a 7-day international trip; ₹200-₹1,000 for domestic.
+
+Sum insured: USD 50,000-USD 5,00,000 medical cover for international.
+
+Mandatory for many visa types (Schengen, etc.).
+
+Buy online or via banks/travel agencies. Premium 30-50% cheaper online than offline.
+
+OTHER GENERAL INSURANCE PRODUCTS
+
+1. Personal Accident: Covers accidental death, permanent disability, temporary disability
+2. Critical Illness Plan
+3. Cyber Insurance: Covers financial loss from cyber fraud, identity theft, phishing
+4. Liability Insurance: Professional indemnity, public liability
+5. Marine Insurance: For goods in transit
+6. Engineering / Project Insurance
+7. Cattle / Livestock Insurance
+8. Mobile Phone Insurance (screen damage, theft, water — usually not worth it)
+
+GENERAL INSURANCE CLAIM PROCESS (UNIVERSAL STEPS)
+1. Intimate insurer within stipulated time (24-72 hours typically)
+2. File FIR for theft/accident/criminal incidents
+3. Take photos and preserve evidence
+4. Submit claim form with documents
+5. Surveyor inspection (for property/motor large claims)
+6. Insurer's settlement decision in 30 days
+7. Payment within 7-15 days of approval
+
+GRIEVANCE REDRESSAL FOR INSURANCE
+1. Insurer's Grievance Cell (TAT 15-30 days)
+2. IRDAI's Bima Bharosa portal (bimabharosa.irdai.gov.in)
+3. Insurance Ombudsman (free, claims up to ₹50 lakh)
+4. Consumer Court for larger claims
+
+KEY TIPS
+1. Buy adequate health insurance (₹15 lakh+ per person)
+2. Don't skimp on motor comprehensive cover
+3. Get critical illness rider with term life or as standalone
+4. Travel insurance for every international trip — mandatory at peace of mind
+5. Disclose ALL pre-existing conditions truthfully
+6. Buy directly online for lowest premium (no commission)
+7. Review and renew policies before expiry
+8. Maintain claim records and history
+9. Use cashless network whenever possible
+10. Lifetime renewability is your right — don't lose continuity
+
+Rates may change, verify with insurer / IRDAI. Insurance is the subject matter of solicitation; read all terms carefully before purchasing.

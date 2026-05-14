@@ -1,0 +1,229 @@
+NET BANKING AND MOBILE BANKING — FEATURES, LIMITS, SECURITY
+
+OVERVIEW
+Net Banking (Internet Banking) and Mobile Banking are digital channels that let customers perform banking transactions from a desktop browser or smartphone respectively, without visiting a branch. Together, they cover almost every banking task: account viewing, fund transfers, bill payments, fixed deposit booking, demand draft requests, cheque book ordering, investments (FD, RD, mutual funds, IPO), loan applications, card services, and customer service. Almost all Indian banks now provide both channels free of cost, with sophisticated apps that combine banking, payments, and financial services. Rates and limits are indicative; rates may change, verify with bank.
+
+NET BANKING
+
+What it is: Web-based banking via the bank's official portal accessed through a desktop or laptop browser.
+
+Registration:
+- Existing customer: Generate user ID and password using debit card details and OTP at the bank's portal, OR collect a kit at branch with user ID and password printed
+- New customer: After opening a savings account, net banking is activated by default in most banks
+- First-time login: Mandatory password change
+
+Two-factor authentication:
+- Login: User ID + Password (or biometric on app); OTP for new device or risky pattern
+- Transaction: OTP on registered mobile/email for fund transfers, payments, beneficiary addition
+
+Common Net Banking features:
+- Account summary, mini statement, detailed statement, account inquiry
+- Fund transfers: NEFT, RTGS, IMPS, UPI (via app), Quick Transfer (intra-bank)
+- Beneficiary management: Add, modify, delete payees
+- Bill payments: Electricity, gas, water, mobile, broadband, DTH, insurance premiums (via BBPS)
+- Recharge: Mobile, DTH
+- Tax payment: Income Tax, GST, Customs (via bank's e-tax portal)
+- Investments: Fixed Deposit booking, Recurring Deposit, Mutual Fund SIP/lump sum, IPO ASBA bid
+- Loans: Personal loan, credit card, home loan applications; track status
+- Service requests: Cheque book, demand draft, stop payment, address change, nominee update
+- Card services: Block/unblock, PIN reset, limit change, international enable
+- Demat: Holdings, trade buy/sell (if integrated)
+- e-Statement: Email registered statement
+- Standing instructions: Set, modify, cancel
+- Pre-approved offers: View and accept loan/card offers
+
+NET BANKING LIMITS (typical)
+- Self-account transfers (your own accounts in same bank): No limit
+- Third-party transfers within bank: ₹10 lakh-₹20 lakh per day
+- NEFT: ₹10 lakh-₹50 lakh per day (online)
+- RTGS: No upper limit
+- IMPS: ₹5 lakh per transaction (NPCI cap); ₹5 lakh per day (varies by bank)
+- Bill payments: ₹2 lakh per transaction typically; some banks higher
+- Limit can be customised by customer within bank-set max
+
+MOBILE BANKING (BANK MOBILE APPS)
+
+Major Indian Banking Apps:
+- SBI YONO (You Only Need One): All-in-one app with banking, insurance, investments, shopping
+- HDFC Bank Mobile / PayZapp (separate payment app)
+- ICICI iMobile Pay (now includes UPI, BBPS, investments)
+- Axis Mobile
+- Kotak Mobile (with Kotak 811 for digital savings)
+- IDFC FIRST Bank Mobile
+- Yes Bank App
+- Punjab National Bank ONE App
+- Bank of Baroda M-Connect
+- Canara ai1 App
+- IndusMobile, RBL MoBank, FederalNet Banking app, South Indian Bank Mirror+
+
+Common Mobile Banking features:
+- All Net Banking features in a touch-optimised UI
+- Biometric login: Fingerprint, Face ID
+- UPI integrated (one app for both)
+- QR code generation and scanning for payments
+- Cardless ATM withdrawal: Generate OTP / use app at ATM to withdraw cash without physical card
+- Voice / chatbot-based help (SBI Easeit, HDFC Eva, ICICI iPal, Axis Aha)
+- Pre-approved EMI and loan offers
+- Spend analytics with category breakdown
+- Goal-based savings (RD, FD planners)
+- Investment marketplace: MF, FD, NPS, insurance
+- Locker booking, NRO/NRE management for NRIs
+- Travel buying: Forex card, travel insurance
+- Cheque scanning (positive pay system support)
+- Statement download (PDF, Excel)
+
+MPIN (MOBILE PIN)
+- 4-6 digit PIN to log into the mobile app (in addition to OS biometric)
+- Reset via OTP and account verification
+- Different from UPI PIN (UPI PIN is specifically for UPI transactions)
+
+FUND TRANSFER LIMITS — TYPICAL (varies by bank)
+- IMPS via app: ₹5 lakh per transaction; ₹5 lakh per day
+- UPI: ₹1 lakh per transaction; ₹2 lakh in special categories; ₹5 lakh for IPO/tax
+- NEFT/RTGS via app: Up to ₹10 lakh-₹50 lakh per day
+- Self-account: Unlimited
+- Bill payments: ₹2 lakh per transaction; ₹5 lakh per day
+
+BENEFICIARY ADD COOLING PERIOD
+RBI security mandate:
+- New beneficiary added → 4-hour to 24-hour cooling period before high-value transfer allowed (banks vary)
+- During cooling period, smaller amounts permitted (often ₹50,000)
+- After cooling period, full transfer limit applies
+- Aim: Prevent fraudsters from quickly draining accounts after social engineering customers to add fake beneficiaries
+
+DAILY TRANSACTION LIMIT CONFIGURATION
+Users can configure their own daily limits within bank-set max:
+- Online transfer limit
+- ATM daily limit
+- POS daily limit
+- International usage on/off
+- Contactless on/off
+This allows conservative users to keep tight limits and only raise temporarily when needed.
+
+CARD MANAGEMENT VIA APP
+Real-time card controls:
+- Block / unblock debit and credit cards instantly
+- Generate / regenerate PIN
+- Set ATM, POS, online, international, contactless on/off independently
+- Set transaction limits
+- Replacement card request
+- Dispute a transaction
+- View pending and posted transactions
+
+CARDLESS ATM WITHDRAWAL
+A growing feature where customer can withdraw cash from ATM without inserting physical card:
+- Initiate from mobile app: Choose amount, get a 6-9 digit OTP/QR
+- Walk to participating ATM, select "Cardless"
+- Enter OTP/scan QR + mobile number to withdraw
+- Useful when card is lost, forgotten, or for adding security
+- NPCI's UPI ATM further extends this — withdraw any UPI app's linked account
+
+SCHEDULED PAYMENTS
+- Schedule future-dated NEFT/RTGS transfers
+- Standing instructions for monthly bills
+- Recurring transfers (rent, alimony, etc.)
+- Mandate management for SIPs, AutoPay
+
+POSITIVE PAY SYSTEM (CHEQUE FRAUD CONTROL)
+For cheques of ₹50,000+:
+- Drawer (cheque writer) submits cheque details (number, date, amount, payee) via app/net banking before issuing
+- Bank cross-verifies these details when cheque is presented
+- Mismatch → cheque returned
+- Aim: Prevent cheque alteration / forgery
+- Mandatory for ₹50,000+ cheques in most banks (some banks ₹5 lakh+ mandatory, lower amounts optional)
+
+VIRTUAL DEBIT / CREDIT CARDS (DIGITAL CARDS)
+- Created instantly in app
+- Use for online transactions
+- Maximum security: separate number from physical card; can be cancelled and regenerated
+- Examples: SBI YONO Virtual Card, HDFC NetSafe, ICICI iMobile Pockets
+
+SECURITY FEATURES
+
+1. Encryption: SSL/TLS for all communications; banks use 256-bit encryption
+
+2. Multi-factor authentication: User ID + Password / biometric + OTP for sensitive actions
+
+3. Device binding: Mobile banking tied to specific device; new device requires re-verification
+
+4. Session timeout: 5-10 minutes of inactivity logs out user
+
+5. Anti-phishing image: Customer-selected image shown at login to verify it's the genuine bank site
+
+6. Virtual keyboard: For password entry (defeats keyloggers)
+
+7. SMS / email alerts: Real-time notifications for transactions
+
+8. Fraud detection: AI-based monitoring of unusual patterns
+
+9. Mandatory password change: Every 60-90 days in some banks
+
+10. Recent activity log: User can view login attempts and devices
+
+COMMON CHARGES AND FEES (NET / MOBILE BANKING)
+- Account access: FREE
+- NEFT, RTGS, IMPS via app/net banking: FREE (RBI mandate since 2020)
+- Quick transfer within bank: FREE
+- Bill payments through bank: FREE for utilities (BBPS); ₹0-₹20 for some services
+- DD via online portal: ₹50-₹150 (cheaper than counter)
+- Tax payments: FREE
+- e-Statement: FREE
+- Physical statement on request: ₹100-₹200
+- Cheque book request via online: FREE delivery
+- Lockers booked via app: As per locker tariff
+
+BUSINESS NET BANKING (CORPORATE INTERNET BANKING)
+For current account / business customers:
+- Multi-user, multi-level approval (Maker-Checker)
+- Bulk fund transfers (NEFT/RTGS files)
+- Bulk payment to vendors
+- Bulk salary payments
+- Tax payments (TDS, GST)
+- Export-import related transactions
+- Statement reconciliation tools
+- API access for ERP integration
+- Higher transaction limits
+
+DIGITAL ACCOUNT OPENING
+Modern banks open accounts entirely online:
+- e-KYC via Aadhaar OTP (limited account, ₹1 lakh balance, requires full KYC within 12 months)
+- Video KYC: Live video call with bank executive; full KYC achieved
+- Aadhaar biometric: Some banks support
+- Account active within minutes
+- Welcome kit (card, cheque book) couriered
+
+GOOGLE PAY / PHONEPE / PAYTM — UPI APPS
+These are non-bank UPI apps that operate as Third-Party Application Providers (TPAPs):
+- Linked to user's underlying bank account
+- Do not store money themselves (unlike Paytm Wallet, which is a separate PPI)
+- Use NPCI rails for all transactions
+- Add value via UX, rewards, additional services (mutual funds, bills, insurance)
+
+NEFT / RTGS BENEFICIARY MANAGEMENT
+To add a beneficiary:
+1. Net banking → Manage Beneficiaries → Add Beneficiary
+2. Provide: Name, Account number, IFSC, Bank, Branch (optional), Nickname
+3. OTP authentication
+4. Cooling period of 4-24 hours
+5. Beneficiary saved for repeat transfers without re-entering details
+
+TROUBLESHOOTING COMMON ISSUES
+- Forgot password: Reset using debit card details + OTP
+- App not opening: Update app; check internet; reinstall
+- Beneficiary not added: Check IFSC validity, account number length, name spelling
+- NEFT pending: Settle in next NEFT batch (half-hourly); status updated after settlement
+- Transaction failed but amount debited: Auto-reversal within 1-3 days; raise dispute if not
+
+SAFE USAGE TIPS
+1. Use official app from Play Store / App Store (verify publisher = bank)
+2. Avoid net banking on public Wi-Fi; use mobile data or trusted network
+3. Always log out — don't leave session open
+4. Use strong, unique password (12+ characters, mixed)
+5. Enable biometric login on mobile
+6. Update app regularly for security patches
+7. Don't save passwords in browser
+8. Be alert for phishing emails / smishing SMS — banks never ask passwords or OTPs
+9. Verify the URL of net banking site (look for HTTPS and exact domain)
+10. Set transaction alerts and monitor frequently
+
+Rates and limits may change, verify with bank — net and mobile banking are evolving rapidly with regular updates and new features.

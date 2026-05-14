@@ -1,0 +1,66 @@
+HOME LOAN — COMPREHENSIVE GUIDE
+
+OVERVIEW
+A home loan is a secured loan extended by banks and Housing Finance Companies (HFCs) in India to enable individuals to purchase, construct, renovate, extend or buy a plot for residential property. The property being financed is hypothecated (mortgaged) to the bank as collateral until the loan is fully repaid. Major lenders include SBI, HDFC Bank, ICICI Bank, Axis Bank, Bank of Baroda, Punjab National Bank, Kotak Mahindra Bank, LIC Housing Finance, and PNB Housing Finance. The Reserve Bank of India (RBI) regulates these lenders and standardises practices such as fair lending, KYC, and grievance redressal. Please note all rates and fees mentioned below are indicative as of FY 2024-25; rates may change, verify with your bank before applying.
+
+INTEREST RATES
+Home loan interest rates in India typically range from 8.40% per annum to 9.75% per annum. Most banks offer floating-rate loans benchmarked to the Repo Linked Lending Rate (RLLR) or External Benchmark Lending Rate (EBLR). When the RBI changes the repo rate, your EMI or tenure adjusts accordingly. Salaried women applicants often receive a concession of 0.05% to 0.10%. Government-employed and defence-sector employees may also receive concessional rates. Fixed-rate home loans are available but uncommon and usually 50-100 basis points higher than floating equivalents. SBI MaxGain, HDFC Reach, ICICI SARAL, and Bank of Baroda Home Suvidha are popular schemes. Rates may change, verify with bank.
+
+ELIGIBILITY
+The borrower must be an Indian resident aged 21 to 70 years (at loan maturity). Salaried individuals need at least 2 to 3 years of continuous employment, with a minimum net monthly income of ₹25,000 in metro cities and ₹15,000 in non-metro areas. Self-employed professionals (doctors, CAs, lawyers) and business owners must show 3 years of Income Tax Returns (ITRs) and stable business income. The Foreign Income Exchange Regulation Act allows Non-Resident Indians (NRIs) to also avail home loans for property in India. Co-applicants (spouse, parents, children) can be added to enhance eligibility. The CIBIL credit score must usually be 700 or above; 750+ secures the best rates. A score below 650 typically leads to rejection or high rates.
+
+LOAN AMOUNT AND LOAN-TO-VALUE (LTV)
+The RBI mandates the following LTV caps as per October 2024 guidelines:
+- Up to ₹30 lakh: 90% of property value
+- Above ₹30 lakh and up to ₹75 lakh: 80% of property value
+- Above ₹75 lakh: 75% of property value
+The remaining 10% to 25% is the down payment the buyer arranges from own funds. Stamp duty and registration are typically excluded from the LTV calculation and must be borne separately by the borrower. Some banks have raised LTV recently to 90% for affordable housing under Pradhan Mantri Awas Yojana (PMAY). Maximum loan amounts can go up to ₹10 crore or more for high-net-worth individuals.
+
+TENURE
+Home loan tenure ranges from 5 years to 30 years. The tenure cannot extend beyond the borrower reaching age 70 (some banks 75). A longer tenure reduces EMI but increases total interest paid. For example, on a ₹50 lakh loan at 8.75% p.a.: 20-year tenure EMI is approximately ₹44,186, while 30-year tenure EMI is approximately ₹39,335. The total interest paid over 30 years is significantly higher despite the smaller monthly outflow.
+
+EMI CALCULATION
+EMI (Equated Monthly Installment) is computed using the formula EMI = [P × R × (1+R)^N] / [(1+R)^N − 1], where P is the principal, R is the monthly interest rate (annual rate / 12 / 100), and N is the number of months. Most banks offer free online EMI calculators. The EMI is split between principal repayment and interest, with the interest component dominating in early years and the principal component growing larger over time (amortisation).
+
+DOCUMENTS REQUIRED
+Identity proof: Aadhaar card, PAN card, Voter ID, Driving Licence, or Passport.
+Address proof: Aadhaar, utility bills (electricity, water, gas, telephone landline) not older than 3 months, rent agreement, Voter ID.
+Income proof (salaried): Last 3 months' salary slips, Form 16 for the last 2 years, last 6 months' bank statements where salary is credited, employment letter.
+Income proof (self-employed): Last 3 years' ITRs with computation of income, Profit & Loss statement, Balance Sheet certified by a CA, last 12 months' business bank statements.
+Property documents: Sale deed or agreement to sale, NOC from society or builder, approved building plan, allotment letter, encumbrance certificate, latest property tax receipts.
+Other: Passport-size photographs, processing fee cheque, loan application form.
+
+PROCESSING FEE
+Processing fee typically ranges from 0.25% to 1% of the loan amount, with a minimum of ₹5,000 to ₹10,000 and a maximum cap of ₹50,000 to ₹1,00,000. Most banks offer waivers during festival promotions (Diwali, New Year) or for premium customers. GST at 18% is applicable on the processing fee. Other one-time charges include legal verification fees (₹3,000 to ₹10,000), valuation fees (₹2,500 to ₹7,500), CERSAI registration (₹50 to ₹100), and stamp duty on the loan agreement (varies by state).
+
+DISBURSEMENT
+For a ready-to-move (resale) property, the loan is disbursed in a single tranche to the seller's account against the registered sale deed. For under-construction properties, disbursement happens in stages linked to construction milestones (foundation, slab casting, brickwork, plastering, finishing) — verified by an independent valuer. During the under-construction phase, the borrower pays only the interest on disbursed amount (Pre-EMI) until full disbursement; full EMI starts thereafter.
+
+PREPAYMENT AND FORECLOSURE
+As per RBI guidelines, banks cannot levy prepayment or foreclosure charges on floating-rate home loans availed by individual borrowers. You may make partial prepayments or full foreclosure at any time, free of cost. For fixed-rate loans, banks may charge 2% to 4% of the outstanding principal as foreclosure fee. Prepayment is highly recommended in the early years of the loan when interest forms the bulk of the EMI — even ₹1 lakh prepaid in year 2 can save ₹4-5 lakh in total interest over a 20-year loan.
+
+PMAY (PRADHAN MANTRI AWAS YOJANA) SUBSIDY
+Under PMAY-Credit Linked Subsidy Scheme (CLSS), eligible first-time home buyers from Economically Weaker Section (EWS), Lower Income Group (LIG), and Middle Income Group (MIG) categories receive an interest subsidy on home loans:
+- EWS (annual income up to ₹3 lakh): 6.5% subsidy on loan up to ₹6 lakh for 20 years
+- LIG (₹3-6 lakh income): 6.5% subsidy on loan up to ₹6 lakh for 20 years
+- MIG-I (₹6-12 lakh income): 4% subsidy on loan up to ₹9 lakh
+- MIG-II (₹12-18 lakh income): 3% subsidy on loan up to ₹12 lakh
+The subsidy amount (up to ₹2.67 lakh) is credited upfront to the loan account, reducing the principal outstanding. The property carpet area must be within prescribed limits. The scheme has been extended periodically; check current status on pmaymis.gov.in.
+
+BALANCE TRANSFER (HOME LOAN REFINANCE)
+A balance transfer means moving your existing home loan from one lender to another to obtain a lower interest rate or better terms. Banks offer competitive rates to attract balance transfers. The new lender pays off the old loan and creates a fresh loan in the borrower's name. Costs involved: new processing fee, legal and valuation charges, and potentially a 0.50%-1% balance transfer fee. A balance transfer is beneficial if the rate differential is at least 50 basis points (0.50%) and the remaining tenure is more than 5 years.
+
+TOP-UP LOAN
+A top-up loan is an additional loan over and above your existing home loan, secured against the same property. Banks generally allow a top-up after 6 to 12 months of regular EMI payments. The top-up amount plus outstanding home loan should not exceed the prevailing LTV cap. Top-up loans typically carry an interest rate 50-100 basis points higher than the home loan but lower than personal loans. They can be used for any purpose: home renovation, child's education, marriage, medical emergencies, business needs. Tenure can extend up to the residual home loan tenure.
+
+TAX BENEFITS
+Section 80C: Principal repayment up to ₹1.5 lakh per annum deductible under Section 80C (subject to overall 80C limit).
+Section 24(b): Interest paid up to ₹2 lakh per annum deductible from income from house property for a self-occupied house. For let-out properties, the entire interest is deductible (subject to ₹2 lakh cap if loss is being set off against other heads).
+Section 80EE / 80EEA: Additional deduction of ₹50,000 (80EE) or ₹1.5 lakh (80EEA) for first-time home buyers, subject to property value caps and loan sanction date eligibility.
+Pre-construction interest can be claimed in 5 equal installments starting from the year of possession.
+
+INSURANCE
+Banks strongly recommend (but cannot mandate) Home Loan Protection Plan (HLPP) — a term insurance that pays off the outstanding loan in case of borrower's death or disability. Property insurance (covering fire, earthquake, theft) is also recommended. Both are optional under RBI rules — never accept a bundled insurance sale you don't want.
+
+GRIEVANCE REDRESSAL
+If a home loan application is rejected without explanation, or if there is a dispute over EMI, prepayment, or charges, raise the issue first with the branch manager. If unresolved within 30 days, approach the Bank's Nodal Officer or Principal Nodal Officer. If still unresolved, escalate to the RBI Banking Ombudsman via cms.rbi.org.in. Rates may change, verify with your bank's latest schedule of charges.

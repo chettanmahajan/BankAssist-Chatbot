@@ -1,0 +1,125 @@
+VEHICLE LOAN (CAR AND TWO-WHEELER) — DETAILED GUIDE
+
+OVERVIEW
+A vehicle loan is a secured loan to finance the purchase of a new or used car, SUV, two-wheeler, or commercial vehicle. The vehicle itself is hypothecated to the bank as collateral, and the Registration Certificate (RC) lists the bank as the hypothecation holder until the loan is repaid. Major lenders in India include SBI, HDFC Bank, ICICI Bank, Axis Bank, Bank of Baroda, Kotak Mahindra Prime, Tata Capital, Mahindra Finance, Bajaj Auto Finance, TVS Credit, and dealer-tied finance companies. All figures below are indicative as of FY 2024-25; rates may change, verify with bank.
+
+CAR LOAN — NEW CAR
+
+Interest Rates: 8.65% to 11.5% per annum for new cars. Rates depend on credit score, employer category, vehicle make and model (premium cars often get lower rates), and lender. Public sector banks usually offer the most competitive rates. Festival offers in October-November (Diwali) often reduce rates by 25-50 basis points and waive processing fees.
+
+Loan-to-Value (LTV) Ratio:
+- Up to 85% of on-road price (ex-showroom + RTO + insurance + accessories) for premium banks
+- 80% standard offering at most banks
+- 90% LTV available for select premium customers / pre-approved offers
+The remaining 10%-20% is the down payment that the buyer must arrange from own funds.
+
+Loan Amount: ₹1 lakh to ₹2 crore. Most banks have no upper cap; eligibility is calculated based on income, FOIR, and the vehicle value.
+
+Tenure: 12 to 84 months (1 to 7 years). The standard maximum is 7 years for new cars. Banks rarely extend beyond this because vehicle depreciation outpaces principal repayment.
+
+Eligibility:
+- Salaried: Age 21-65, minimum monthly net income ₹20,000 (₹25,000 in metros), at least 1 year employment.
+- Self-employed: Age 25-65, 2-3 years business vintage, ITR for last 2 years.
+- CIBIL score 700+ recommended.
+
+Documents:
+- KYC: PAN, Aadhaar, photo, address proof
+- Income proof: Salary slips, Form 16, bank statements, or ITR for self-employed
+- Vehicle invoice (proforma) from authorised dealer
+- Insurance proof
+
+CAR LOAN — USED CAR
+
+Interest Rates: 10.5% to 16% per annum — higher than new car loans due to depreciation risk and shorter residual life.
+
+LTV Ratio: 70%-80% of vehicle's market valuation (banks rely on valuation reports from approved valuers like IBB, Mahindra First Choice, OLX Autos).
+
+Tenure: 12 to 60 months (often 5 years max). Banks restrict the tenure so the loan ends well before vehicle reaches 10 years old.
+
+Age of Vehicle: Most banks finance cars not older than 7 years at the time of loan application; loan must close before vehicle is 10-12 years old. Diesel vehicles older than 10 years cannot be registered in NCR (Delhi/NCR rule) so financing is restricted.
+
+Additional Documents: RC copy, insurance copy, original NOC from previous financier (if applicable), Form 29/30 for ownership transfer, valuation report.
+
+TWO-WHEELER LOAN
+
+Interest Rates: 9.5% to 14% per annum for new two-wheelers; 14%-22% for used two-wheelers. Captive finance arms (Bajaj Auto Finance, TVS Credit, Hero FinCorp) often offer attractive zero-EMI / zero-down-payment schemes in tie-up with dealers.
+
+LTV: Up to 95% of on-road price for new bikes; 70%-80% for used.
+
+Tenure: 12 to 48 months (1-4 years).
+
+Eligibility: Age 21-65 (salaried) or 21-70 (self-employed), minimum monthly income ₹8,000-₹15,000 depending on city, basic KYC.
+
+ELECTRIC VEHICLE (EV) LOANS
+
+Special EV financing schemes are offered at concessional rates:
+- New EV cars: 8.45%-10.5% per annum (often 25-100 bps below petrol/diesel car rates)
+- New e-2W (electric scooters/bikes): 9%-13%
+- LTV up to 90%
+- Tenure up to 7 years for cars, 4 years for two-wheelers
+SBI Green Car Loan, Axis Bank EV loans, and PSU EV schemes offer these benefits. Some states also offer purchase subsidies (FAME-II scheme by the central government provides subsidy that reduces ex-showroom price).
+
+PROCESSING FEE AND OTHER CHARGES
+- Processing fee: 0.4% to 1% of loan amount, minimum ₹3,000 to ₹5,000 — often waived during festive offers
+- Documentation charges: ₹500 to ₹1,500
+- RTO charges and hypothecation endorsement (paid to RTO): ₹500 to ₹1,500
+- Stamp duty on loan agreement: varies by state, ₹100 to ₹2,000
+
+PREPAYMENT AND FORECLOSURE
+- Foreclosure within 6-12 months: 4% to 6% of outstanding (or not allowed)
+- 12-24 months: 3% to 5%
+- After 24 months: 2% to 3% (some banks waive after 36 months)
+- Partial prepayment: usually allowed annually, limited to 25% of outstanding without charges (subject to bank policy)
+RBI has barred prepayment charges on floating-rate retail loans for individuals; check if your vehicle loan is floating- or fixed-rate.
+
+INSURANCE REQUIREMENT
+Comprehensive insurance for the entire loan tenure is mandatory. The bank's name appears as financier/hypothecator on the policy. Failure to renew insurance can result in loan recall and penal charges. Bundled insurance is convenient but compare rates with online insurance aggregators before agreeing.
+
+EMI CALCULATION EXAMPLE
+For a ₹8 lakh car loan at 9.5% p.a. for 5 years:
+EMI = approximately ₹16,789
+Total interest = approximately ₹2.07 lakh
+Total payment = ₹10.07 lakh
+
+ZERO-DOWN-PAYMENT AND BALLOON EMI SCHEMES
+Some banks and finance companies offer:
+- Zero down payment: 100% on-road price funded, with slightly higher rates
+- Step-up EMI: Lower EMI initially, increasing over time, suitable for early-career borrowers
+- Step-down EMI: Higher EMI initially, decreasing, suitable for those expecting income drop
+- Balloon EMI: Smaller EMIs with a large bullet payment at the end (or refinanced) — useful for those who plan to upgrade vehicle
+- 80/20 schemes: 80% paid in EMIs over 4 years, 20% bullet payment at end
+
+HYPOTHECATION AND ITS REMOVAL
+The bank's name appears on the RC as hypothecation holder. After full repayment, the borrower must obtain a No Objection Certificate (NOC) and Form 35 from the bank, submit it to the RTO with a fee of ₹100-300, and update the RC to remove hypothecation. This is essential before selling the vehicle. The bank is required by RBI guidelines to provide the NOC within 30 days of full repayment.
+
+USED CAR LOAN — KEY PRECAUTIONS
+1. Verify chassis and engine numbers physically against the RC and bank-funded vehicle.
+2. Check vahan.parivahan.gov.in for any prior hypothecation, blacklisting, or pending challans.
+3. Insist on a proper valuation; never overpay based on inflated invoice.
+4. Get a Pre-Purchase Inspection (PPI) report from a third-party service.
+5. Insurance must be transferred to your name within 14 days of purchase.
+
+COMMERCIAL VEHICLE (CV) LOANS
+For taxis, trucks, school buses, and commercial fleets:
+- LTV: 80%-90% for new CVs, 70% for used
+- Tenure: Up to 5 years for new, 3 years for used
+- Rates: 9%-15% p.a.
+- Lenders also evaluate transportation income, route permits, and operator's vintage
+- Schemes like SRTO (Small Road Transport Operator) loans by SBI, HDFC, ICICI focus on small operators
+
+CAR LEASING AS ALTERNATIVE
+Some companies offer car leasing where you pay a monthly lease rental (similar to EMI) for 3-5 years, and at the end either return the car, buy it for a residual value, or extend the lease. Lease rentals can sometimes be claimed as business expense for self-employed/companies. Leasing is offered by Mahindra Leasing, ALD Automotive, ORIX, and bank-fintech tie-ups.
+
+GST AND TAX
+- GST on the vehicle is bundled into the on-road price (cars: 28%+cess; two-wheelers: 28%; EVs: 5%)
+- GST 18% applies on the processing fee
+- Salaried borrowers cannot claim tax deduction on car loan interest (unless used for business)
+- Self-employed using the vehicle for business can claim interest as business expense and depreciation on the vehicle
+
+RBI GUIDELINES
+- Banks must clearly disclose the all-in cost of the loan in the sanction letter
+- Bundled insurance, accessory financing, and add-ons must be optional with clear opt-out
+- Hypothecation cancellation NOC must be issued within 30 days of full repayment
+- Repossession of vehicle for default must follow due process; muscle-tactics are illegal
+
+Rates may change, verify with your bank's latest offers and your specific eligibility for accurate quotes.

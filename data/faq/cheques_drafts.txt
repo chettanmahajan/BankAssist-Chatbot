@@ -1,0 +1,239 @@
+CHEQUES AND DEMAND DRAFTS — RULES, VALIDITY, PROCESSING
+
+OVERVIEW
+A cheque is a written negotiable instrument by which a drawer instructs the drawee bank to pay a specified amount to a specified payee. Cheques remain widely used in India for business payments, statutory obligations, and large-value personal transactions despite the rise of digital payments. The Negotiable Instruments Act, 1881 governs cheques and bank drafts in India. RBI's Cheque Truncation System (CTS) standardised cheque clearing nationwide from September 2020.
+
+PARTIES TO A CHEQUE
+- Drawer: Person/entity issuing the cheque (account holder)
+- Drawee: Bank on which the cheque is drawn
+- Payee: Person/entity to whom payment is made
+- Endorser / Endorsee: If cheque is transferred by signing
+
+PARTS OF A CHEQUE LEAF
+- Cheque number (6 digits, top-left)
+- MICR code (9 digits — bank + branch identifier)
+- IFSC (11 alpha-numeric)
+- Date field (DD-MM-YYYY format)
+- Payee line — "Pay to" name
+- Amount in words
+- Amount in figures (₹ symbol)
+- Signature(s) of drawer
+- Account number (bottom)
+- Branch and bank name printed
+
+CHEQUE VALIDITY
+- A cheque is valid for 3 months from the date written on the cheque (RBI rule effective April 2012, earlier was 6 months)
+- After 3 months, cheque is "stale" and bank will not honour it
+- Re-issue a fresh cheque if needed
+
+POST-DATED CHEQUE (PDC)
+- A cheque dated for a future date
+- Bank must not pay before the date written
+- Common in business for advance payments, equipment lease, RWAs / society maintenance
+- Used historically for loan EMIs (largely replaced by NACH mandate)
+- If presented before the date, bank will return as "post-dated"
+
+STALE-DATED CHEQUE
+- Cheque older than 3 months from the date written
+- Cannot be banked / will be returned
+- Request fresh cheque from drawer
+
+CHEQUE CROSSING
+Crossing of a cheque indicates how it can be cashed:
+- Open cheque: No crossing — can be cashed over the counter by payee
+- General crossing: Two parallel lines (with or without "& Co.") drawn across the top-left — must be deposited into a bank account, not cash withdrawal
+- Special crossing: Specific bank name between the lines — only payable through that bank
+- Account payee crossing: "A/C Payee Only" written between the lines — must be credited to payee's account only, no further endorsement
+
+MOST cheques today are A/C Payee crossed for security.
+
+ENDORSEMENT
+The act of signing on the back of a cheque to transfer it to another party. Types:
+- Blank endorsement: Just signature; cheque becomes bearer
+- Special endorsement: "Pay to XYZ" + signature
+- Restrictive endorsement: "Pay to XYZ only" + signature
+- Conditional endorsement: With conditions
+
+Account payee cheques cannot be endorsed to a third party.
+
+BEARER vs ORDER CHEQUE
+- Bearer cheque: "Pay to XXX or Bearer" — can be paid to anyone holding the cheque (risky if lost)
+- Order cheque: "Pay to XXX" only (the "or bearer" is struck off) — only payee can encash or further endorse
+
+CHEQUE TRUNCATION SYSTEM (CTS)
+RBI's clearing system that uses electronic image of cheque instead of physical movement:
+- Bank's clearing department scans cheque
+- Image and data transmitted to drawee bank for verification
+- Settlement on T+1 basis (same day to next day)
+- Reduces clearing time from earlier 3-7 days
+- All branches across India use CTS since September 2020 nationwide
+
+CTS-2010 CHEQUE STANDARD
+All cheque leaves must comply with CTS-2010 standard:
+- Standard size: 7" × 3.25"
+- White paper, watermark, void pantograph (security feature against photocopying)
+- Bank name and logo printed
+- IFSC and MICR pre-printed
+- Standard ink for printing
+- Old non-CTS cheques: Not accepted after September 2020
+
+POSITIVE PAY SYSTEM (PPS) — CHEQUE FRAUD PREVENTION
+For cheques of ₹50,000 and above:
+- Drawer pre-submits cheque details (number, date, amount, payee name) to bank via app/net banking/SMS
+- Drawee bank cross-verifies these details when cheque is presented
+- Mismatch (e.g., altered amount) → cheque returned
+- Mandatory for amounts:
+  - ₹50,000-₹5 lakh: Optional but recommended at most banks
+  - Above ₹5 lakh: Mandatory at most banks
+- Some banks make it mandatory for all cheques above ₹50,000
+- Prevents cheque alteration / forgery fraud
+
+CHEQUE BOUNCE / DISHONOUR
+
+Reasons for dishonour:
+- Insufficient funds (most common)
+- Mismatched signature
+- Cheque date issue (post-dated, stale-dated)
+- Amount in figures and words differ
+- Cheque mutilated / soiled / cut
+- Drawer's account closed
+- Cheque crossed and presented over counter
+- Stop payment by drawer
+- Refer to drawer (bank uncertain about validity)
+- Court order on drawer's account
+- Drawer deceased and no joint operation
+
+Consequences of cheque bounce (Section 138 of Negotiable Instruments Act):
+- Imprisonment up to 2 years OR fine up to twice the cheque amount, or both
+- This is a criminal offence — payee can file complaint within 1 month of receiving back the cheque
+- Drawer has 15 days from notice of dishonour to pay; failing which complaint goes to court
+- CIBIL impact: Repeated cheque bounces reflect badly on credit score
+- Account scrutiny by bank; possible account closure for habitual bouncers
+- Cheque return charge: ₹150-₹500 + GST per cheque per side (both inward and outward)
+- Repeat bouncer (4+ in a year): Bank may close cheque book facility
+
+To avoid cheque bounce:
+- Maintain sufficient balance
+- Don't post-date if account is uncertain
+- Match signature with bank record
+- Use net banking / NEFT / RTGS for high-value payments
+
+STOP PAYMENT INSTRUCTION
+Drawer can instruct bank to not honour a specific cheque:
+- Submit Stop Payment request via net banking / mobile app / branch
+- Charges: ₹100-₹300 per cheque online; up to ₹500 at branch
+- Reasons: Lost cheque, fraud, dispute with payee, wrong amount
+- Stop payment is effective only if instructed before cheque is presented for payment
+- Once paid, cannot be reversed
+
+DEMAND DRAFT (DD)
+
+What it is: A pre-paid order instrument issued by a bank promising to pay the amount mentioned to the specified payee. Unlike a cheque, the amount is already debited from the issuer's account, so the payment is guaranteed.
+
+When used:
+- Statutory payments (court, government department applications that require DD)
+- Educational institution fee payment
+- Tendering by businesses
+- Securities and IPO subscription (in some cases)
+- When payee insists on guaranteed payment
+
+How to obtain a DD:
+- Net banking / mobile app: Online DD generation; delivered home or collected at branch
+- Branch: Fill DD application form, pay by cash or account debit, get DD on the spot
+
+DD validity: 3 months from issue date.
+
+DD charges (indicative):
+- Up to ₹10,000: ₹50-₹100
+- ₹10,001-₹1 lakh: ₹100-₹300 (₹2-3 per ₹1,000)
+- ₹1 lakh+: ₹300-₹1,000 (₹2 per ₹1,000, capped)
+- Online: ~50% cheaper
+- Plus GST 18%
+
+DD cancellation:
+- Request via branch; original DD surrendered
+- Cancellation charge: ₹50-₹100
+- Refund credited to account (cash refund usually not given for amounts above ₹20,000 to prevent money laundering)
+
+Lost DD:
+- File written complaint at issuing bank
+- Indemnity bond and FIR may be required for high-value DD
+- Duplicate DD issued after due diligence: ₹100-₹250 charge
+- Wait period of 15-30 days
+
+ELECTRONIC ALTERNATIVES TO DD
+- NEFT/RTGS: Almost universally accepted now in lieu of DD
+- E-banker's cheque
+- Direct bank transfer with UTR
+
+Many institutions now accept NEFT confirmation in place of DD for routine payments. For applications that specifically require DD (e.g., university admission, court fee), DD is still required.
+
+PAY ORDER (also called Banker's Cheque)
+Similar to DD but used for local payments (same city):
+- Drawn on the issuing branch itself
+- Validity 3 months
+- Used in real estate transactions, government tenders, etc.
+- Charges similar to DD or slightly lower
+
+CHEQUE COLLECTION / DEPOSIT
+
+Deposit:
+- Deposit at any branch (own bank) using deposit slip
+- Cheque deposit machine (CDM/Bunch Note Acceptor) at ATM lobbies
+- Drop box in branches (less common; reduced for security)
+- Pickup service for premium customers
+
+Clearing time:
+- Local CTS clearing: T+1 (next working day credit)
+- Outstation: T+2 to T+4 days
+- High-value clearing (HVC): For amounts > ₹2 lakh — same day in some cases
+
+Funds credited but on "hold":
+- Bank typically holds funds for 1-2 days for verification
+- Returned cheques: Funds debited back with charges
+
+MULTI-CITY CHEQUE (MCC)
+- Special cheques issued by current account holders
+- Payable "at par" in any branch of the same bank across India
+- Useful for businesses with offices in multiple cities
+- Charges may apply on issuance
+
+CHEQUE TRACKING
+- Net banking → "Cheque status" — shows status of issued cheques (presented / paid / returned)
+- Branch can inquire via core banking system
+
+PRECAUTIONS WHEN WRITING A CHEQUE
+1. Write payee name clearly, no abbreviations
+2. Mark "A/C Payee Only" for security
+3. Write amount in words and figures — must match exactly
+4. Cross-line the cheque if not A/C Payee already
+5. Sign within the signature box, match signature
+6. Don't leave blank space between payee name and "or" or "Bearer"
+7. Use only blue or black ink (not gel pen, no erasable ink)
+8. Don't write on the MICR band at the bottom
+9. Date — use DD-MM-YYYY format clearly
+10. Add "Only" after amount in figures to prevent alteration (e.g., "Rupees Two Thousand Only ₹2,000/-")
+11. Submit Positive Pay details for cheques above ₹50,000
+
+PRECAUTIONS WHEN ACCEPTING A CHEQUE
+1. Verify cheque is not stale-dated or post-dated
+2. Check signature, date, payee name, amount (words = figures)
+3. Look for any alterations (counter-signed?)
+4. Confirm cheque is CTS-2010 compliant
+5. Deposit promptly to keep within validity
+6. For large amounts, ask drawer to use NEFT/RTGS or DD for guaranteed payment
+
+CHEQUE FRAUD TYPES
+1. Cheque alteration: Amount changed; mitigated by Positive Pay
+2. Forged signature: Mitigated by signature verification systems and CTS image clarity
+3. Stolen cheque book: Drawer reports, bank issues stop payment
+4. Cheque-kiting: Cycling cheques between two accounts to inflate apparent balance
+5. Counterfeit cheque: Detected via CTS-2010 features (watermark, void pantograph)
+
+DIGITAL CHEQUE ALTERNATIVES
+- NEFT, RTGS, IMPS, UPI for fund transfer
+- e-Mandate / NACH for recurring payments
+- Standing instructions
+- Bharat Bill Payment System (BBPS) for utilities
+
+For specific bank's cheque-related processes and charges, refer to the Schedule of Charges and Cheque Book Terms. Rates and rules may change, verify with bank.

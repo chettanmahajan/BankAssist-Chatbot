@@ -1,0 +1,191 @@
+CREDIT CARD SECURITY — OTP, 3D SECURE, FRAUD PROTECTION, DISPUTE RESOLUTION
+
+OVERVIEW
+Credit card security is a multi-layered defence: physical card features, authentication systems, transaction monitoring, customer reporting, and a strong RBI-mandated zero-liability framework. Knowing how to use these layers and how to respond when fraud occurs protects you from financial loss and stress. This document covers all dimensions of credit card security relevant to Indian users.
+
+CARD SECURITY FEATURES (PHYSICAL)
+- EMV chip: Generates a unique cryptogram for each transaction — far more secure than magnetic stripe (chip cards cannot be cloned with simple skimmers)
+- Holographic strip: Difficult to replicate counterfeit
+- Embossed/laser-printed name and number: Tamper-evident
+- 3-digit CVV / 4-digit CVV2 on back (or front for Amex)
+- Signature panel on back
+
+CARD-NOT-PRESENT (CNP) SECURITY
+For online and phone transactions, you need:
+- 16-digit card number
+- Expiry date
+- CVV
+- Name on card
+
+Plus second factor (mandatory in India):
+- OTP (One-Time Password) sent via SMS / email
+- 3D Secure / Verified by Visa / Mastercard SecureCode authentication
+
+INDIAN RBI MANDATE — TWO-FACTOR AUTHENTICATION
+Since 2010, RBI mandates two-factor authentication for ALL online card transactions originating in India. This means an OTP or 3D Secure authentication is required for every CNP transaction. International websites that don't support this may decline Indian cards — newer fintech cards (like IDFC FIRST WoW) handle this via their app.
+
+TOKENISATION (RBI MANDATE EFFECTIVE OCTOBER 2022)
+Merchants can no longer store actual 16-digit card numbers and CVVs on their servers. Instead:
+- A "token" is generated specific to each card-merchant combination
+- Token is stored at merchant; actual card data only with the bank/payment network
+- Even if merchant is breached, the token cannot be used elsewhere
+- Customer consents to tokenisation during first checkout
+This dramatically reduces fraud from merchant-side data breaches.
+
+CONTACTLESS (NFC) SECURITY
+- Tap-to-pay limit ₹5,000 without PIN (raised from ₹2,000 in March 2020)
+- Above ₹5,000: PIN entry mandatory
+- Cryptographic protection in NFC chip prevents cloning
+- Customer can disable contactless via app
+
+INTERNATIONAL TRANSACTIONS
+By default, RBI-mandated cards have international usage disabled. You must:
+1. Enable international usage via app/net banking/customer care
+2. Set a usage limit (you control the maximum daily/monthly spend abroad)
+3. Optionally enable for online + POS separately
+You can disable instantly when not travelling — recommended practice for security.
+
+CARD CONTROLS (APP FEATURES)
+Modern banking apps allow real-time card controls:
+- Enable/disable card entirely
+- Enable/disable: Online transactions, POS transactions, ATM, contactless, international
+- Set transaction limits: Per transaction and daily
+- Set merchant category controls (some banks)
+- View live transactions and dispute directly from app
+- Generate temporary OTPs / card details for online use
+
+OTP — ONE-TIME PASSWORD
+- Sent via SMS to registered mobile number for each online transaction
+- Some banks also send via email
+- Validity: 30 seconds to 5 minutes (typically)
+- Never share OTP with anyone — not even bank staff (bank will NEVER ask for OTP, CVV, or PIN)
+- If OTP doesn't arrive: check network, request resend; if persistent, contact bank
+- Voice OTP available as alternative for users with hearing/vision needs or in poor SMS coverage
+
+PIN — PERSONAL IDENTIFICATION NUMBER
+- 4-digit PIN for ATM cash advance and PIN-based POS transactions
+- Never write down or share PIN
+- Change PIN periodically (every 6-12 months)
+- Set PIN via ATM, net banking, or app
+- Never enter PIN on a website or in an email — it's never asked online
+
+LOST OR STOLEN CARD — IMMEDIATE STEPS
+1. Block the card immediately:
+   - Bank's 24×7 toll-free helpline (often printed on the back of the card)
+   - Mobile banking app: Look for "Block Card" or "Hotlist Card"
+   - SMS to bank's short code (e.g., HDFC: SMS "BLOCK CC <last 4 digits>" to 73070)
+   - Internet banking
+2. Get a confirmation reference number for the block
+3. Visit a police station and file an FIR if the card was physically stolen
+4. Request replacement card — typically delivered in 7-10 business days; instant virtual card may be available via app
+5. Monitor the statement for any unauthorised transactions during the lost-card window
+
+REPORTING UNAUTHORISED TRANSACTIONS
+If you notice a transaction you didn't make:
+1. Report to the bank IMMEDIATELY via 24×7 helpline or app
+2. Also send a written email/letter to the bank's grievance cell within 3 working days
+3. Bank must investigate; transaction will be temporarily reversed (provisional credit) pending investigation in most cases
+4. Bank must resolve within 90 days as per RBI norms
+
+ZERO LIABILITY FRAMEWORK (RBI CIRCULAR ON LIMITED LIABILITY OF CUSTOMERS)
+RBI has codified customer liability for unauthorised electronic transactions:
+
+Scenario 1: Contributory fraud, negligence, or deficiency by the bank
+- Customer liability: Zero (irrespective of whether or how soon customer reports)
+
+Scenario 2: Fraud through third-party breach without customer or bank fault (e.g., card skimming)
+- If reported within 3 working days: Zero liability
+- If reported in 4-7 working days: Per transaction liability capped (₹10,000 for basic accounts, ₹25,000 for premium savings, ₹25,000 for credit card limits up to ₹5 lakh, ₹50,000 for higher limits)
+- If reported after 7 working days: Per bank's board-approved policy
+
+Scenario 3: Customer's own negligence (e.g., sharing PIN/OTP, writing PIN on card)
+- Customer bears liability until reported; after reporting, further liability is zero
+
+This is why prompt reporting is critical — it shifts liability to zero.
+
+TYPES OF CREDIT CARD FRAUD
+
+1. Phishing: Fake email/SMS pretending to be the bank, asking you to click a link and enter card details. Always type the bank URL manually; never click email links.
+
+2. Vishing (Voice phishing): Fraudster calls pretending to be bank/RBI/income tax/police, says your card is blocked / suspicious activity / needs verification, asks for OTP or card details. NEVER share OTP, CVV, PIN, or card details over phone. RBI repeatedly clarifies that no bank or RBI will ever call asking for these.
+
+3. Smishing (SMS phishing): SMS with suspicious link claiming KYC update, reward redemption, bill payment. Same rule — don't click, don't reply with details.
+
+4. Card skimming: Compromised POS or ATM card reader copies your card's magnetic stripe data. Mitigated by chip-and-PIN. Inspect ATM card slot before inserting; cover the keypad while entering PIN.
+
+5. Card trapping: ATM card slot is rigged to capture the card. Don't accept "help" from strangers; if card is captured, call bank immediately.
+
+6. Carding / CNP fraud: Stolen card numbers used for online transactions. Mitigated by OTP + tokenisation.
+
+7. Lost mail fraud: Card or PIN intercepted in postal delivery. Mitigated by digital delivery, PIN set via OTP at bank's portal.
+
+8. Identity theft: Fraudster impersonates you to issue a card in your name. Monitor CIBIL report regularly for any unfamiliar inquiries or accounts.
+
+9. Friendly fraud: Family member, household help, or friend uses your card without consent. Difficult to prove; banks may decline reversal. Lock card storage, don't share PIN.
+
+10. SIM swap fraud: Fraudster gets a duplicate SIM in your name; OTPs go to them. Mitigated by quick reporting if your SIM goes dead unexpectedly; banks now use device-binding (mobile app on registered device required) for additional protection.
+
+DISPUTE / CHARGEBACK PROCESS
+For an unauthorised, duplicate, or unsatisfactory transaction:
+
+Step 1: Try resolving with the merchant first (for service issues like undelivered goods).
+
+Step 2: If unresolved, raise a dispute with your bank via:
+- Mobile app dispute submission
+- Net banking dispute form
+- Email to bank's grievance cell
+- Customer care call (note SR number)
+
+Step 3: Provide:
+- Transaction date, amount, merchant
+- Reason for dispute (unauthorised / not received / duplicate / wrong amount)
+- Supporting evidence (order receipts, communication with merchant)
+
+Step 4: Bank investigates; provisional credit may be issued.
+
+Step 5: Bank communicates with the merchant's acquiring bank via the card network (Visa/Mastercard/RuPay) — this is the "chargeback" process.
+
+Step 6: Resolution within 90 days as per RBI. If found in customer's favour, credit becomes permanent; if not, provisional credit is reversed.
+
+ESCALATION IF BANK DOESN'T RESOLVE
+- Internal Ombudsman of bank (mandatory for banks with assets ₹10,000 crore+)
+- RBI Banking Ombudsman via cms.rbi.org.in within 1 year of bank's response or non-response
+- Consumer Court for amounts up to ₹20 lakh (District), ₹20 lakh-₹1 crore (State), above ₹1 crore (National)
+
+CYBER CRIME REPORTING
+For organised cyber fraud:
+- Report immediately at cybercrime.gov.in
+- Helpline: 1930 (24×7 Cyber Helpline by Indian Cybercrime Coordination Centre)
+- File FIR with cyber police station of your area
+- Quick reporting (within 24 hours) increases recovery chances significantly
+
+PROTECTING YOUR CARD ONLINE
+1. Use trusted merchants and HTTPS sites
+2. Avoid saving card details on unfamiliar sites (tokenisation helps)
+3. Use credit card (not debit) for online — better dispute and liability protection
+4. Maintain unique strong passwords for net banking
+5. Enable transaction alerts (SMS + email)
+6. Disable international/online when not needed
+7. Set conservative transaction limits
+8. Don't transact on public Wi-Fi without VPN
+9. Keep your phone, app, and OS updated
+10. Be sceptical of all unsolicited calls/SMS/emails about your card
+
+SUSPICIOUS ACTIVITY MONITORING (BY BANK)
+Banks deploy AI-driven fraud detection that:
+- Flags unusual amount/location/merchant patterns
+- May call/SMS you to confirm a transaction
+- May temporarily block card pending your confirmation
+- May decline a clearly fraudulent transaction
+Cooperate with these checks; respond promptly to confirmation calls.
+
+RBI MASTER DIRECTION ON CREDIT CARD AND DEBIT CARD – ISSUANCE AND CONDUCT DIRECTIONS, 2022
+Key consumer protections:
+- No card issuance without explicit consent (OTP / digital signature)
+- 30 days to activate after issuance; non-activation → card closed without charge
+- Card cannot be issued/upgraded/downgraded without consent
+- Fees/charges only as disclosed in MITC
+- Closure of card on request within 7 working days; failure attracts ₹500/day penalty
+- Settlement / dispute resolution within 90 days
+
+Rates may change, verify with bank — and stay alert: security is everyone's responsibility, but a vigilant customer with the right knowledge is hard to defraud.

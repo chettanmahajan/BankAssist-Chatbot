@@ -1,0 +1,340 @@
+TRADE FINANCE — LC, BG, EXPORT CREDIT, FOREX FOR BUSINESS
+
+OVERVIEW
+Trade finance is a banking specialty that supports international and domestic trade — facilitating payments, mitigating counterparty risk, providing working capital, and managing forex exposure. Indian banks act as Authorised Dealers (AD Category-I) under FEMA, 1999, to handle foreign exchange and trade finance products. Regulated by RBI, FEDAI (Foreign Exchange Dealers Association of India), DGFT, and Customs. Rates and figures are indicative; rates may change, verify with bank.
+
+LETTER OF CREDIT (LC)
+
+What it is: A guarantee issued by the buyer's bank (Issuing Bank) to the seller (Beneficiary), promising payment upon submission of specified documents conforming to LC terms. LC mitigates seller's risk of non-payment and buyer's risk of non-shipment.
+
+Parties:
+- Applicant: Buyer (importer)
+- Beneficiary: Seller (exporter)
+- Issuing Bank: Buyer's bank
+- Advising Bank: Seller's local bank (advises the LC to seller)
+- Confirming Bank (optional): Adds its own guarantee to LC
+- Negotiating Bank: Pays seller against documents
+- Reimbursing Bank: Pays the negotiating bank
+- Nominated Bank: Authorised to pay / accept / negotiate
+
+Types of LC:
+
+1. Sight LC: Payment on presentation of compliant documents (immediate payment)
+
+2. Usance / Time / Term LC: Payment after specified period (e.g., 30/60/90/180 days from sight or shipment date) — gives buyer credit period
+
+3. Revocable LC: Can be modified/cancelled without beneficiary consent (rarely used; high risk)
+
+4. Irrevocable LC: Cannot be changed without all parties' consent (standard, default per UCP 600)
+
+5. Confirmed LC: A second bank confirms (adds its guarantee) — usually used in high country-risk scenarios
+
+6. Standby LC (SBLC): Used as a guarantee (like a bank guarantee); paid only if applicant defaults
+
+7. Transferable LC: Beneficiary can transfer rights to a third party (used in intermediary trade)
+
+8. Back-to-back LC: Beneficiary uses incoming LC as security for issuing another LC to its supplier
+
+9. Red Clause LC: Allows beneficiary to draw advance against the LC before shipment
+
+10. Green Clause LC: Like Red Clause + warehousing facility
+
+11. Revolving LC: Auto-renews up to specified amount and/or period
+
+12. Negotiation / Acceptance / Sight LC: By type of payment
+
+Documentation under LC:
+- Commercial Invoice
+- Bill of Lading (or Air Waybill, Truck Receipt)
+- Packing List
+- Certificate of Origin
+- Insurance Policy / Certificate
+- Inspection Certificate
+- Beneficiary's Certificate
+- Phytosanitary / Health Certificate (for agri / pharma)
+- Customs declaration
+
+UCP 600 (Uniform Customs and Practice for Documentary Credits): International rules governing LC by ICC (International Chamber of Commerce). Standard reference document.
+
+ISBP (International Standard Banking Practice): Document examination practices.
+
+LC ISSUANCE PROCESS:
+1. Buyer applies to bank with LC application form, commercial agreement
+2. Bank assesses creditworthiness; may require margin (10%-100% based on credit profile)
+3. LC drafted and issued via SWIFT MT700 message to beneficiary's bank
+4. Beneficiary's bank advises LC to beneficiary
+5. Beneficiary ships goods, prepares documents per LC
+6. Documents presented to negotiating bank
+7. Documents examined for LC compliance; payment made (sight) or accepted (usance)
+8. Documents forwarded to issuing bank → buyer pays issuing bank → buyer receives documents → takes possession of goods
+
+LC Charges:
+- Issuance commission: 0.15%-0.5% per quarter on LC amount
+- Amendment fee: ₹500-₹2,000 per amendment
+- Negotiation/payment commission: 0.10%-0.20% on amount paid
+- SWIFT charges: ₹500-₹2,500 per message
+- Discrepancy fee: USD 100-200 per discrepancy
+- Margin requirement (for buyer): 10%-100% of LC value, depending on credit profile
+- Plus GST 18% on commissions and charges
+
+LC ADVANTAGES
+For Exporter:
+- Payment assured if documents comply
+- Counterparty risk shifted to bank
+- Can negotiate pre-shipment / post-shipment credit
+
+For Importer:
+- Goods received per agreed quality / quantity (via inspection clauses)
+- Payment only after shipment proof
+- Credit period under usance LC
+
+LC DISADVANTAGES
+- Costs (commissions, charges)
+- Time-consuming documentation
+- Strict compliance needed; even small discrepancies can delay payment
+- Bank examines documents, not actual goods
+
+BANK GUARANTEE (BG)
+
+What it is: A written commitment by the bank to pay a specified amount to a beneficiary in case the applicant (customer of bank) fails to meet certain contractual obligations.
+
+Types:
+
+1. Financial Bank Guarantee: Guarantees payment of a financial obligation (e.g., tender deposit, security deposit)
+
+2. Performance Bank Guarantee: Guarantees performance of a contract (e.g., project completion, supply terms). If applicant fails to perform, beneficiary can invoke BG.
+
+3. Advance Payment Guarantee: Protects buyer who has made advance payment to seller, in case seller fails to deliver
+
+4. Bid Bond / Earnest Money Deposit BG: For tender participation
+
+5. Retention Money BG: Allows contractor to receive retention money instead of bank holding it
+
+6. Deferred Payment Guarantee (DPG): For import of capital goods on deferred payment terms
+
+Common Uses:
+- Tender bidding (bid bond)
+- Performance security in construction / supply contracts
+- Customs / excise duty deposit
+- Statutory / regulatory body deposits (electricity, court, government)
+- Import advance payments
+
+BG Issuance Process:
+1. Customer applies with bank with format / requirement of BG
+2. Bank assesses credit; may require margin or collateral
+3. BG issued in specified format on bank's letterhead
+4. Beneficiary receives BG
+5. BG remains valid until expiry; can be extended on customer's request
+6. If applicant defaults, beneficiary invokes BG and bank pays
+
+BG Charges:
+- Commission: 0.50%-1.5% per annum on BG amount (depends on tenure and risk)
+- Issuance fee: ₹500-₹2,000
+- Amendment fee: ₹500-₹1,500
+- Margin: 0%-100% (typically 10%-25% for established customers)
+- Plus GST 18%
+
+BG vs LC:
+- LC: Bank pays in normal course if documents conform (positive payment)
+- BG: Bank pays only if applicant defaults (contingent liability)
+
+EXPORT CREDIT
+
+Banks provide pre-shipment and post-shipment credit to exporters for working capital and bridging payment cycles.
+
+PRE-SHIPMENT CREDIT (PACKING CREDIT)
+
+Purpose: Working capital to purchase raw materials, manufacture, package, transport, and load goods for export.
+
+Types:
+- Packing Credit Loan (PCL) in INR
+- Packing Credit in Foreign Currency (PCFC) — in USD, EUR, GBP, etc.
+
+Features:
+- Tenure: Up to 180 days from drawdown (extendable to 360 days with RBI approval for special cases)
+- Interest: Concessional, regulated by RBI:
+  - PCL (INR): MCLR / EBLR + risk premium, often 7%-9% with interest subvention
+  - PCFC (foreign currency): LIBOR + premium / new benchmarks (SOFR) + spread, often 4%-6%
+- Disbursed against firm export order / LC
+- Repaid from export proceeds
+
+Interest Equalisation Scheme (IES) / Interest Subvention:
+- Government provides 3%-5% subvention on rupee export credit to MSME exporters
+- Applicable to manufacturers and merchant exporters in identified sectors
+- Reduces effective rate to as low as 4%-7%
+- Check current applicability and rates
+
+POST-SHIPMENT CREDIT
+
+Purpose: Bridge credit after goods are shipped until export proceeds are realised.
+
+Types:
+- Negotiation of export bills (with bank discounting documents and paying upfront, recovering from buyer later)
+- Foreign Currency Bills Purchased (FBP)
+- Foreign Currency Bills Discounted (FBD)
+- Advance against export bills sent on collection basis
+- Advance against duty drawback / GST refund
+
+Features:
+- Tenure: Up to 180 days from shipment date (extendable for usance bills)
+- Interest: Similar concessional rates as pre-shipment
+- Repaid on receipt of export proceeds
+
+EXPORT-IMPORT BANK OF INDIA (EXIM BANK)
+Established 1982. Specialised bank for international trade:
+- Buyer's credit to importers in developing countries to buy Indian goods
+- Lines of credit to foreign governments / banks
+- Export credit, project finance for exports
+- Information and advisory
+
+ECGC — EXPORT CREDIT GUARANTEE CORPORATION
+Insures exporters against risks of buyer default, country risk, foreign exchange:
+- Premium-based policies
+- Up to 90% cover for confirmed export bills
+- Mandatory in some export credit cases
+- Provides ratings for foreign buyers
+
+IMPORT FINANCE
+
+Types:
+1. Letter of Credit (Sight or Usance) — covered above
+
+2. Buyer's Credit (Foreign): Foreign bank pays Indian exporter on behalf of Indian importer at lower foreign currency rate; Indian importer repays foreign bank later. Arranged via Indian bank acting as arranger.
+
+3. Supplier's Credit: Foreign supplier extends credit to Indian importer directly; usually backed by LC or buyer's credit.
+
+4. Term Loan for Capital Goods Import: Indian bank funds the import of machinery, paying foreign supplier and creating a term loan for importer.
+
+5. Acceptance Credit Facility (ACU - Asian Clearing Union dealings).
+
+FOREIGN EXCHANGE FOR BUSINESS
+
+Forward Contracts:
+- Lock in an exchange rate today for a future date
+- Hedges against currency volatility
+- Used by importers (lock against rupee depreciation) and exporters (lock against rupee appreciation)
+- Tenure typically 30-365 days
+- Margin requirement varies (5%-15%)
+
+Options Contracts:
+- Right (not obligation) to buy/sell foreign currency at strike rate
+- Premium paid upfront
+- Used for more flexible hedging
+- Available for limited currency pairs
+
+Spot Transactions:
+- Immediate conversion at prevailing rate
+- For day-to-day import/export remittances
+- TT Buying / Selling rates apply
+
+Cross-currency dealings:
+- Direct conversion (e.g., EUR to GBP without going via USD or INR)
+- Reduces conversion costs
+
+EEFC ACCOUNT — EXCHANGE EARNERS' FOREIGN CURRENCY
+- Resident exporters maintain foreign currency earnings without conversion to INR
+- Up to 100% of export proceeds can be retained
+- Useful when re-investing in imports or foreign payments
+- No interest paid on EEFC
+- Funds can be used for permitted purposes per FEMA
+
+FCY-INR HEDGE STRATEGIES
+1. Natural hedge: Match foreign currency inflows with outflows
+2. Forward booking: Standard hedging tool
+3. Options / structured products: For volatile markets
+4. EEFC: Avoid conversion entirely
+5. Bill of Exchange / Documentary Collection: Risk-reduction in trade
+
+DOCUMENTARY COLLECTION (D/A and D/P)
+Alternative to LC:
+- D/P (Documents against Payment): Exporter ships goods, sends documents via bank; importer pays bank to get documents
+- D/A (Documents against Acceptance): Importer accepts a Bill of Exchange (promise to pay at future date); receives documents; pays on maturity
+
+Lower cost than LC but less secure (no bank guarantee of payment).
+
+INDIAN TRADE PORTAL AND DIGITAL TOOLS
+- DGFT IceGate (icegate.gov.in): Customs and trade portal
+- TradeStat (commerce.gov.in): Trade statistics
+- DGFT Portal (dgft.gov.in): Foreign trade policy, IEC, licences
+- e-BRC (Bank Realisation Certificate) on DGFT portal for export proceeds proof
+- Bharat Trade Portal — emerging digital initiative
+
+IEC — IMPORTER EXPORTER CODE
+- Mandatory 10-digit code from DGFT for any import/export
+- Free, online application via dgft.gov.in
+- PAN required
+- One IEC per PAN
+- Activated via PAN; no separate IEC application needed since 2022 (auto-linked)
+- Free for life
+
+ADVANCE AUTHORISATION / EPCG / DUTY DRAWBACK
+DGFT schemes to support exporters with duty-free imports of inputs:
+- Advance Authorisation: Import inputs duty-free for export production
+- EPCG (Export Promotion Capital Goods): Import capital goods at concessional / zero duty against export obligation
+- Duty Drawback: Refund of customs duty paid on inputs after export
+- MEIS / SEIS (now subsumed under RoDTEP — Remission of Duties and Taxes on Exported Products): Export incentives
+
+TRADE FINANCE CHARGES — SUMMARY (INDICATIVE)
+- LC issuance: 0.15%-0.5% per quarter
+- BG issuance: 0.5%-1.5% per annum
+- LC/BG amendment: ₹500-₹2,500
+- Negotiation: 0.10%-0.20%
+- Foreign currency cheque collection: USD 5-50 + bank fees
+- Outward remittance for imports: ₹500-₹2,000 per transaction + forex markup
+- Forward booking: 0.05%-0.10% commission + forex spread
+- SWIFT message: ₹250-₹2,500 per message
+- Plus GST 18% on most service fees
+
+EXPORT PROCEEDS REALISATION
+Per FEMA / RBI guidelines:
+- Exporter must realise and repatriate export proceeds within 9 months from date of export (some sectors 6 months) — extended periodically
+- Non-realisation is FEMA contravention
+- Bank submits BRC (Bank Realisation Certificate) on receipt
+- Caution List: Repeated non-realisation can lead to inclusion in RBI Caution List restricting future exports
+
+GST FOR EXPORTERS
+- Exports are zero-rated under GST
+- Two options:
+  - Export with LUT (Letter of Undertaking) — no IGST payment; refund of accumulated ITC
+  - Export with IGST payment — refund of IGST after shipment
+- LUT obtained annually from GST portal
+
+KEY REGULATORY AUTHORITIES
+- RBI: Foreign exchange, banking aspect
+- DGFT (Directorate General of Foreign Trade): Foreign trade policy, licences, IEC, schemes
+- Customs / CBIC: Customs duties, clearance
+- FEDAI (Foreign Exchange Dealers Association of India): Exchange rates, market practices
+- FIEO (Federation of Indian Export Organisations): Trade body representing exporters
+- EXIM Bank, ECGC
+
+DOMESTIC LC AND BG
+LCs and BGs are also used for domestic trade between Indian buyers and sellers:
+- Inland LC: For domestic transactions, especially when buyer-seller are in different states or new relationship
+- Domestic BG: Common in construction, government tenders, supplier contracts
+
+KEY TAKEAWAYS
+
+For Importers:
+1. Get IEC registered
+2. Choose between LC, BG, advance payment, open account based on supplier relationship and country risk
+3. Hedge foreign currency exposure via forward contracts
+4. Manage payment terms in trade agreements
+5. Comply with FEMA, customs, GST
+
+For Exporters:
+1. Negotiate LC at sight for new buyers; usance for established
+2. Use pre-shipment and post-shipment credit for working capital
+3. ECGC insurance for buyer / country risk
+4. Hedge export receivables
+5. Realise proceeds within 9 months
+6. Claim duty drawback / RoDTEP / GST refunds
+7. Use EEFC for partial currency retention
+
+For Both:
+1. Build relationship with trade-friendly bank
+2. Use technology — DGFT portal, IceGate, bank's trade portals
+3. Stay updated on FTP (Foreign Trade Policy) and RBI circulars
+4. Maintain proper documentation for audit and statutory needs
+5. Consider Forward Contracts and Options for risk management
+
+Rates and rules may change, verify with bank / RBI / DGFT for current trade finance products, schemes, and procedures.

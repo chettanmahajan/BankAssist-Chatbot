@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment files
+.env
+*.env
+!.env.example
+
+# Vector store (regenerated from data/)
+chroma_db/
+
+# Logs
+*.log
+app.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build / cache
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+
+# Generated PDFs (rebuilt from TXT)
+# data/**/*.pdf  # keep PDFs committed for assignment requirement
+
+# Local secrets
+deployment/secrets/
+*.pem
+*.key

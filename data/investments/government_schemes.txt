@@ -1,0 +1,314 @@
+GOVERNMENT SAVINGS SCHEMES — PPF, NSC, SSY, SCSS, KVP, MIS, FRSB
+
+OVERVIEW
+The Government of India offers a basket of small savings schemes that provide assured returns backed by sovereign guarantee. These schemes are distributed through banks (most schemes) and post offices (all schemes), and feature attractive interest rates that are revised quarterly by the Ministry of Finance. They are particularly suitable for risk-averse investors, retirees, and tax planning. All rates below are indicative as of FY 2024-25; rates may change quarterly, verify with bank/post office.
+
+PUBLIC PROVIDENT FUND (PPF)
+
+Tenure: 15 years (extendable in 5-year blocks indefinitely)
+
+Interest Rate: 7.1% p.a. (compounded annually, credited at year-end). Government revises quarterly; has been 7.1% for several quarters as of FY24-25.
+
+Investment Limits:
+- Minimum: ₹500 per year
+- Maximum: ₹1,50,000 per year (combined across all PPF accounts of an individual)
+- Investment can be in lump sum or up to 12 installments
+
+Eligibility:
+- Any resident Indian individual (one account per person)
+- Minor account allowed; combined limit applies with parent
+- NRIs cannot open new PPF; existing PPF before becoming NRI can continue till maturity
+- HUF cannot open PPF
+
+Tax Benefits (Triple Exempt — EEE):
+- Contribution: Deductible under Section 80C up to ₹1.5 lakh
+- Interest: Fully tax-free
+- Maturity: Fully tax-free
+- One of the very few EEE instruments available
+
+Account Opening:
+- Banks: SBI, HDFC, ICICI, Axis, BoB, Canara, PNB, IOB and many others
+- Post offices nationwide
+- Online opening via net banking (for existing customers in some banks)
+
+Loan Facility:
+- Available from 3rd to 6th year of opening
+- Up to 25% of balance at end of 2nd year preceding loan year
+- Interest 1% above prevailing PPF rate
+- Repayable in 36 months
+
+Partial Withdrawal:
+- From 7th financial year onwards
+- Up to 50% of balance at end of 4th year preceding or current year, whichever is lower
+- Once per financial year
+
+Premature Closure:
+- Allowed after 5 years (only for specific reasons: serious illness, higher education, change of residency)
+- Interest penalty: 1% off the applicable PPF rate
+
+Extension after 15 years:
+- Option 1: Continue without further contribution; balance continues to earn interest
+- Option 2: Extend with continued contribution in blocks of 5 years (notify within 1 year of maturity)
+
+PPF is widely regarded as the cornerstone of long-term Indian savings — safe, tax-efficient, and stable.
+
+NATIONAL SAVINGS CERTIFICATE (NSC)
+
+Tenure: 5 years (fixed; no premature withdrawal except special circumstances)
+
+Interest Rate: 7.7% p.a. (compounded annually but paid out only at maturity).
+
+Investment:
+- Minimum: ₹1,000 and multiples of ₹100
+- Maximum: No upper limit
+- Standalone or jointly held
+
+Tax Benefits:
+- Contribution: Deductible under Section 80C up to ₹1.5 lakh
+- Interest earned each year (except final year) is deemed reinvested and qualifies for 80C
+- Final year interest: Taxable as "Income from Other Sources"
+- TDS: Not deducted; tax paid by investor
+
+Maturity: ₹100 invested today matures to approximately ₹144.84 at 7.7% over 5 years.
+
+Available at: All post offices, select banks (limited).
+
+Use Cases:
+- Tax-saving with assured return
+- Collateral for loans (can be pledged)
+
+Note: Tax-saver bank FDs and ELSS are alternative 80C instruments with similar/better features (ELSS has higher upside but market-linked risk).
+
+SUKANYA SAMRIDDHI YOJANA (SSY)
+
+For: Girl child up to 10 years of age
+
+Tenure: 21 years from account opening, or 18 years of girl, whichever earlier; contribution until 15 years from opening
+
+Interest Rate: 8.2% p.a. (compounded annually) — among the highest small-savings rates
+
+Investment:
+- Minimum: ₹250 per year
+- Maximum: ₹1,50,000 per year (combined across all SSY accounts)
+
+Maximum Accounts:
+- Two girl child per family (third if twins/triplets at second birth)
+- One account per girl
+
+Account Opening:
+- Banks (SBI, ICICI, HDFC, Axis, BoB, PNB, others)
+- Post offices
+- Documents: Girl child's birth certificate, parent's KYC
+
+Tax Benefits (EEE):
+- Contribution: Section 80C up to ₹1.5 lakh
+- Interest: Tax-free
+- Maturity: Tax-free
+- Best tax-saving option for girl child education / marriage
+
+Withdrawal:
+- 50% partial withdrawal allowed at age 18 for higher education
+- Full closure at marriage (after 18 years)
+- Maturity at 21 years from opening
+
+SSY is one of the most attractive long-term schemes due to 8.2% tax-free returns. Strongly recommended for families with a girl child.
+
+SENIOR CITIZEN SAVINGS SCHEME (SCSS)
+
+For: Indian residents aged 60+ (also 55-60 if retired with retirement benefits)
+
+Tenure: 5 years (extendable in 3-year blocks once)
+
+Interest Rate: 8.2% p.a. paid quarterly (one of the highest secured rates for seniors)
+
+Investment:
+- Minimum: ₹1,000
+- Maximum: ₹30,00,000 (raised from ₹15 lakh in Budget 2023; per individual, not combined for spouse)
+- One-time lump sum deposit
+
+Account Opening:
+- All major banks and post offices
+
+Tax Benefits:
+- Contribution: Section 80C up to ₹1.5 lakh
+- Interest: Fully taxable; TDS if interest > ₹50,000 (combined with savings/FD for senior under 80TTB; ₹50,000 deduction)
+
+Premature Withdrawal:
+- Allowed after 1 year (with penalty)
+- 1-2 years: 1.5% penalty
+- 2-5 years: 1% penalty
+
+Quarterly Payout:
+- Interest credited every quarter (Jan, Apr, Jul, Oct)
+- Provides regular income stream for retirees
+
+SCSS is the most popular retirement instrument for tax-paying seniors, offering 8.2% assured quarterly income.
+
+KISAN VIKAS PATRA (KVP)
+
+For: Any Indian individual or trust
+
+Tenure: 115 months (currently — adjusted by govt periodically based on rate); KVP doubles money
+
+Interest Rate: 7.5% p.a. (compounded annually) — implied yield such that ₹100 becomes ₹200 over 115 months
+
+Investment:
+- Minimum: ₹1,000
+- Maximum: No upper limit
+- Available in denominations of ₹1,000, ₹5,000, ₹10,000, ₹50,000
+
+Tax: Interest is taxable; no 80C benefit on contribution; no TDS
+
+Maturity: Lump sum payout
+
+Premature Encashment: Allowed after 2.5 years with reduced rate
+
+Available at: Post offices; some banks
+
+KVP is suited for those wanting an assured-doubling instrument without tax consideration.
+
+POST OFFICE MONTHLY INCOME SCHEME (POMIS)
+
+Tenure: 5 years
+
+Interest Rate: 7.4% p.a. paid monthly
+
+Investment:
+- Minimum: ₹1,500
+- Maximum: ₹9,00,000 single account; ₹15,00,000 joint account (raised from ₹4.5 lakh and ₹9 lakh in Budget 2023)
+
+Tax: Interest taxable; no 80C benefit
+
+Available at: All post offices (banks don't offer this)
+
+POMIS is similar to SCSS in nature (monthly income) but with lower interest and lower cap, available to any individual (not just seniors).
+
+POST OFFICE TIME DEPOSIT
+
+Tenure: 1, 2, 3, or 5 years
+
+Interest Rate:
+- 1 year: 6.9% p.a.
+- 2 year: 7.0%
+- 3 year: 7.1%
+- 5 year: 7.5%
+
+Investment: Minimum ₹1,000; no upper limit
+
+Tax: 5-year TD eligible for Section 80C deduction; interest taxable
+
+Available at: Post offices
+
+POST OFFICE RECURRING DEPOSIT
+
+Tenure: 5 years (extendable in 5-year blocks)
+
+Interest Rate: 6.7% p.a. (compounded quarterly)
+
+Investment: Minimum ₹100 per month
+
+Tax: No 80C; interest taxable
+
+(Detailed in recurring_deposit.txt)
+
+FLOATING RATE SAVINGS BONDS (FRSB) — RBI BONDS
+
+Tenure: 7 years (lock-in)
+
+Interest Rate: Floating, linked to NSC rate + 35 basis points; revised half-yearly. Currently ~8.05% p.a. paid semi-annually (Jan and Jul).
+
+Investment:
+- Minimum: ₹1,000 (in multiples)
+- Maximum: No upper limit
+
+Tax: Fully taxable (slab rate); TDS applicable if interest > ₹10,000
+
+Lock-in:
+- 7 years for general investors
+- Reduced lock-in for senior citizens (4-6 years depending on age):
+  - 60-70 years: 6 years
+  - 70-80 years: 5 years
+  - 80+ years: 4 years
+
+Available at: All major banks (SBI, HDFC, ICICI, Axis, BoB, etc.) and RBI's Retail Direct portal
+
+FRSB is attractive for those wanting high interest with sovereign guarantee and accepting the longer lock-in. Senior citizens benefit from reduced lock-in.
+
+PRADHAN MANTRI VAYA VANDANA YOJANA (PMVVY)
+Pension scheme for seniors offered via LIC. Now closed for fresh enrollment from March 2023. Existing policies continue.
+
+MAHILA SAMMAN SAVINGS CERTIFICATE
+Introduced in Budget 2023:
+- For women / girls only
+- Tenure: 2 years (one-time scheme; subscription window 2023-2025)
+- Interest: 7.5% p.a. (compounded quarterly)
+- Investment: ₹1,000 minimum, ₹2,00,000 maximum
+- Partial withdrawal allowed
+- Available at post offices
+
+ATAL PENSION YOJANA (APY)
+For unorganised sector / informal workers aged 18-40 years:
+- Guaranteed pension of ₹1,000 to ₹5,000 per month after age 60
+- Contribution varies based on entry age and chosen pension
+- Government co-contribution for first 5 years for eligible subscribers
+- Tax benefit under Section 80CCD
+- Open via banks (SBI, HDFC, ICICI, others) and post offices
+
+PRADHAN MANTRI JEEVAN JYOTI BIMA YOJANA (PMJJBY) and PRADHAN MANTRI SURAKSHA BIMA YOJANA (PMSBY)
+Government's flagship low-cost insurance schemes:
+- PMJJBY: ₹2 lakh life insurance for ₹436/year, age 18-50, renewable till 55
+- PMSBY: ₹2 lakh accident insurance for ₹20/year, age 18-70
+- Auto-debit from bank account
+- Major banks distribute these
+
+NATIONAL PENSION SYSTEM (NPS)
+- See investment document
+- Retirement-focused; market-linked
+- Tax benefit u/s 80CCD(1B) — ₹50,000 exclusive
+
+COMPARING SMALL SAVINGS SCHEMES — QUICK TABLE
+
+| Scheme | Rate | Tenure | Tax | Max Investment | Suitable For |
+|---|---|---|---|---|---|
+| PPF | 7.1% | 15 years | EEE | ₹1.5 lakh/yr | Long-term tax-free corpus |
+| NSC | 7.7% | 5 years | 80C, interest taxable | No limit | 5-yr tax saving |
+| SSY | 8.2% | 21 years | EEE | ₹1.5 lakh/yr | Girl child education |
+| SCSS | 8.2% | 5+3 years | 80C, interest taxable | ₹30 lakh | Senior citizens income |
+| KVP | 7.5% | 115 months | No tax break, interest taxable | No limit | Lump-sum doubling |
+| POMIS | 7.4% | 5 years | Interest taxable | ₹9 lakh / ₹15 lakh | Monthly income |
+| 5-yr POTD | 7.5% | 5 years | 80C, interest taxable | No limit | Tax-saving alternative to ELSS |
+| FRSB / RBI Bonds | ~8.05% | 7 years | Interest taxable | No limit | Long-term assured income |
+
+QUARTERLY RATE REVISION
+Small savings rates are reviewed every quarter by the Ministry of Finance:
+- Notification published end of each quarter for the next quarter
+- Based on G-sec yields + spread
+- Locked-in deposits earn at the rate prevailing at the time of investment (subsequent quarters affect new deposits only)
+- PPF and SSY rates apply for the year (or per government's interpretation)
+
+WHERE TO OPEN/INVEST
+
+Banks (most schemes):
+- SBI, HDFC, ICICI, Axis, BoB, PNB, Canara, IOB, etc.
+- Net banking integration for some schemes (PPF, SSY)
+- Branch visit for SCSS, FRSB
+
+Post Offices (all schemes):
+- Especially for KVP, POMIS, POTD, SCSS, RD, NSC
+- India Post Payments Bank (IPPB) — digital account complement
+
+Online aggregators / advisors:
+- ETMoney, Groww, Kuvera for tracking (not direct investment in govt schemes)
+
+TIPS
+
+1. Max out PPF (₹1.5 lakh/year) for tax-free long-term wealth
+2. Open SSY for girl child immediately on birth — 21 years of compounding at 8.2% tax-free is huge
+3. Use SCSS + POMIS for retirement (₹39 lakh combined — ₹30 lakh SCSS + ₹9 lakh POMIS single)
+4. NSC / 5-yr tax-saver FD for 80C if not using ELSS
+5. FRSB for retirement-stage income, especially seniors with reduced lock-in
+6. Diversify between government schemes (safety) and equity MF (growth)
+7. Set up automated deductions from savings account (PPF auto-debit)
+8. Track maturity dates and renew/reinvest promptly
+
+Rates may change, verify with bank/post office for current quarterly rates and detailed scheme features.

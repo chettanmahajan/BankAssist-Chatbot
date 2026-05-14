@@ -1,0 +1,325 @@
+FRAUD PROTECTION — REPORTING, ZERO LIABILITY, AND PREVENTION
+
+OVERVIEW
+Banking fraud is a serious threat in the digital age. India sees thousands of fraud reports daily — UPI scams, phishing, vishing, card skimming, identity theft, account takeover, fake loan offers, and more. The Reserve Bank of India (RBI) has built a strong customer protection framework around prompt reporting, limited customer liability, and aggressive investigation. Understanding these provisions and adopting best practices is essential.
+
+RBI'S LIMITED LIABILITY FRAMEWORK FOR UNAUTHORISED ELECTRONIC TRANSACTIONS
+RBI Circular: DBR.No.Leg.BC.78/09.07.005/2017-18 dated 6 July 2017.
+
+This circular codifies customer liability for unauthorised electronic banking transactions (including credit/debit card, internet banking, mobile banking, UPI). Three scenarios:
+
+SCENARIO 1 — Contributory fraud, negligence, or deficiency by the bank
+Examples:
+- Bank's faulty system or data breach
+- Bank employee's collusion or negligence
+- Inadequate authentication procedures
+Customer liability: ZERO, irrespective of whether customer reports or not.
+
+SCENARIO 2 — Third-party breach, neither bank nor customer at fault
+Examples:
+- Skimming at ATM/POS
+- Stolen card details from a merchant data breach
+- Fraudulent SIM swap and OTP interception
+Customer liability tiered by reporting time:
+- Within 3 working days of receiving communication from bank: ZERO liability
+- 4-7 working days: Limited per-transaction liability:
+  - BSBDA / Salary accounts: ₹5,000
+  - Credit card limits up to ₹5 lakh: ₹10,000
+  - Other savings accounts: ₹10,000
+  - Credit card limits > ₹5 lakh: ₹25,000
+- Beyond 7 working days: As per bank's board-approved policy (often higher)
+
+SCENARIO 3 — Customer's own negligence
+Examples:
+- Sharing PIN / OTP / CVV / password
+- Writing PIN on the card
+- Falling for phishing / vishing
+Customer liability: Bears entire loss UNTIL the unauthorised transaction is reported; after reporting, ZERO further liability.
+
+KEY TAKEAWAY: REPORT FAST. The faster you report (ideally within 3 working days), the more protected you are.
+
+HOW TO REPORT FRAUD — IMMEDIATE STEPS
+
+When you notice an unauthorised transaction (via SMS, email, statement):
+
+Step 1: Block the affected card / freeze the account
+- Call bank's 24×7 helpline (printed on back of card)
+- Use mobile app's "Block Card" or "Hotlist" feature
+- SMS short code (e.g., HDFC: SMS to 73070)
+- Net banking → Card Services → Block
+
+Step 2: Report the unauthorised transaction
+- Same channel as above
+- Submit written email/letter detailing transaction(s) within 3 days
+- Get acknowledgment with reference number
+
+Step 3: Bank starts investigation
+- Provisional credit may be issued
+- Investigation up to 90 days (RBI mandate)
+- Resolution communicated to customer
+
+Step 4: File FIR (mandatory for larger amounts)
+- Visit cyber police station
+- Provide all evidence
+- FIR copy strengthens bank's case for chargeback
+
+Step 5: Report to 1930 helpline (National Cybercrime Helpline)
+- 24×7 toll-free
+- Operated by Indian Cyber Crime Coordination Centre (I4C)
+- Quick reporting (within hours) significantly improves recovery chances
+- Funds can be frozen in the receiving account if reported fast
+
+Step 6: File complaint at cybercrime.gov.in
+- Online portal for cyber fraud
+- Integrated with police forces nationwide
+- Receive case reference for tracking
+
+Step 7: Communicate persistently with bank
+- Follow up every few days for resolution
+- Escalate to Nodal Officer / Internal Ombudsman if delay
+- Banking Ombudsman if not resolved in 30 days from your complaint
+
+TYPES OF BANKING FRAUD
+
+1. PHISHING
+Fake email pretending to be from bank/government, asking you to click a link and enter credentials or OTP. Common pretexts: KYC update, account suspended, refund pending, prize won.
+Prevention:
+- Never click links in unsolicited emails
+- Always type bank's URL manually
+- Look for HTTPS and the bank's exact domain
+- Banks don't ask credentials via email
+
+2. VISHING (VOICE PHISHING)
+Fraudster calls posing as bank/RBI/IT department/police, says your card is blocked / suspicious activity / verification pending; asks for OTP, CVV, PIN, or asks you to download a remote-access app.
+Prevention:
+- Banks and RBI NEVER call asking OTP/PIN/CVV
+- Hang up and call back on the official bank number
+- Never download AnyDesk, TeamViewer, QuickSupport on the call's instruction
+- RBI repeatedly publishes alerts: "No bank/RBI official asks for OTP"
+
+3. SMISHING (SMS PHISHING)
+SMS with fake bank link claiming KYC update, refund, account locked. Often contains shortened URLs.
+Prevention:
+- Don't click links in SMS
+- Forward suspicious SMS to bank's reporting number
+- Block sender
+
+4. UPI FRAUD VARIANTS
+- Fake "money request" pretending to send money but actually requesting payment
+- QR scan to "receive" money — UPI receiving does NOT need PIN; if you're asked to enter PIN, you're SENDING money
+- Fake customer care numbers: Google search for bank's number leads to fake; always use the bank's official app/website
+- Screen-mirroring apps that show fraudster your phone
+
+5. CARD SKIMMING
+- ATM card slot rigged with skimmer device
+- Camera captures PIN entry
+- Cloned card used for ATM withdrawal abroad (where chip-and-PIN not enforced)
+Prevention:
+- Inspect card slot for tampering (loose, bulky)
+- Cover keypad while entering PIN
+- Use bank lobby ATMs (better security)
+- Tokenise card details
+- Enable transaction alerts
+
+6. CARD TRAPPING
+ATM slot mechanically rigged to capture inserted card; fraudster retrieves later.
+Prevention:
+- Don't accept "help" from strangers
+- If card captured, call bank immediately, don't leave it for retrieval
+
+7. CHARGE BACKS AND CARD NOT PRESENT (CNP) FRAUD
+Stolen card details used online without OTP (foreign merchants) or via social engineering.
+Prevention:
+- Tokenisation
+- Disable international usage when not travelling
+- Set transaction limits
+- Use virtual card for risky online merchants
+
+8. ACCOUNT TAKEOVER
+Fraudster gains net banking credentials (phishing) and transfers out funds.
+Prevention:
+- Unique strong password
+- Two-factor authentication enforced
+- Beneficiary cooling period
+- Monitor login alerts
+
+9. SIM SWAP FRAUD
+Fraudster obtains duplicate SIM in your name (with KYC of fraudster's accomplice in mobile shop), intercepts OTPs.
+Prevention:
+- If your SIM suddenly stops working, immediately suspect SIM swap; call mobile operator
+- Bank's device-binding requires mobile app on registered phone
+- Use UPI PIN (additional layer beyond OTP)
+
+10. JOB OFFER / LOAN APPROVAL FRAUD
+Fake job consultant / loan provider asks for "processing fee" upfront. Never delivers.
+Prevention:
+- Genuine lenders never ask money upfront
+- Verify lender on RBI's list of NBFCs/banks
+- Avoid Telegram/WhatsApp loan apps from unverified sources
+
+11. INVESTMENT / TRADING FRAUD
+- Fake "guaranteed return" schemes
+- Bogus crypto / forex platforms
+- WhatsApp groups promising trading tips
+Prevention:
+- SEBI-registered intermediaries only
+- "Guaranteed return" is impossible — red flag
+- Don't share OTP / KYC docs with anyone
+
+12. FAKE BANK CALLS / FAKE BANK STAFF VISITS
+Person visits home claiming to be from bank for "account upgrade", asks for documents/cards.
+Prevention:
+- Banks don't send unsolicited home visits
+- Verify by calling the branch independently
+
+13. CHEQUE FRAUD
+- Cheque alteration (amount changed); mitigated by Positive Pay system
+- Forged signature; mitigated by signature verification systems
+- Cheque kiting; bank software detects patterns
+
+14. KYC EXPIRY / SUSPENSION SCAM
+SMS / call claiming KYC pending, account about to be frozen; share Aadhaar OTP to "update".
+Prevention:
+- KYC updates are done at bank, not via SMS link
+- Banks notify well in advance via formal letter / app notification
+
+15. CRYPTOCURRENCY / TRADING APP FRAUD
+Apps promising high returns disappear with deposits.
+Prevention:
+- Only RBI-regulated exchanges (if any) and SEBI-registered platforms
+- Verify on official sites
+
+PROTECTIVE TECHNOLOGIES DEPLOYED BY BANKS
+
+1. Two-factor authentication (RBI mandate since 2010 for online card transactions)
+2. EMV chip cards (anti-cloning)
+3. Tokenisation (effective Oct 2022)
+4. Device binding for mobile banking
+5. Risk-based AI fraud monitoring (Visa Advanced Authorisation, Mastercard Decision Intelligence)
+6. Geo-location validation
+7. Velocity checks (e.g., decline if too many transactions in short time)
+8. Behavioural biometrics (mobile typing pattern, swipe speed)
+9. Beneficiary cooling period (4-24 hours for new payees)
+10. Anti-phishing personal image at login
+11. Virtual keyboard for sensitive entry
+12. SMS / email transaction alerts
+13. Card controls in mobile app
+14. Daily / per-transaction limits user-configurable
+
+GOVERNMENT INITIATIVES AGAINST CYBER FRAUD
+
+1. National Cybercrime Reporting Portal (cybercrime.gov.in)
+- Online reporting of cyber crimes
+- Integrated with state police
+- Track case status
+
+2. 1930 Cybercrime Helpline
+- 24×7 toll-free
+- Quick reporting → fund freezing in fraud beneficiary account
+- Operated by I4C under MHA
+
+3. Indian Cyber Crime Coordination Centre (I4C)
+- Apex body for cyber crime
+- 7 verticals: investigation, R&D, training, prevention, awareness, victim support, partnerships
+
+4. Sanchar Saathi Portal
+- Block lost mobile, identify mobile connections in your name (against SIM swap)
+
+5. Chakshu Portal
+- Report suspicious telecom communications (calls, SMS) for action against fraud numbers
+- chakshu.sancharsaathi.gov.in
+
+6. CERT-In (Indian Computer Emergency Response Team)
+- National nodal agency for cyber security
+- Publishes vulnerability advisories
+
+PERSONAL SAFETY PROTOCOLS — 30-POINT CHECKLIST
+
+Account & Login:
+1. Use unique strong password for net banking (12+ chars, mixed)
+2. Change password every 90 days
+3. Use biometric login on mobile app
+4. Don't save passwords in browser
+5. Don't log in on public/shared computers
+6. Always log out
+7. Don't use public WiFi for banking
+8. Update banking app regularly
+
+Transaction:
+9. Never share OTP, CVV, PIN, password — banks NEVER ask
+10. Verify recipient before sending UPI / NEFT
+11. Don't enter UPI PIN to "receive" money — it's only for sending
+12. Set conservative daily transaction limits
+13. Enable real-time SMS + email alerts
+14. Disable international card usage when not abroad
+15. Don't use credit card for risky online merchants — use virtual card
+
+Communication:
+16. Don't click links in unsolicited SMS/email
+17. Don't trust caller ID — fraudsters can spoof
+18. Verify by calling bank's official number from bank website
+19. Don't install AnyDesk/TeamViewer on call's instruction
+20. Don't share screen with anyone over video
+21. Don't share account/card photos on social media
+
+Physical:
+22. Cover keypad at ATM
+23. Inspect ATM card slot for tampering
+24. Don't accept help at ATM from strangers
+25. Don't write PIN on card
+26. Don't leave card unattended at restaurants
+27. Shred old bank statements / card slips before disposal
+
+KYC & Identity:
+28. Don't share Aadhaar OTP with anyone
+29. Mask Aadhaar number on shared copies
+30. Monitor your CIBIL report monthly for unfamiliar inquiries
+
+WHAT TO DO IF YOU'VE BEEN DEFRAUDED
+
+Within first hour:
+- Call bank's 24×7 helpline; block card/account
+- Call 1930 cybercrime helpline
+- File complaint at cybercrime.gov.in
+- File written email to bank's grievance cell
+
+Within 3 days:
+- Submit written complaint to bank with all evidence
+- File FIR at cyber police station
+- Submit complaint at I4C portal
+- Inform mobile operator if SIM swap suspected
+- Submit chargeback request (for card transactions)
+
+Within 30 days:
+- Bank should resolve and credit (zero liability if reported fast)
+- If unresolved, escalate to Nodal Officer
+
+Within 1 year:
+- File Banking Ombudsman complaint if bank unresponsive
+- Consult lawyer for civil suit if loss substantial
+
+PRESERVE EVIDENCE
+- SMS / email alerts (forward to your email; don't delete)
+- Screen recordings of fraudulent calls if possible
+- Bank statements showing transactions
+- Communication trail with bank
+- Police FIR copy
+- Acknowledgment numbers from various authorities
+
+INSURANCE FOR CYBER FRAUD
+Some banks bundle cyber fraud insurance with premium debit/credit cards (₹50,000-₹3 lakh coverage). Separate cyber insurance products are also available (₹25 lakh-₹1 crore coverage for individuals; HDFC ERGO, ICICI Lombard, Bajaj Allianz offer these). Premium ₹500-₹5,000 per year.
+
+PSYCHOLOGICAL ASPECT — DON'T PANIC
+Fraudsters exploit panic. If you receive a call saying "your account is at risk, transfer to a safe account immediately" — this is fraud. RBI / banks NEVER ask such things. Hang up, take a breath, call back via official number.
+
+For RBI's customer awareness initiatives:
+- rbi.org.in → Customer Education → BE-AWARE booklet
+- Common Reporting and Complaints Centre — 14448
+- "RBI Says" alerts via social media
+
+For latest fraud trends and prevention tips:
+- IBA (Indian Banks' Association) advisories
+- Bank's own awareness videos / blogs
+- Reserve Bank of India's BSahab campaign
+
+Rates and procedures may change, verify with bank / RBI / I4C. The single most important rule: REPORT FAST. Speed of reporting determines liability and recovery prospects. Stay vigilant, stay protected.

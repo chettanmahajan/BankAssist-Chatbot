@@ -1,0 +1,225 @@
+BANKING CHARGES — COMPREHENSIVE FEE GUIDE
+
+OVERVIEW
+Banks earn revenue partly through fees for various services. RBI mandates transparent disclosure of all charges in the "Schedule of Charges" available on each bank's website and at branches. Customers should understand these charges to optimise their banking costs. The following lists the most common charges across Indian banks. All figures are indicative as of FY 2024-25; rates may change, verify with bank.
+
+ACCOUNT MAINTENANCE CHARGES
+
+Non-Maintenance of Average Monthly Balance (AMB) / Average Quarterly Balance (AQB):
+- Public sector banks: ₹50-₹500 per month based on shortfall and location (metro/urban/semi-urban/rural)
+- Private banks (HDFC, ICICI, Axis, Kotak): ₹150-₹600 per month, tiered by shortfall percentage
+  - Shortfall up to 50%: ₹150-₹300
+  - Shortfall 50%-75%: ₹300-₹450
+  - Shortfall >75%: ₹450-₹600
+- BSBDA (Jan Dhan) and salary accounts: NO penalty for non-maintenance
+- Senior citizen accounts: Reduced or nil penalty in many banks
+- GST 18% on all such fees
+
+Account opening: FREE at all banks for individual accounts.
+
+Account closure:
+- Within 14 days of opening: FREE
+- After 14 days to 12 months: ₹100-₹1,000 depending on bank
+- After 12 months: FREE in most banks
+- Premature closure of NRO/NRE/Wealth accounts: May have additional unwinding fees
+
+DEBIT CARD CHARGES
+
+Card issuance fee:
+- Classic: ₹100-₹200
+- Gold: ₹300-₹500
+- Platinum: ₹500-₹1,000
+- Signature/Business: ₹1,000-₹1,500
+- Plus GST 18%
+
+Annual maintenance fee: Similar to issuance amount each year from second year onwards.
+
+Replacement card (lost/stolen): ₹100-₹500
+Replacement card (damaged, first request): Often free
+Duplicate PIN: ₹50-₹100 at branch; FREE via app/net banking (OTP-based)
+PIN regeneration at ATM: ₹50-₹100 if at other bank
+
+ATM TRANSACTION CHARGES (RBI MASTER FRAMEWORK)
+Free transactions per month (own bank): 5 (any city)
+Free transactions per month (other bank):
+- Metro (Mumbai, Delhi, Chennai, Kolkata, Bengaluru, Hyderabad): 3
+- Non-metro: 5
+
+Beyond free limits:
+- Financial transaction (cash withdrawal): ₹21 per transaction (revised to ₹23 effective May 2025)
+- Non-financial transaction (balance, mini-statement, PIN change at other bank): ₹6-₹10
+- Plus GST 18%
+
+International ATM withdrawal: ₹125-₹300 per transaction + forex markup 3.5%
+International balance inquiry: ₹25-₹50 + forex markup
+
+CHEQUE-RELATED CHARGES
+
+Cheque book issuance:
+- First 25-30 cheques per year: FREE (savings account)
+- Beyond free: ₹2-₹5 per leaf, packaged ₹50-₹250 per booklet (25-50 leaves)
+- Current account: Liberal supply; charges similar beyond free limit
+
+Cheque return (insufficient funds):
+- Inward (cheque deposited returned): ₹150-₹350
+- Outward (cheque issued returned): ₹200-₹500
+- Plus GST 18%
+- Repeat bounces in same account may attract higher charges, account scrutiny, and CIBIL impact
+
+Cheque deposit returned (wrong information): ₹100-₹200
+
+Stop payment instruction:
+- Single cheque: ₹100-₹300
+- Series of cheques: ₹200-₹500 + ₹50 per cheque
+- Via net banking: Often half the branch fee
+
+Cheque collection (outstation):
+- Local clearing zone: FREE (CTS — Cheque Truncation System)
+- Outstation: ₹50-₹150 depending on amount slab; many banks waived in recent years
+
+DEMAND DRAFT (DD) CHARGES
+DD up to ₹10,000: ₹50-₹100
+DD ₹10,001-₹1 lakh: ₹2-₹3 per ₹1,000 (minimum ₹100, maximum ₹300)
+DD above ₹1 lakh: ₹2 per ₹1,000 (max ₹500-₹1,000)
+DD via online net banking: 50% discount typically; ₹25-₹150
+DD cancellation: ₹50-₹100
+Duplicate DD (lost): ₹100-₹250
+GST 18% on all DD fees.
+
+NEFT, RTGS, IMPS CHARGES
+
+Net banking / mobile banking:
+- NEFT: FREE (RBI mandate since Jan 2020)
+- RTGS: FREE
+- IMPS:
+  - Up to ₹1,000: ₹2.50
+  - ₹1,001-₹10,000: ₹3-₹5
+  - ₹10,001-₹1 lakh: ₹5-₹15
+  - ₹1 lakh-₹5 lakh: ₹15-₹25
+  - Plus GST 18%
+- UPI: FREE
+
+Branch (in-person):
+- NEFT:
+  - Up to ₹10,000: ₹2.50
+  - ₹10,001-₹1 lakh: ₹5
+  - ₹1 lakh-₹2 lakh: ₹15
+  - Above ₹2 lakh: ₹25
+- RTGS (₹2 lakh+ only):
+  - ₹2-₹5 lakh: ₹25
+  - Above ₹5 lakh: ₹50
+- Walk-in NEFT (no account): Higher charges + ₹50,000 transaction limit
+
+STANDING INSTRUCTION (SI) CHARGES
+- SI setup via net banking: FREE
+- SI setup at branch: ₹100-₹200
+- SI failure (due to insufficient funds): ₹100-₹250 + GST
+- SI modification: ₹50-₹100
+
+PASSBOOK AND STATEMENT CHARGES
+- Passbook: FREE; update at branch on request
+- Duplicate passbook (lost): ₹100-₹300
+- e-Statement (monthly): FREE
+- Physical statement on request:
+  - Current year: ₹100-₹200
+  - Older than 1 year: ₹150-₹350
+- Year-end statement for tax filing: Often FREE
+
+SMS ALERT CHARGES
+- ₹15-₹25 per quarter (debited automatically)
+- ₹60-₹100 per year
+- BSBDA / Salary accounts: Often free
+- Free for senior citizens in some banks
+
+LOCKER CHARGES (SAFE DEPOSIT BOX)
+Locker rental is charged annually based on size:
+- Small: ₹1,000-₹2,000 / year
+- Medium: ₹2,500-₹4,500 / year
+- Large: ₹5,000-₹8,000 / year
+- Extra-large: ₹10,000-₹15,000 / year
+- Metro locations have higher rates than smaller cities
+- One-time security deposit / FD link: ₹10,000-₹50,000 depending on size
+- Locker access charges (after free limit of 10-12 visits per year): ₹50-₹150 per visit
+- Loss of key: ₹250-₹2,500 (for replacement)
+- GST 18% on locker rent
+
+PRE-PAYMENT, FORECLOSURE, AND LOAN-RELATED CHARGES (covered in loan documents)
+
+SIGNATURE VERIFICATION
+- Per verification at branch: ₹100-₹250
+- Used by employers, government departments, courts for verifying customer signature on documents
+
+ADDRESS / KYC UPDATE CHARGES
+- Update via net banking / app: FREE
+- Update at branch: FREE for genuine documents; ₹50-₹200 if multiple updates in short time
+- Re-KYC submission: FREE
+
+NACH / E-MANDATE FEES
+- Mandate registration: ₹50-₹100 per mandate
+- Mandate amendment: ₹50-₹100
+- Mandate cancellation: FREE typically
+
+INWARD CHEQUE COLLECTION (FOREIGN CHEQUE)
+For inward foreign currency cheque collection:
+- Up to USD 1,000 equivalent: USD 5-10 / ₹400-₹800
+- USD 1,000-10,000: USD 10-25
+- Above USD 10,000: USD 25-50 + ₹100 per cheque
+- Returned cheque: USD 20-50 (charges from foreign bank)
+
+CASH HANDLING CHARGES (CURRENT ACCOUNT)
+Free cash deposit/withdrawal limits (per month) tiered by AMB:
+- AMB ₹5,000-₹25,000: ₹5 lakh free, then ₹1-₹3 per ₹1,000
+- AMB ₹25,000-₹1 lakh: ₹10 lakh-₹25 lakh free
+- Premium AMB: ₹50 lakh-₹1 crore free
+Beyond free: Charges + GST
+
+GST APPLICABILITY
+Goods and Services Tax at 18% is applicable on most banking fees and charges, except:
+- Interest income from loans (exempt under GST)
+- Savings/FD interest payable to customers (exempt)
+- Deposit insurance premium
+
+CHARGES THAT BANKS CANNOT LEVY (KNOW YOUR RIGHTS)
+- Charges not disclosed in Schedule of Charges
+- Charges for services not rendered
+- Charges retrospectively from past dates
+- ATM transaction failure charges (if ATM didn't dispense cash but account was debited)
+- Penalty for delayed NEFT/RTGS that's bank's fault
+- Hidden mark-ups beyond disclosed forex rates
+
+NEW RBI / GOVERNMENT DIRECTIVES (Recent)
+- Zero charge on UPI P2P and P2M (most cases)
+- Zero charge on NEFT, RTGS via online channels
+- Cap on cheque return charges (₹500 max in some bank Boards)
+- Higher charges for repeat bounce
+- Mandatory display of charges on bank websites and branches
+- Penal interest on delays in dispute resolution
+
+HOW TO AVOID UNNECESSARY CHARGES
+
+1. Maintain AMB to avoid non-maintenance penalty
+2. Use net banking / mobile banking for NEFT/RTGS (FREE) instead of branch
+3. Use UPI for retail payments (FREE)
+4. Stick to your bank's ATM for the first 5 transactions per month
+5. Use ATMs in non-metros (5 free other-bank vs 3 in metros)
+6. Use online channels for cheque book, DD, statements
+7. Get e-statement instead of physical
+8. Use ECS / SI / AutoPay for recurring bills (avoid late fees)
+9. Opt for BSBDA if you can't maintain AMB
+10. Choose salary account if employed (zero AMB, free benefits)
+
+GRIEVANCE FOR WRONGLY LEVIED CHARGES
+- First approach branch manager
+- Submit written complaint with charge details, dates, supporting documents
+- Bank must respond within 30 days
+- If unresolved, escalate to Nodal Officer
+- File complaint with RBI Banking Ombudsman via cms.rbi.org.in
+- Charges reversed if customer is found right; bank may face penal interest in clear cases
+
+CHARGES VARY BY BANK
+The above are general indicative ranges. Each bank publishes its own Schedule of Charges:
+- Check on the bank's website under "Customer Service" or "Tariff"
+- Updated periodically; latest version is binding
+- Notification of any increase typically given 30 days in advance
+
+Rates may change, verify with your bank's current Schedule of Charges — this is the authoritative document for your account.

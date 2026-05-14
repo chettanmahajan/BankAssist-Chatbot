@@ -1,0 +1,179 @@
+UPI (UNIFIED PAYMENTS INTERFACE) — COMPLETE GUIDE
+
+OVERVIEW
+The Unified Payments Interface (UPI) is India's revolutionary real-time inter-bank payment system, developed by the National Payments Corporation of India (NPCI) and launched in April 2016. UPI allows instant money transfer between bank accounts using a smartphone, 24×7, including holidays, with no transfer fee for personal transactions. UPI has transformed payments in India and is now the world's largest real-time payment system by transaction volume. Major UPI apps include PhonePe, Google Pay, Paytm, BHIM, Amazon Pay, WhatsApp Pay, and bank-specific apps from SBI, HDFC, ICICI, Axis, and others. Rates and limits are indicative; verify with bank/NPCI for latest.
+
+HOW UPI WORKS
+UPI uses a unique identifier called Virtual Payment Address (VPA) or UPI ID — looks like name@bank or name@upi (e.g., chetan@okhdfcbank, 9876543210@paytm). To send money:
+1. Open UPI app, link your bank account (one-time setup with debit card details to set UPI PIN)
+2. Enter recipient's UPI ID, bank account + IFSC, mobile number, or scan QR code
+3. Enter amount and note (optional)
+4. Authorise with your 4-6 digit UPI PIN
+5. Money debited from your bank account and credited to recipient's bank account instantly
+6. Both sender and recipient receive SMS confirmation
+
+UPI works on the IMPS (Immediate Payment Service) rails managed by NPCI for instant settlement. Unlike NEFT/RTGS, UPI does not require entering long account numbers and IFSC codes — VPA / mobile / QR is enough.
+
+UPI LIMITS (INDICATIVE)
+NPCI sets transaction limits and banks may apply lower internal limits.
+
+Per Transaction Limit:
+- Standard: ₹1,00,000 per transaction
+- Capital markets (mutual funds, brokers, insurance, credit card payment to own card): ₹2,00,000
+- IPO subscriptions, retail direct G-sec: ₹5,00,000
+- Education and healthcare payments to verified merchants: ₹5,00,000 (raised in late 2023)
+- Tax payments (income tax, GST): ₹5,00,000 per transaction
+
+Daily Limit:
+- Standard: ₹1,00,000 cumulative (across all UPI transactions in a day)
+- Banks may have lower limits for new customers / new VPAs (₹5,000-₹25,000 first 24 hours)
+- Some banks allow ₹2,00,000 daily for verified customers
+
+UPI 123Pay (for feature phones):
+- ₹10,000 per transaction
+- Uses IVR (calling a specific number) instead of app — for non-smartphone users
+
+UPI LITE (small-value, low-friction):
+- Wallet within UPI, pre-loaded up to ₹2,000
+- Per transaction ₹500 (raised to ₹1,000 in some banks)
+- Daily debit ₹4,000 from UPI Lite wallet
+- No UPI PIN required for these small transactions (already authorised at wallet load stage)
+- Reduces server load and fits offline scenarios
+
+NUMBER OF TRANSACTIONS:
+No NPCI limit on count; banks may apply 10-20 transactions per day per VPA for fraud control.
+
+P2P (PEER-TO-PEER) PAYMENTS
+- Free for sender and recipient (RBI/NPCI mandate — no merchant discount rate on P2P)
+- Bank-to-bank settlement instant
+- Cannot be reversed once successful — verify recipient before authorising
+
+P2M (PEER-TO-MERCHANT) PAYMENTS
+- Free for users on UPI (no MDR on UPI payments to merchants as per government waiver effective 2020)
+- Merchants accept via QR code (BharatQR / static / dynamic UPI QR)
+- Merchant fees: Earlier 0%, government subsidises through PIDF / DSF
+- Merchants get instant credit in their bank account
+
+UPI AUTOPAY
+A recurring mandate facility introduced in 2020. Allows users to authorise periodic auto-payments:
+- Subscription services: Netflix, Amazon Prime, Spotify, Hotstar
+- Bills: Electricity, gas, water, mobile, broadband
+- Insurance premiums
+- Mutual fund SIPs
+- Loan EMIs (some banks)
+- OTT and digital subscriptions
+
+How it works:
+1. Merchant requests AutoPay mandate during checkout
+2. User authorises one-time with UPI PIN
+3. Mandate created — specifies max amount, frequency (daily/weekly/monthly), validity
+4. On each due date, debit happens automatically, with 24-hour pre-debit notification to user
+5. User can cancel mandate anytime from UPI app
+- Max amount: ₹15,000 per AutoPay without additional authentication (raised from ₹5,000)
+- Above ₹15,000: Two-factor authentication for each debit
+
+UPI ON CREDIT CARDS (UPI CC)
+Launched in 2022, allowing credit cards to be linked to UPI apps. Currently supports RuPay credit cards from select banks (HDFC, ICICI, Axis, BoB, Yes, IDFC, Canara, etc.). Features:
+- Pay merchants via UPI but charged to credit card (not bank account)
+- Earn credit card reward points (some cards exclude UPI-CC from rewards)
+- 30-50 day interest-free credit
+- MDR applies on merchant side for amounts above ₹2,000 (small merchants exempt); 1.1% capped
+- Useful for users wanting credit card convenience with UPI's wide acceptance
+- Daily limit similar to UPI standard
+
+UPI INTERNATIONAL
+UPI has been rolled out internationally for:
+- Inbound foreign tourists to India (Singapore, UAE, France, Mauritius, Bhutan, Nepal, Sri Lanka linkages)
+- Indian travelers can pay abroad using UPI in select countries (Singapore PayNow integration, France Eiffel Tower pilot, etc.)
+- NRI accounts: NRE accounts can use UPI for inward/outward transfers (subject to bank enablement)
+
+KEY UPI APPS
+1. PhonePe: Largest market share; strong merchant network; investment products
+2. Google Pay: Second largest; strong UX; rewards via scratch cards
+3. Paytm: Wallet + UPI + payments bank; merchant focus
+4. BHIM: NPCI's official app; basic but reliable; supported by government
+5. Amazon Pay: Bundled with Amazon shopping; cashback offers
+6. WhatsApp Pay: Within WhatsApp; convenient but slower adoption
+7. Bank apps: SBI YONO, HDFC PayZapp, ICICI iMobile, Axis Mobile, Kotak Mobile, etc.
+
+SECURITY FEATURES
+- UPI PIN: 4-6 digit secret entered at app, never typed at merchant
+- Device binding: UPI registered to specific mobile number + device; new device requires re-registration
+- SMS to registered number for UPI ID setup and PIN change
+- Transaction notifications via app, SMS, email
+- Fraud detection: NPCI's central monitoring flags suspicious patterns
+- Cooling period for new VPA / device: lower limits for 24-72 hours
+
+UPI PIN
+- Set at registration using debit card last 6 digits + expiry + OTP, OR Aadhaar-based OTP
+- Used to authorise every UPI debit (except UPI Lite small amounts)
+- Can be changed anytime via app
+- Forgot PIN: Reset via app → bank verifies via debit card or Aadhaar
+
+QR CODES
+- Static QR: Permanent printed code at merchant for accepting payments — buyer scans, enters amount, pays
+- Dynamic QR: Generated for specific transaction amount — buyer just scans and authorises
+- BharatQR: Interoperable QR standard supporting UPI, RuPay, Visa, Mastercard, Amex
+- UPI QR: NPCI-specific; UPI-only
+
+UPI vs. IMPS vs. NEFT vs. RTGS — QUICK COMPARISON
+| Feature | UPI | IMPS | NEFT | RTGS |
+|---|---|---|---|---|
+| Speed | Instant | Instant | 30 min-batch | Instant (real-time) |
+| Availability | 24×7 | 24×7 | 24×7 (since Dec 2019) | 24×7 (since Dec 2020) |
+| Limit per txn | ₹1 lakh-₹5 lakh | ₹5 lakh | No limit (₹50,000 for first txn to new beneficiary at branch) | ₹2 lakh minimum, no upper |
+| Charges | Free | ₹2-₹15 | Free (online) | Free (online) |
+| Identifier | VPA/QR/mobile | Mobile + MMID, or Acc + IFSC | Acc + IFSC | Acc + IFSC |
+| Use case | Daily payments, retail | Mid-value, urgent | Routine retail | Large-value (₹2 lakh+) |
+
+UPI FOR MERCHANTS
+- Free acceptance for transactions up to ₹2,000 (MDR fully borne by government / waived)
+- Above ₹2,000: 0% on RuPay/UPI P2M (government waived MDR for UPI)
+- Instant settlement to merchant bank account
+- No POS hardware needed (QR code suffices)
+- SoundBox/SmartSpeaker devices announce payment received (Paytm SoundBox, PhonePe Speaker)
+- Reconciliation tools via app or merchant portal
+- Settlement reports for accounting
+
+UPI FAILED / PENDING TRANSACTIONS
+If amount is debited but not credited to recipient:
+- Most transactions auto-reverse within minutes
+- For pending status (over 24 hours): Raise dispute in UPI app; bank investigates
+- NPCI Online Dispute Resolution (UDIR) framework ensures complaints are addressed within T+3 days
+- Mandatory chargeback timeline: T+5 days for refund
+
+UPI CHARGES (CURRENT STATUS FY 2024-25)
+- P2P (personal): FREE
+- P2M up to ₹2,000 via PPI (Prepaid Payment Instrument like Paytm wallet) loaded on UPI: 1.1% interchange (paid by merchant, not user)
+- Standard P2M (bank account → merchant UPI ID): FREE (no MDR)
+- UPI on credit cards (UPI-CC): MDR applies on merchant for transactions above ₹2,000 (small merchant exemption)
+
+CHALLENGES AND COMMON ISSUES
+- Bank server down: Transaction fails or pending; retry or switch bank app
+- VPA blocked: Contact bank, may be due to suspicious activity flag
+- PIN forgotten: Reset via debit card details
+- Wrong UPI ID typed: Money may be credited to a different person; raise dispute, but reversal depends on recipient
+- App registration not working: Mobile number may not be registered with bank; visit branch to update
+- Transaction limit hit: Wait for next day or use NEFT/RTGS
+
+GOVERNMENT INITIATIVES PROMOTING UPI
+- Zero MDR on UPI: Effective Jan 2020
+- BHIM Aadhaar Pay: Cash withdrawal at merchant via Aadhaar fingerprint
+- DigiDhan Mission: Promoting digital payments
+- ONDC integration with UPI for e-commerce
+- Cross-border UPI rollout
+- UPI 2.0, UPI Lite, UPI 123Pay expansions
+
+PRECAUTIONS / SAFETY TIPS
+1. Never share UPI PIN with anyone — banks/UPI apps NEVER ask
+2. Verify recipient before sending — name displayed should match expectation
+3. Don't enter UPI PIN to "receive" money — UPI PIN is only for sending, never receiving
+4. Beware of fake QR codes pasted over genuine ones
+5. Don't scan QR codes from unknown sources
+6. Don't click links in suspicious SMS/WhatsApp claiming UPI rewards or refunds
+7. Enable transaction alerts (SMS + email)
+8. Set UPI app lock with biometric / PIN within the app
+9. Don't store screenshots of UPI PIN or VPA setup
+10. Report fraud immediately to bank and cybercrime.gov.in / 1930
+
+UPI is free, instant, secure, and ubiquitous — but only as safe as your own vigilance. Rates and limits may change, verify with bank/NPCI for current details.

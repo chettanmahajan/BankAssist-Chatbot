@@ -1,0 +1,72 @@
+name: Deploy to EC2
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-ec2
+  cancel-in-progress: false
+
+jobs:
+  lint:
+    name: Compile check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Syntax check
+        run: |
+          python -m compileall backend frontend -q
+          echo "syntax OK"
+
+  deploy:
+    name: SSH deploy to EC2
+    needs: lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          port: 22
+          script_stop: true
+          script: |
+            set -euo pipefail
+            APP_DIR="/home/ubuntu/banking-chatbot"
+            cd "$APP_DIR"
+
+            echo "[deploy] git pull"
+            git fetch --all
+            git reset --hard origin/main
+
+            echo "[deploy] install any new requirements"
+            "$APP_DIR/venv/bin/pip" install -r backend/requirements.txt
+            "$APP_DIR/venv/bin/pip" install -r frontend/requirements.txt
+
+            # Rebuild index only if data/ changed since last successful build
+            if git diff --name-only HEAD@{1} HEAD | grep -q '^data/'; then
+                echo "[deploy] data/ changed - rebuilding vector store"
+                "$APP_DIR/venv/bin/python" -m backend.build_index --clean
+            fi
+
+            echo "[deploy] restart services"
+            sudo systemctl restart banking-backend.service
+            sudo systemctl restart banking-frontend.service
+
+            echo "[deploy] wait for backend healthy"
+            for i in $(seq 1 30); do
+                if curl -fsS http://127.0.0.1:8000/health >/dev/null; then
+                    echo "[deploy] ✓ backend healthy"
+                    exit 0
+                fi
+                sleep 2
+            done
+            echo "[deploy] ✗ backend did not become healthy" >&2
+            sudo systemctl status banking-backend --no-pager || true
+            exit 1

@@ -1,0 +1,265 @@
+LIFE INSURANCE — TYPES, PREMIUM, TAX BENEFITS
+
+OVERVIEW
+Life insurance is a contract between an insurer and policyholder where, in exchange for premiums, the insurer pays a defined sum (sum assured) to the nominee/beneficiary on the death of the insured during the policy term, or in some products at maturity. Life insurance in India is regulated by the Insurance Regulatory and Development Authority of India (IRDAI). Banks act as bancassurance partners for life insurance companies — distributing policies in exchange for commission. The major life insurers in India are LIC, HDFC Life, ICICI Prudential, SBI Life, Max Life, Tata AIA, Bajaj Allianz Life, Birla Sun Life, Aditya Birla, PNB MetLife, Kotak Life. Rates and figures are indicative; rates may change, verify with insurer.
+
+TYPES OF LIFE INSURANCE
+
+1. TERM INSURANCE (PURE PROTECTION)
+
+What it is: Pure life cover for a specific term. Pays sum assured to nominee on death of insured during the term. No maturity benefit if insured survives the term.
+
+Key features:
+- Sum assured: ₹50 lakh-₹10 crore+ (recommendation: 15-20 times annual income)
+- Premium: Lowest among all life insurance products (₹500-₹2,500 per month for ₹1 crore cover)
+- Tenure: 10-40 years (most products offer up to age 75-99 for whole life options)
+- No maturity benefit (in pure term)
+- Return of Premium (TROP) variant: Premium refunded if insured survives — higher premium
+
+Why term insurance:
+- Maximum protection at lowest cost
+- Sole purpose: Financial security for family in case of insured's death
+- Recommended as primary life insurance
+
+Riders (add-ons):
+- Accidental death benefit (additional ₹50 lakh-₹1 crore)
+- Critical illness cover (cancer, heart attack, kidney failure, etc. — ₹10-50 lakh)
+- Permanent disability waiver of premium
+- Income benefit (regular payout to family for 10-15 years)
+- Terminal illness (advance payout if life expectancy < 12 months)
+
+Examples:
+- HDFC Click 2 Protect Super
+- ICICI iProtect Smart
+- Max Life Smart Term Plan Plus
+- Tata AIA Sampoorna Raksha Supreme
+- SBI eShield Next
+- Bajaj Allianz Life Smart Protect
+
+Best practice: Buy a pure term plan as primary cover; don't bundle with investment products.
+
+2. ENDOWMENT POLICIES
+
+What it is: Combines insurance + savings. Pays sum assured on death OR on maturity (whichever earlier). Endowment plans offer bonuses (with-profits) declared annually by the insurer.
+
+Key features:
+- Sum assured: ₹1 lakh-₹50 lakh typically
+- Premium: Significantly higher than term (5-10x for same cover)
+- Tenure: 5-30 years
+- Return: 4%-6% IRR typically (very low compared to PPF, ELSS)
+
+Why endowment is often a poor choice:
+- Low returns (4%-6%)
+- High commissions to bank/agent (first-year up to 35% of premium)
+- Cannot replicate the protection of pure term
+- Better to buy term + invest separately (term + ELSS + PPF combination delivers far better outcomes)
+
+Examples:
+- LIC New Endowment Plan
+- HDFC Sanchay Plus
+- SBI Life Smart Wealth Builder
+
+3. MONEY-BACK PLANS
+
+Variant of endowment with periodic survival benefits during the term. E.g., 20% of sum assured paid every 5 years, plus death benefit if insured dies.
+
+Returns and value similar to endowment — typically not the best use of money.
+
+4. WHOLE LIFE PLANS
+
+Provides life cover for entire lifetime (or up to age 99/100). Premium can be:
+- Limited pay: Pay for 5-15 years, cover continues till death
+- Single pay: One-time lump sum
+- Regular pay: Pay till death
+
+Higher premium; legacy planning instrument; less common today.
+
+5. ULIP (UNIT-LINKED INSURANCE PLAN)
+
+What it is: Insurance + Investment in mutual fund-like units. Premium is allocated partly to insurance (mortality charges) and rest invested in equity/debt funds chosen by policyholder.
+
+Key features:
+- Sum assured: 10x annual premium typically
+- Tenure: 10-20+ years
+- Returns: Market-linked (depends on chosen fund mix)
+- Charges:
+  - Premium allocation charge: 2-8% (mostly in early years)
+  - Mortality charge: For insurance component
+  - Fund management charge: 1.35% capped annually (IRDAI rule)
+  - Policy administration charge: ₹50-₹500/month
+- Lock-in: 5 years from inception (mandatory)
+- Surrender / partial withdrawal allowed after 5 years
+
+Pros:
+- Combines insurance and investment in one product
+- Tax-efficient (currently ULIP gains tax-free if premium ≤ ₹2.5 lakh/year)
+- Switch between debt and equity funds without tax incidence (within the policy)
+
+Cons:
+- High charges, especially in early years
+- Complex product, hard to compare with mutual funds
+- Aggressive mis-selling by banks/agents (commission-driven)
+- Better alternative: Term + ELSS / Index Fund separately
+
+Examples:
+- HDFC Life ProGrowth Plus
+- ICICI Pru Signature
+- Bajaj Allianz Goal Assure
+- SBI Life eWealth
+
+6. CHILD PLANS
+
+Designed to fund child's education or marriage. Either endowment, money-back, or ULIP structure with:
+- Waiver of premium on parent's death (insurance company pays remaining premium)
+- Maturity benefit coincides with child's educational milestones (age 18, 21)
+
+Examples:
+- HDFC Life YoungStar
+- ICICI Pru Smart Kid
+- LIC Jeevan Tarun
+
+Critique: Similar to other bundled insurance products — high cost, low return. Pure term + SIP in equity fund is more efficient.
+
+7. RETIREMENT / ANNUITY / PENSION PLANS
+
+Provides pension after retirement age (typically 50-70 years).
+
+Two phases:
+- Accumulation: Pay premiums during working years
+- Distribution: Receive regular pension (annuity)
+
+Types of annuity:
+- Immediate annuity: Pay lump sum, start receiving pension immediately
+- Deferred annuity: Pay over years, start receiving at later date
+- Annuity for life: Until death
+- Annuity for life + certain period (10/15/20 years guaranteed)
+- Joint life annuity: Until last spouse's death
+
+Examples:
+- LIC New Jeevan Akshay (immediate annuity)
+- HDFC Life Click 2 Retire
+- ICICI Pru Easy Retirement
+- SBI Life Saral Pension
+
+Critique: Annuity rates in India are low (6%-7%). NPS Tier-I (where 40% of corpus must buy annuity) is an alternative pathway.
+
+PREMIUM CALCULATION FACTORS
+Insurer's pricing considers:
+1. Age at entry — younger = lower premium
+2. Sum assured
+3. Policy term
+4. Gender — typically females get 5%-15% lower premium (longer life expectancy)
+5. Smoker / non-smoker — smokers pay 30%-60% more
+6. Health status, BMI, medical history
+7. Occupation — high-risk jobs (defence, mining) pay more
+8. Tobacco use, alcohol, lifestyle
+9. Medical tests if required (over certain age / sum assured)
+10. Premium payment frequency (annual cheapest; monthly with small loading)
+
+UNDERWRITING
+For sum assured above certain thresholds (typically ₹50 lakh), insurer conducts:
+- Medical tests (blood, urine, ECG, treadmill if older)
+- Income proof requirement (ITR for self-employed, salary slips for salaried)
+- Sum assured limited to 15-25x annual income
+- Detailed health questionnaire
+
+Honest declaration is critical:
+- Non-disclosure of material facts can lead to claim rejection
+- Under-declaration of smoking, pre-existing diseases is the leading cause of claim disputes
+
+TAX BENEFITS
+
+Section 80C:
+- Premium paid up to ₹1,50,000 deductible (across all eligible policies)
+- Sum assured must be at least 10x annual premium (post 2012 policies)
+- For 10x rule failure: deduction restricted to 10% of sum assured
+
+Section 10(10D):
+- Maturity proceeds tax-free if:
+  - Premium ≤ 10% of sum assured for policies issued after 1 April 2012
+  - Or other older threshold (e.g., 20% or 15% for earlier vintages)
+  - ULIPs with annual premium ≤ ₹2.5 lakh (post 1 Feb 2021 policies)
+  - Term insurance death benefit: Always tax-free
+- Death benefit: Always tax-free regardless of premium-SA ratio
+
+GST: 18% applied on premium portion (excluding mortality cost on certain policies); reduces effective premium yield.
+
+CLAIM PROCESS
+
+On death of insured:
+1. Nominee/beneficiary intimates insurer (toll-free, branch, online)
+2. Submit claim form with:
+   - Death certificate (original)
+   - Original policy document
+   - Insured's ID proof
+   - Nominee's ID proof
+   - Hospital records (if applicable)
+   - FIR / post-mortem (if accidental / unnatural death)
+3. Insurer reviews; may investigate for suspicious circumstances
+4. Decision within 30 days of complete documentation; payment within next 30 days
+5. Bank account credit (nominee's account)
+
+Claim Settlement Ratio (CSR):
+- Annual ratio of claims paid to claims received, published by IRDAI
+- Higher CSR = better insurer reliability
+- Most major insurers: 95%-99% CSR
+- Choose insurers with CSR > 95% and good claim experience
+
+DEATH CLAIM REJECTION REASONS
+1. Non-disclosure (smoking, disease, income, pre-existing condition)
+2. Suicide within first 1 year (death benefit refunded as premium paid back; full benefit from 2nd year, varies by policy)
+3. Lapsed policy (premium not paid; check grace period and revival)
+4. Material misrepresentation in proposal form
+5. Death from excluded perils (war, certain hazardous activities)
+
+INSURANCE LADDER
+A practical approach to determining life cover need:
+1. Calculate: 15-20x annual income + outstanding loans + future big expenses (children's education, marriage)
+2. Less existing assets, EPF, savings
+3. Difference = life cover required
+4. Buy term insurance for this amount
+
+Example:
+Annual income: ₹15 lakh
+Required cover: 20x = ₹3 crore
+Home loan outstanding: ₹50 lakh
+Children's education (future): ₹50 lakh
+Existing assets: ₹50 lakh
+Net cover needed: 3 + 0.5 + 0.5 - 0.5 = ₹3.5 crore
+
+For most middle-class earners, a ₹1-3 crore term plan suffices.
+
+WHEN AND HOW TO BUY
+
+Timing:
+- Buy as early as possible (premium locks in at younger age)
+- Healthy, non-smoker, young adult: Cheapest premium
+- Before major life decisions (marriage, child, home purchase)
+
+How:
+- Online: Direct from insurer's website (cheapest, no agent commission)
+- Insurance aggregators: PolicyBazaar, Coverfox, InsuranceDekho (compare premiums)
+- Bank: Convenient but higher premium due to commission
+- Agent: Personalised but commission-loaded
+
+PMJJBY — PRADHAN MANTRI JEEVAN JYOTI BIMA YOJANA
+Government's flagship low-cost life insurance:
+- ₹2 lakh life cover
+- Premium ₹436/year (auto-debited from bank account)
+- Age 18-50 at entry; renewable up to age 55
+- Available at all major banks (must have savings account)
+- Distributed under Jan Suraksha scheme
+
+KEY TAKEAWAYS
+1. Buy term insurance for protection
+2. Buy mutual funds / equity for investment
+3. Don't mix the two — endowment / ULIP usually underperform
+4. Choose insurer with high Claim Settlement Ratio
+5. Disclose ALL relevant information in proposal form
+6. Pay premium on time; check grace period
+7. Update nominee details when needed
+8. Inform nominee about policy existence
+9. Keep policy documents and digital copies safe
+10. Renew policies annually; review cover every 5 years for adequacy
+
+Rates may change, verify with insurer / IRDAI's Bima Bharosa for current product information. Insurance is the subject matter of solicitation; read all terms carefully before signing.
