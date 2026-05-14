@@ -17,7 +17,8 @@ ENV/
 !.env.example
 
 # Vector store (regenerated from data/)
-chroma_db/
+Faiss_db/
+faiss_index/
 
 # Logs
 *.log

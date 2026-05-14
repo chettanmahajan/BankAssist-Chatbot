@@ -145,7 +145,7 @@ with st.sidebar:
 
 st.title("Banking Support Assistant 🏦")
 st.caption(
-    "Powered by RAG (LangChain + ChromaDB + Groq Llama-3.3-70B). "
+    "Powered by RAG (LangChain + FAISS + Groq Llama-3.3-70B). "
     "Answers grounded in curated Indian banking documents."
 )
 

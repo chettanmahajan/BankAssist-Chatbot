@@ -24,9 +24,7 @@ logger = logging.getLogger(__name__)
 
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
 GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
-# Env var name kept as CHROMA_DIR for backwards-compat with existing .env files;
-# the path now holds a FAISS index (index.faiss + index.pkl).
-INDEX_DIR = os.getenv("VECTORSTORE_DIR") or os.getenv("CHROMA_DIR", "./faiss_index")
+INDEX_DIR = os.getenv("VECTORSTORE_DIR", "./Faiss_db")
 DATA_DIR = os.getenv("DATA_DIR", "./data")
 
 RETRIEVAL_K = int(os.getenv("RETRIEVAL_K", "5"))
